@@ -1,0 +1,758 @@
+@Article{west2000schlange,
+	author = {West, John Anthony},
+	title = {{Die Schlange am Firmament}},
+	journal = {{Die Weisheit des Alten Ägypten. Frankfurt aM (Zweitausendeins)}},
+	year = {2000},
+}
+
+@Book{Hornung91,
+	Address = {{Zürich, München}},
+	Isbn = {{3-7608-1036-5}},
+	Note = {{Mit Literaturhinw.}},
+	Publisher = {{Artemis & Winkler}},
+	author = {Hornung, Erik},
+	title = {{Die Nachtfahrt der Sonne : eine altägyptische Beschreibung des Jenseits}},
+	year = {1991},
+}
+
+@book{Teichmann99,
+	address = {{Stuttgard}},
+	edition = {{1.}},
+	publisher = {{Verlag Freies Geistesleben}},
+	author = {Teichmann, Frank},
+	title = {{Die ägyptischen Mysterien}},
+	year = {1999},
+}
+
+@misc{WikipediaIsis,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Isis}},
+	year = {2016},
+}
+
+@book{Graf10,
+	address = {{Königsdorf}},
+	edition = {{2.}},
+	publisher = {{Königsdorfer Verlag}},
+	author = {Graf von Saint-Germain, Leopold-Georg and Dietzfelbinger, Konrad},
+	title = {{Die hochheilige Trinosophia}},
+	year = {2010},
+}
+
+@book{Dietzfelbinger10,
+	address = {{Königsdorf}},
+	edition = {{3.}},
+	publisher = {{Königsdorfer Verlag}},
+	author = {Dietzfelbinger, Konrad},
+	title = {{Mysterienschulen}},
+	year = {2010},
+}
+
+@book{Meier86,
+	address = {{Basel}},
+	publisher = {{Litera Buch- und Verlags-Aktiengesellschaft}},
+	author = {Meier, A. Eugen},
+	title = {{Vogel Gryff}},
+	year = {1986},
+}
+
+@book{Kolpaktchy79,
+	address = {{Bern-München-Wien}},
+	edition = {{6.}},
+	publisher = {{Scherz Verlag für Otto Wilhelm Barth Verlag}},
+	author = {Kolpaktchy, Gregoire, Übersetz. },
+	title = {{Das  ägyptische Totenbuch}},
+	year = {1979},
+}
+
+@book{Derungs04,
+	address = {{Grenchen, Schweiz}},
+	edition = {{2. erweiterte Neuausgabe}},
+	publisher = {{edition amalia, }},
+	author = {Derungs, Kurt},
+	title = {{Geheimnisvolles Basel}},
+	year = {2004},
+}
+
+@book{Andrew06,
+	address = {{München}},
+	publisher = {{arsEdition GmbH}},
+	author = {Andrew, Ian and Harris, Nick and Ward, Helen and Lambert, Jonathan and Ta, Nghiem},
+	title = {{Ägypten}},
+	year = {2006},
+}
+
+@book{Brunner-Traut87,
+	address = {{Stuttgart}},
+	edition = {{4.}},
+	publisher = {{W. Kohlhammer GmbH}},
+	author = {Brunner-Traut, Emma},
+	title = {{Die alten Ägypter}},
+	year = {1987},
+}
+
+@book{Bauval98,
+	address = {{München}},
+	edition = {{Sonderausgabe}},
+	publisher = {{Paul List Verlag GmbH & Co KG}},
+	author = {Bauval, Robert and Handcock Graham},
+	title = {{Der Schlüssel der Sphinx}},
+	year = {1998},
+}
+
+@book{Bauval94,
+	address = {{München}},
+	publisher = {{Paul List Verlag GmbH & Co KG}},
+	author = {Bauval, Robert and Gilbert, Adrian},
+	title = {{Das Geheimnis des Orion}},
+	year = {1994},
+}
+
+@book{Paganini05,
+	address = {{Jestetten, Deutschland}},
+	edition = {{1.}},
+	publisher = {{Govinda-Verlag}},
+	author = {Paganini, Rico and Risi, Armin},
+	title = {{Die Giza-Mauer}},
+	year = {2005},
+}
+
+@book{S98,
+	address = {{Augsburg}},
+	publisher = {{Weltbild-Verlag GmbH}},
+	author = {Sandison, David},
+	title = {{Hieroglyphen}},
+	year = {1998},
+}
+
+@book{Wiese01,
+	address = {{Mainz am Rhein}},
+	publisher = {{Verlag Philipp von Zabern}},
+	author = {Wiese, Andrew},
+	title = {{Antikenmuseum Basel und Sammlung Ludwig Die ägyptische Abteilung}},
+	year = {2001},
+}
+
+@book{Lange78,
+	address = {{München}},
+	edition = {{Sonderausgabe}},
+	publisher = {{Hirmer-Verlag}},
+	author = {Lange, Kurt and Hirmer Max},
+	title = {{Ägypten}},
+	year = {1978},
+}
+
+@book{04,
+	address = {{Basel}},
+	editor = {Wiese, André and Brodbeck Andreas},
+	publisher = {{Antikenmuseum Basel und Sammlung Ludwig}},
+	title = {{Tutanchamun, Das goldene Jenseits}},
+	year = {2004},
+}
+
+@book{Unknown94,
+	address = {{San Francisco}},
+	edition = {{1.}},
+	publisher = {{Chronicle Books LLG}},
+	series = {{The Complete Papyrus of Ani}},
+	author = {Unknown, Scribes and Artists},
+	title = {{The egyptian Book of the Dead}},
+	year = {1994},
+}
+
+@proceedings{03,
+	address = {{Schäffern}},
+	organization = {{Edgar Cayce Gruppe Schweiz Zürich}},
+	publisher = {{Arcturus Verlag}},
+	title = {{Edgar Cayce und das antike Ägypten}},
+	year = {2003},
+}
+
+@book{Uxkull97,
+	address = {{Wuppertal}},
+	publisher = {{Rüggeberg-Verlag}},
+	author = {Uxkull von, Woldemar},
+	title = {{Eine Einweihung in alten Ägypten}},
+	year = {1997},
+}
+
+@book{Weden78,
+	address = {{Frankfurt am Main}},
+	edition = {{Originalausgabe}},
+	publisher = {{Fischer Taschenbuch Verlag GmbH}},
+	author = {Weden, Wilhelm and Spindler, Wolf},
+	title = {{Ägyptische Einweihung}},
+	year = {1978},
+}
+
+@book{Steiner92,
+	address = {{Dornach}},
+	edition = {{5.}},
+	publisher = {{Rudolf Steiner Verlag}},
+	series = {{GA 106}},
+	author = {Steiner, Rudolf},
+	title = {{Ägyptische Mythen und Mysterien}},
+	year = {1992},
+}
+
+@book{Blume13,
+	address = {{Filderstadt}},
+	edition = {{1.}},
+	publisher = {{sciebooks Verlag Zehra Blume}},
+	series = {{Freimaurer, Rosenkreuzer, Illuminaten}},
+	author = {Blume, Michael},
+	title = {{Symbole, Geschichte, Einfluss & Wirkung}},
+	volume = {2},
+	year = {2013},
+}
+
+@book{Steiner60,
+	address = {{Freiburg i. Breisgau}},
+	edition = {{3-}},
+	editor = {Lauer, Hans Erhard},
+	publisher = {{Novalis-Verlag}},
+	series = {{GA 105}},
+	author = {Steiner, Rudolf},
+	title = {{Welt, Erde und Mensch}},
+	year = {1960},
+}
+
+@book{Crowley85,
+	address = {{München}},
+	edition = {{3.}},
+	publisher = {{Urania Verlag}},
+	author = {Crowley, Aleister},
+	title = {{Das Buch Thoth (Ägyptischer Tarot)}},
+	year = {1985},
+}
+
+@book{Hornung97,
+	address = {{Augsburg}},
+	edition = {{Lizensausgabe}},
+	publisher = {{Weltbild Verlag GmbH}},
+	author = {Hornung, Erik},
+	title = {{Die Unterweltsbücher der Ägypter}},
+	year = {1997},
+}
+
+@book{von11,
+	edition = {{Faksimile}},
+	publisher = {{Nabu Press}},
+	author = {von Train, Joseph Karl},
+	title = {{Giuseppe balsamo, der  berüchtigste Abenteurer und Betrüger seines Zeitalters}},
+	year = {2011},
+}
+
+@book{Hagenbach12,
+	edition = {{Faksimile}},
+	publisher = {{Nabu Press}},
+	author = {Hagenbach, Karl Rudolf},
+	title = {{Jakob Sarasin und seine Freunde}},
+	year = {2012},
+}
+
+@book{von88,
+	address = {{Berlin}},
+	publisher = {{Berliner Handpresse}},
+	author = {von der Recke, Charlotta Elisabeth Konstantia},
+	title = {{Nachricht von des berüchtigten Cagliostro Aufenthalte in Mitau, im Jahre 1779, und von dessen dortigen magischen Operationen}},
+	year = {1988},
+}
+
+@book{Rotterdam14,
+	address = {{Stuttgart}},
+	publisher = {{Reclam}},
+	series = {{Reclams Universal-Bibliothek Nr. 1907}},
+	author = {Rotterdam, Erasmus von},
+	title = {{das Lob der Torheit}},
+	year = {2014},
+}
+
+@book{Rotterdam11,
+	address = {{Mainz}},
+	publisher = {{Dieterich'sche Verlagsbuchhandlung}},
+	author = {Rotterdam, Erasmus von},
+	title = {{Papst  Julius vor der Himmelstür}},
+	year = {2011},
+}
+
+@book{Bachofen75,
+	address = {{Frankfurt am Main}},
+	edition = {{1.}},
+	publisher = {{Suhrkamp Taschenbuch Verlag}},
+	author = {Bachofen, Johann Jakob},
+	title = {{Das Mutterrecht}},
+	year = {1975},
+}
+
+@book{Paracelsus12,
+	address = {{Waltrop}},
+	editor = {Hermetischer Bund},
+	publisher = {{Christof Uiberreiter Verlag}},
+	series = {{Sonderausgabe Nr VI}},
+	author = {Paracelsus},
+	title = {{Über die 5 Elemente}},
+	year = {2012},
+}
+
+@book{Brant13,
+	address = {{Wiesbaden}},
+	publisher = {{Matrixverlag GmbH}},
+	author = {Brant, Sebastian},
+	title = {{Das Narrenschiff}},
+	year = {2013},
+}
+
+@book{Hofmeier12,
+	address = {{Berlin & Basel}},
+	edition = {{1. Originalausgabe}},
+	publisher = {{Leonhard-Thurneysser-Verlag}},
+	series = {{secretBasel 5}},
+	author = {Hofmeier, Thomas},
+	title = {{Rufmord, Leonhard Thurneysser}},
+	year = {2012},
+}
+
+@book{Spaar13,
+	address = {{Basel}},
+	edition = {{1.}},
+	publisher = {{Futurum Verlag}},
+	author = {Spaar, Michaela},
+	title = {{Odilia}},
+	year = {2013},
+}
+
+@phdthesis{Tschacher00,
+	address = {{Aachen}},
+	school = {{Techn. Hochsch.}},
+	author = {Tschacher Werner},
+	title = {{Der Formicarius des Johannes Nider von 1437/38}},
+	year = {2000},
+}
+
+@book{Moore14,
+	address = {{Hamburg}},
+	edition = {{1.}},
+	publisher = {{Aurinia Verlag}},
+	author = {Moore, Robert and Gillette, Douglas},
+	title = {{König, Krieger, Magier, Liebhaber}},
+	year = {2014},
+}
+
+@book{Francia10,
+	address = {{München}},
+	publisher = {{nymphenburger i.d. F.A.Herbig Verlagsbuchhandlung GmbH}},
+	author = {Francia, Luisa},
+	title = {{Die Göttin im Federkleid}},
+	year = {2010},
+}
+
+@book{Frey10,
+	address = {{Köthen}},
+	publisher = {{Hemann-Joseph Emons Verlag}},
+	author = {Frey, N. James},
+	title = {{Wie man einen verdammt guten Roman schreibt}},
+	year = {2010},
+}
+
+@book{Frey11,
+	address = {{Köthen}},
+	publisher = {{Hermann-Joseph Emons Verlag}},
+	author = {Frey, N. James},
+	title = {{Wie man einen verdammt guten Roman schreibt 2}},
+	year = {2011},
+}
+
+@article{Eugster16,
+	author = {Eugster, Andreas},
+	title = {{Unfassbar, Die Geister, die ich rief}},
+	journal = {{Coopzeitung}},
+	number = {Nr. 43},
+	pages = {13-17},
+	year = {2016},
+}
+
+@book{Doughty16,
+	address = {{München}},
+	publisher = {{Verlag C.H. Beck oHG}},
+	author = {Doughty, Caitlin},
+	title = {{Fragen Sie Ihren Bestatter}},
+	year = {2016},
+}
+
+@misc{Wegmüller04,
+	howpublished = {{Orakelkarten}},
+	note = {{Königsfurt-Urania Verlag/PRO}},
+	author = {Wegmüller, Walter and Golowin, Sergius},
+	title = {{Zigeunertarot}},
+	year = {2004},
+}
+
+@misc{Crowley69,
+	howpublished = {{Orakelkarten}},
+	note = {{Königsfurt-Urania Verlag}},
+	author = {Crowley, Aleister},
+	title = {{Thoth Tarot}},
+	year = {1969},
+}
+
+@book{Hofmeier14,
+	address = {{Berlin & Basel}},
+	publisher = {{Leonhard-Thurneysser-Verlag}},
+	series = {{secretbasel 1.1}},
+	author = {Hofmeier, Thomas},
+	title = {{Hauptstadt der Alchemie}},
+	year = {2014},
+}
+
+@book{Hofmeier13,
+	address = {{Berlin & Basel}},
+	publisher = {{eonhard-Thurneysser-Verlag}},
+	series = {{secretBasel 2}},
+	author = {Hofmeier, Thomas},
+	title = {{Basels Ungeheuer}},
+	year = {2013},
+}
+
+@book{Hofmeier16,
+	address = {{Berlin & Basel}},
+	publisher = {{Leonhard-Thurneysser-Verlag}},
+	series = {{secretBasel 6}},
+	author = {Hofmeier, Thomas},
+	title = {{Über den Dächern Basels}},
+	year = {2016},
+}
+
+@book{Graber85,
+	address = {{Basel}},
+	publisher = {{Friedrich Reinhardt Verlag}},
+	author = {Graber, Rudolf},
+	title = {{Die Basler Fährengeschichten}},
+	year = {1985},
+}
+
+@book{Gerber08,
+	address = {{Basel}},
+	publisher = {{Friedrich Reinhardt Verlag}},
+	author = {Gerber, Kurt},
+	title = {{Spuk- und Hexengeschichten aus der Region Basel}},
+	year = {2008},
+}
+
+@book{Lendorf66,
+	address = {{Basel}},
+	publisher = {{Birkhäuser Verlag}},
+	author = {Lendorf, Gertrud},
+	title = {{Kleine Geschichte der Baslerin}},
+	year = {1966},
+}
+
+@book{Zihlmann-Märki10,
+	address = {{Zürich}},
+	publisher = {{Chronos-Verlag}},
+	author = {Zihlmann-Märki, Patricia},
+	title = {{"Gott gebe das wir das Liebe Engelein mit Freüden wieder sehen Mögen"}},
+	year = {2010},
+}
+
+@book{Pini00,
+	address = {{Basel}},
+	editor = {Staatskanzlei des Kantons Basel-Stadt},
+	publisher = {{Schwabe & Co AG Verlag}},
+	author = {Pini, Elena and Heyne, K. Andreas},
+	title = {{Beitreten oder nicht? Wie Basel zur Schweiz kam...}},
+	year = {2000},
+}
+
+@book{Egger90,
+	address = {{Basel}},
+	publisher = {{Buchverlag Basler Zeitung und Historisches Museum Basel}},
+	author = {Egger, Franz},
+	title = {{Basler Totentanz}},
+	year = {1990},
+}
+
+@book{Lienhard03,
+	address = {{Basel}},
+	publisher = {{Spalentor Verlag}},
+	author = {Lienhard, Christian and Widmer, Christiane},
+	title = {{Basler Basilisken}},
+	year = {2003},
+}
+
+@book{Hänni08,
+	address = {{Baden & München}},
+	publisher = {{AT Verlag}},
+	author = {Hänni, Pier},
+	title = {{Magischer Jura}},
+	year = {2008},
+}
+
+@book{Schweizer-Völker12,
+	address = {{Basel}},
+	edition = {{3.}},
+	publisher = {{Christoph Merian verlag}},
+	series = {{Band 2}},
+	author = {Schweizer-Völker, Edith and Schulte-Kellinghaus, Martin},
+	title = {{Mythische Orte am oberrhein}},
+	year = {2012},
+}
+
+@book{Merz99,
+	address = {{Aarau/Schweiz}},
+	edition = {{4.}},
+	publisher = {{AT Verlag}},
+	author = {Merz, Blanche},
+	title = {{Orte der Kraft in der Schweiz}},
+	year = {1999},
+}
+
+@book{Krause07,
+	address = {{Frankfurt am Main}},
+	edition = {{2.}},
+	publisher = {{Campus Verlag}},
+	author = {Krause, Arnulf},
+	title = {{Die Welt der Kelten}},
+	year = {2007},
+}
+
+@book{d'Aujourd'hui90,
+	address = {{Basel}},
+	edition = {{2.}},
+	publisher = {{chäologische Bodenforschung des Kantons Basel-Stadt}},
+	series = {{Sciptum zur Frühgeschichte Basels}},
+	author = {d'Aujourd'hui, Rolf},
+	title = {{Die Entwicklung Basels vom keltischen Oppidum zur hochmittelalterlichen Stadt}},
+	year = {1990},
+}
+
+@book{08,
+	address = {{Basel}},
+	editor = {archäologische Bodenforschung Basel-Stadt},
+	publisher = {{Christoph Merian Verlag}},
+	title = {{Unter uns, Archäologie in Basel}},
+	year = {2008},
+}
+
+@book{Storl14,
+	address = {{München}},
+	edition = {{1.}},
+	publisher = {{Kailash Verlag}},
+	author = {Storl, Wolf Dieter},
+	title = {{Die alte Göttin und ihre Pflanzen}},
+	year = {2014},
+}
+
+@book{Storl13,
+	address = {{Baden & München}},
+	edition = {{3.}},
+	publisher = {{AT Verlag}},
+	author = {Storl, Wolf-Dieter},
+	title = {{Der Bär}},
+	year = {2013},
+}
+
+@book{Roob96,
+	address = {{Köln}},
+	publisher = {{Benedikt Taschen Verlag}},
+	author = {Roob, Alexander},
+	title = {{Alchemie & Mystik}},
+	year = {1996},
+}
+
+@book{Hecht11,
+	address = {{Basel}},
+	editor = {archäologische Bodenforschung Basel-Stadt},
+	publisher = {{Christoph Merian Verlag}},
+	author = {Hecht, Yolanda and Niederhäuser, ANdreas},
+	title = {{Alltagskultur und Totenrituale der Kelten}},
+	year = {2011},
+}
+
+@book{Steiner75,
+	address = {{Dornach, Schweiz}},
+	edition = {{22.}},
+	editor = {Rudolf-Steiner-Nachlassverwaltung},
+	publisher = {{Rudolf Steiner Verlag}},
+	series = {{GA 10}},
+	author = {Steiner, Rudolf},
+	title = {{Wie erlangt man Erkenntnisse der höheren Welten?}},
+	year = {1975},
+}
+
+@book{14,
+	address = {{Basel}},
+	editor = {M.P. Steiner},
+	publisher = {{Edition Oriflamme}},
+	series = {{Faksimile von 1503}},
+	title = {{Das Corpus Hermeticum}},
+	year = {2014},
+}
+
+@misc{WikipediaThot,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Thot}},
+	year = {2016},
+}
+
+@misc{AnthrowikiThot,
+	howpublished = {{Internet}},
+	author = {Anthrowiki},
+	title = {{http://anthrowiki.at/Thot}},
+	year = {2016},
+}
+
+@misc{AnthrowikiCagliostro,
+	howpublished = {{Internet}},
+	author = {Anthrowiki},
+	title = {{http://anthrowiki.at/Graf_Alessandro_Cagliostro}},
+	year = {2016},
+}
+
+@misc{WikipediaCagliostro,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Alessandro_Cagliostro}},
+}
+
+@misc{WikipediaPerchta,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Perchta}},
+	year = {2016},
+}
+
+@misc{WikipediaFrauHolle,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Frau_Holle}},
+	year = {2016},
+}
+
+@misc{InternetNerthus,
+	howpublished = {{Anthrowiki}},
+	author = {Internet},
+	title = {{http://anthrowiki.at/Nerthus}},
+	journal = {{http://anthrowiki.at/Nerthus}},
+	year = {2016},
+}
+
+@misc{WikipediaEisenhans,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Der_Eisenhans}},
+	year = {2016},
+}
+
+@misc{WikipediaSilenos,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Silenos}},
+	year = {2016},
+}
+
+@misc{WikipediaSucellos,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Sucellus}},
+	year = {2026},
+}
+
+@misc{CeltoiwikiSucellos,
+	howpublished = {{Internet}},
+	author = {Celtoiwiki},
+	title = {{http://wiki.celtoi.org/Sucellus}},
+	year = {2016},
+}
+
+@book{Gödrich15,
+	address = {{Stuttgard}},
+	publisher = {{J. Ch. Mellinger Verlag GmbH}},
+	author = {Gödrich, Manfred},
+	title = {{Das Kloster Odilienberg als Zentrum des esoterischen CHristentums}},
+	year = {2015},
+}
+
+@book{Storl14,
+	address = {{München}},
+	edition = {{1.}},
+	publisher = {{Kailash Verlag}},
+	author = {Storl, Wolf-Dieter},
+	title = {{Die alte Göttin und ihre Pflanzen}},
+	year = {2014},
+}
+
+@article{Egger15-1,
+	author = {Egger Franz},
+	title = {{Der grosse Stadtplan von Matthäus Merian eine Utopie}},
+	journal = {{hmb magazin}},
+	volume = {4},
+	pages = {10-26},
+	year = {2015},
+}
+
+@article{Egger15,
+	author = {Egger, Franz},
+	title = {{Matthäus Merian d.Ä.}},
+	journal = {{hmb magazin}},
+	volume = {4},
+	pages = {6-9},
+	year = {2015},
+}
+
+@article{Hofmeierhmb,
+	author = {Hofmeier, Thomas},
+	title = {{Ansichtssache}},
+	journal = {{hmb magazine}},
+	volume = {4},
+	pages = {27-33},
+	year = {2015},
+}
+
+@article{Hofmeier15,
+	author = {Hofmeier Franz},
+	title = {{Ansichtssache}},
+	journal = {{hmb magazin}},
+	volume = {4},
+	pages = {27-33},
+	year = {2015},
+}
+
+@book{Schwarz23,
+	address = {{Basel}},
+	editor = {Gesellschaft zur Förderung des Guten und Gemeinnützigen},
+	publisher = {{Helbing & Lichtenhahn}},
+	series = {{Neujahrsblatt}},
+	author = {Schwarz Ferdinand},
+	title = {{Isaak Iselin, Jugend- und Bildungsjahre}},
+	volume = {101},
+	year = {1923},
+}
+
+@book{Rapp89,
+	address = {{Basel}},
+	editor = {Baumann & Cie, Banquiers},
+	publisher = {{Historisches Museum Basel}},
+	series = {{Basler Kostbarkeiten}},
+	author = {Rapp Buri Anna and Stucky-Schürer Monica},
+	title = {{Der Flachsland-Teppich}},
+	volume = {10},
+	year = {1989},
+}
+
+@misc{WikipediaIsteinerKlotz,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Isteiner_Klotz}},
+	year = {2017},
+}
+
+@misc{altbaselDavidJoris,
+	howpublished = {{Internet}},
+	author = {altbasel.ch geschichte},
+	title = {{http://www.altbasel.ch/dossier/david_joris.html}},
+	year = {2017},
+}
+

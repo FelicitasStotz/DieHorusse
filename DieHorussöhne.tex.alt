@@ -1,0 +1,385 @@
+\documentclass[10pt,titlepage,a5paper]{book}
+
+% \usepackage[babel,german=quotes]{csquotes}
+ 
+ \usepackage[ngerman]{babel}
+  \usepackage[utf8]{inputenc}
+%  \usepackage[T1]{fontenc}
+
+
+ \usepackage{graphicx}
+ \usepackage{geometry}
+ \usepackage{pstricks}
+ 
+%  \usepackage{lmodern}
+
+% \usepackage[style=numeric-comp,backend=bibtex]{biblatex}
+% \addbibresource{Bilbliothek.bib}
+ 
+
+ 
+ \pagestyle{plain}
+ 
+%\frenchspacing 
+
+\parindent0em 
+\parskip1.0ex plus 0.5ex minus 0.5ex
+% \sloppy
+
+\geometry{left=2.5cm,right=2cm,bottom=3.5cm,top=2.0cm}
+
+% \author{von\\[0.8ex]Felicitas Stotz}
+% \title{ Die Horussöhne}
+ 
+ \newcommand{\sterne}{\par{\centering ***\par}}
+
+ \newenvironment{tg}{\begin{quote}\em}{\end{quote}}
+  
+ \newenvironment{dichter}{\begin{flushright}}{\end{flushright}}
+
+\newcommand{\changefont}[3]{
+\fontfamily{#1} \fontseries{#2} \fontshape{#3} \selectfont}
+
+
+
+ \begin{document}
+% .
+% \newpage
+% \newpage
+ 
+ \changefont{ppl}{m}{n}
+ 
+  %\maketitle
+   
+ \begin{titlepage} 
+
+%\includegraphics[width=0.9\textwidth]{/home/felicitas/133_1.JPG}
+
+\begin{pspicture}
+(-4.9,8.5)
+\rput(0cm,0cm){\includegraphics[width=\paperwidth,height=\paperheight]{Titel-Hell}}
+\end{pspicture}
+ 
+  \vspace*{-0.4\textheight}
+   {\fontsize{1.6cm}{3.5cm}\selectfont{}Die Horussöhne}\\[9.5ex]
+   {\fontsize{0.8cm}{3.5cm}\selectfont{}Felicitas Stotz}\\[24.0ex]
+   \today
+ 
+ \end{titlepage}
+
+
+\thispagestyle{empty}
+
+
+\chapter*{}
+
+\section*{Titelei}
+
+\begin{tg}
+\begin{verse}
+
+
+
+Die Schrift des Verborgenen Raumes.\\
+Die Standorte der Bau und der Götter,\\
+die Schatten und Achu, und was getan wird.
+
+Der Anfang ist das Horn des Westens,\\
+das Tor des Westhorizontes;\\
+das Ende ist die Urfinsternis,\\
+das Tor des Westhorizontes.
+
+Zu kennen die Unterweltlichen Bau,\\
+zu kennen die Geheimen Bau,\\
+zu kennen die Tore\\
+und die Wege, auf denen der Grösste Gott wandelt.
+
+Zu kennen, was getan wird,\\
+zu kennen, was in den Stunden ist, und ihre Götter,\\
+zu kennen den Lauf der Stunden, und ihre Götter.
+
+
+Zu kennen ihre Verklärungen des RE,\\
+zu kennen, was er ihnen zuruft,\\
+zu kennen die Gedeihenden und die Vernichteten.\cite{Hornung97}\\
+
+\end{verse}
+\end{tg}
+
+
+
+\chapter*{Prolog}
+\addcontentsline{toc}{chapter}{Prolog}
+
+
+Dies ist die Geschichte einer Reisegruppe. Da diese Reisegruppe aus Göttern besteht, handelt es sich um eine ungewöhnliche Reise und um ungewöhnliche Ereignisse und Abenteuer. Wenn Götter eine Reise machen und von dieser berichtet wird, dann verdienen sie ein Intro, einen Prolog, der ihnen angemessen ist:
+
+Das All!  Nicht das All, das wir kennen mit all den Lichtern und Blinkesternen, sondern das All vor Urzeiten. Wir befinden uns an dem Ort, wo später unsere Sonne, unsere Planeten, unsere Galaxie sein wird. Aber noch gibt es hier: Nichts. Wir sitzen in einem Raumschiff und beobachten, was passiert. Es ist dunkel, wie in Mutters Schoss. Die Panoramascheibe unseres Raumschiffes ist auf Nachtsicht eingestellt. Alter Astronautentrick, um die Geburt von Planeten am Anfang allen Daseins und vor der Erschaffung des Lichtes zu beobachten.
+
+Von der Kaffeemaschine tropft ein einzelner Tropfen herab, wir angespannt, zucken zusammen\dots , denn vor uns taucht ein ungeheuer grosses Dunkel auf,  majestätisch und langsam, ein riesiger Planet. Er befindet sich an der Stelle, wo heute unsere Sonne ist und füllt den gesamten Platz zwischen Sonne und Saturn, so gross ist er. 
+
+Langsam dreht er sich und wir bemerken unterschiedlich stark strahlende Felder. Wir sehen ein Zentrum in der Mitte, von einem helleren umgeben und eine abschliessende Hülle darum. Eiförmige Gebilde  bewegen sich in dem Planeten. Wir schauen auf den Zeitmesser, der sich rasend durch die Zeit bewegt und 1000 Jahre in einer Millisekunde vorbeiziehen lässt. Die Zeit wird langsamer und wir schauen wieder raus. Es wird dunkler, es scheint als verlösche der riesige Planet. Nachdem er verschwunden ist, beschleunigt der Zeitmesser erneut. 
+
+Und plötzlich erscheint vor unserem Panoramafenster ein neuer Planet an Stelle des alten. Dieser Planet ist kleiner und gasförmig. Wir können die Wärmesicht abschalten, wir sehen ihn wunderschön durch die Scheibe leuchten, wir tragen Sonnenbrillen, so hell leuchtet der Planet. Er strahlt glühend, leuchtend weiss, bis auf einige rauchig-dunkle Stellen, die aus Gas bestehen und dichter sind als der Rest. An einigen Stellen ballt sich Wärme, wie wir sie auf dem vorherigen Planeten gesehen haben.
+
+Dieser Planet scheint zu atmen. Eine Zeitlang strömt das Licht weit in das All hinein. Angesogen von einer unsichtbaren Kraft und wird feiner und heller. Dann zieht es sich in das Zentrum zurück, dabei wird es dunkler, dichter, wie rauchige Luft. Kleine Gebilde kristallisieren sich darin, noch können wir sie nicht erkennen. Später werden sie die Sterne des Tierkreises.
+
+Wir haben die Zeit vergessen. Ein Blick auf unsere Zeitanzeige verrät uns, es sind Millionen Jahre vergangen. Wir schauen auf den Planeten und dieser ist wiederum in der Dunkelheit verschwunden.
+
+Wir haben kurz Zeit uns einen Kaffee zu kochen und ein Schnittchen zu machen, da taucht an der Stelle ein neuer Planet auf. Er reicht von der Sonne bis zum Mars. Er ist fester als sein Vorgänger und schillert in allen Regenbogenfarben. Durch den Farbschleier sehen wir Nebel und durch den Nebel sehen wir zum ersten mal so etwas wie Leben. Eine grünliche Masse, wie gekochter Spinat, die lebendig ist und ab und zu ein "`Blubb"' von sich gibt\dots
+
+Wir haben nicht viel Zeit dieses farbenprächtige Bild zu geniessen, denn die Masse des Planeten und die ganze Umgebung drumherum geraten in Aufruhr. Unsichtbare Kräfte reissen den Planeten auseinander. Während gleichzeitig das Universum von unsichtbaren Riesenhänden zusammengepresst wird. Zeitschlaufen öffnen sich und verschlucken Materie in dunklen Röhren, um sie an anderer Stelle auszuspucken. Unsichtbare, unglaublich starke Kräfte kämpfen gegeneinander. Trümmer fliegen herum, Feuerstürme toben, Luftlawinen wälzen sich durch den Raum.
+
+Unser kleines Raumschiff ist zu dicht an dem Geschehen dran, es wird gepackt und geschüttelt. Wir purzeln durcheinander, es gibt eine riesige Kaffeesauerei und die lecker Schnittchen kleben an den Wänden. Draussen sehen wir Blitze, Gaswolken. Druckwellen schütteln uns. Ein riesiges Durcheinander findet statt. Der ursprüngliche Planet ist nicht mehr zu sehen.
+
+Würden wir die alten Mysterien kennen, die ganze Ewigkeiten und durch viele Kulturen hindurch weitergegeben wurden, z.B. die Bhagavad Gita, würden wir wissen, in was wir hineingeraten sind: Den berühmten "`Streit im Himmel"'. Berühmt und berüchtigt, weil er die Geburt des Bösen beschreibt, das zu diesem Zeitpunkt nicht böse ist, sondern getrennt und allein. Praktisch "`auf den Mond"' geschossen.
+
+Dann- gespenstische Stille-
+
+Wir klopfen uns die Kleider ab, der Lehrling wird geschickt den Wischmopp zu holen und die Kaffeepfützen zu entfernen und eine traurige Schinkenschnitte fällt von der Decke herunter.
+
+Draussen hat es sich beruhigt, aber, was für ein Anblick!
+
+An der Stelle des Planeten sehen wir eine Sonne, sie reicht nicht mehr bis zum Mars, dafür befindet sich auf der Marsumlaufbahn ein Mond. Er umkreist die Sonne. Was auch immer die Turbulenzen verursacht hat, hat einen riesigen Ring an Trümmern hinterlassen, den Asteroidengürtel, den wir später zwischen Mars und Jupiter finden!
+
+Die Sonne leuchtet hell und ist leicht, während sich auf dem Mond die Materie zu Luft und Wasser verdichtet. Auch hier schillern wieder die Regenbögen und der lebendige Spinat macht "`Blubb"'\dots
+
+Ein letzter "Neustart" findet statt, Licht aus, Licht an und vor uns taucht die Erde auf. Sie ist viel grösser, denn es werden sich aus ihr Uranus und Saturn herauslösen, bevor sie sich endgültig verfestigt hat. Als nächster trennt sich der Jupiter und dann der Mars.
+
+Wir können es nun wagen auf das Raumschiff zu verzichten, auch wenn wir bei der jetzigen Erdatmosphäre vermutlich einen Raumanzug nötig hätten, mit unserer heutigen Gestalt.
+Ein letzter Blick auf den Zeitmesser, dort ist an Stelle der Zahlen eine Schrift erschienen: Genesis, Tag 1.
+
+Die Sonne verlässt die Erde und später, als letztes der Mond. Nachdem es sich die Planeten alle für diese Runde gemütlich gemacht haben, tritt das erstemal gross auf die Bühne in physischer Gestalt: Der Mensch.
+
+Natürlich waren wir Menschen schon vorher da, wir waren auch dabei, als der Wärmeplanet sich im All begann zusammenzuballen, aber wir hatten kein Bewusstsein und nichts, womit wir eines hätten haben können. Dieses Bewusstsein brauchte all die vielen Zeitrotationen auf unserem Zeitmesser, Millionen von Jahre und mehrere Äonen von Heimatplaneten, bevor es soweit war.
+
+Und dann kam Atlantis. (Womit unsere Geschichte, der Leser möge den schmählichen, aber einkalkulierten Fauxpas verzeihen, einen Gènrewechsel von Sciencefiction zu Fantasy durchmacht, kommt nicht mehr vor, versprochen.)
+
+Nebelverhangen war das Land Atlantis. Die Menschen besassen weder einen Körper, wie wir ihn kennen, noch hatten sie unser heutiges Bewusstsein. Die Menschen, sie träumten, sie fühlten sich, wenn sie wach waren, wie wir uns heute im Schlaf fühlten. Dabei waren die Atlantier hoch begabt, sie konnten etwas, was uns heute nicht mehr möglich ist. Sie waren hellsichtig und konnten die Kräfte, die im Pflanzen- und Mineralreich vorhanden sind, nutzten. 
+
+Verrückt? Eigentlich nicht, wenn wir ein Auto anschauen, so nutzten wir dort Pflanzen- und Mineralkraft, indem wir das Auto aus Metall bauen und mit Erdöl in Bewegung setzten.
+
+Was die Atlantier jedoch tatsächlich unterschied und was uns heute am seltsamsten anmutet würde, ist nicht ihr merkwürdiger, zu Beginn dieser Zeit knochenloser Körper und ihre Hellsichtigkeit, die ihnen ein ähnlich komfortables, weit entwickeltes Leben wie uns heute, bescherte, nein, der grösste Unterschied war, sie kannten ihre Götter! Persönlich. Mit Vor- und Nachnamen und Adresse! (Was nicht viel half, denn wie wir wissen, ging Atlantis kläglich unter.)
+
+Einer, der nicht unterging, so sagt es die Legende, weil er weise war und sich deshalb dem Wohlwollen der atlantischen Götter erfreute, war Thot. Thot, der später selbst Gott im Ägypterland wurde und auch bei den Griechen kein unbekannter war. Im Gegenteil, sie nannten ihn, wiederum nach ihrem Gott Hermes: Hermes Trismegistos. Wer jetzt im versteckten Winkel seines Gehirns ein leises Klingeln hört, das sich wie "`hermetisch"' anhört, dem wird dämmern, wie weitreichend Thots Einfluss war und ist. Dabei ist er nicht der mächtigste der ägyptischen Götter\dots
+
+Er ist allerdings der Gott, der sich am besten als Reiseleiter eignet, weil er mit dem Menschlichen am vertrautesten ist. Für die Reisegruppe der ägyptischen Götter, die teilweise nicht über menschliche Körper verfügen, oder nie aus dem Jenseits, der "`Duat"' herausgekommen sind, ist er unersetzlich.
+
+Eigentlich ist der Jenseitsbereich um die Erde herum ein riesiger Raum für alle Götter, die für die Erde zuständig sind und alle Verstorbenen. Allerdings haben die Götter des einen Zeitalters und/oder des einen oder anderen Landes ihre ganz spezifischen Aufgaben. Und nicht alle, wollen sich um alles kümmern, sondern um ihr Land oder ihre Kultur. Andere haben sich auf den "`Altenteil"' zurückgezogen und geben den jüngeren Göttern Tipps, wie man tüchtige Blitze schleudern kann, ohne dabei die ganze Gemeinde auszulöschen. 
+ 
+ Wenn sich die Menschen anmassen und einem Gott widersetzten, oder einen unbestechlichen Wächtergott auf grausame Weise hintergehen und seinen schutzbefohlenen schaden, dann können auch alte Götter sich für eine Reise entschliessen. Und nicht alle Götter scheuen sich, ihre Kollegen um Hilfe zu bitten. Und so kommt es, dass der grosse Hermes Trismegistos, der "`dreimal grosse Hermes"', genannt Thot, gleich in dreifacher Mission nach Basel kommt.
+
+Im berühmten Oktagon, dem achteckigen Zimmer des weissen Hauses des ehrwürdigen Jakob Sarasin, trifft sich der alte ägyptische Gott mit seinen nordischen Götterkollegen Berta, bekannter unter dem Namen Frau Holle und Hans, der "`Wildr Maa"', der Gastgeber in Basel ist. Wir wollen leise eintreten und lauschen, was sie besprechen.
+
+Offensichtlich sind sie vor uns angekommen, wir können ihre Stimmen vor der Tür hören. Schau nochmal kurz aus dem Fenster, nach dieser aufregenden Fahrt: Dort leuchten in einer klaren Januarnacht die Sterne\dots 
+\sterne
+
+"`Interessant, äusserst interessant!"' Thot legte die schlanken Fingerspitzen aneinander. "`Und was schliesst du daraus, verehrte Berta?"' "`Lieber Thot, wenn ich es selber wüsste, hätte ich Euch wohl kaum hierher bemüht!"' "`Du hast recht,"' antwortete der Ägypter: "`An deiner Geschichte gefällt mir einiges nicht. Und sie scheint in Ägypten anzufangen. Ich werde meine alten Herrschaften mitnehmen, sie beginnen sich in der guten alten Duat zu langweilen."' Berta schmunzelte, ihre kräftigen Apfelwangen leuchteten mit ihren strahlend blauen Augen um die Wette: "`Ich bin sicher, dem können wir abhelfen. Da ist etwas ganz finsteres im Gange, das hab ich in den Knochen. Hans? Hans, was sagst Du dazu?"' "`Wckl? Was?"' "`Herrjeh, dann hat er einmal im Jahr seinen grossen Auftritt und danach ist er Wochenlang nicht zu brauchen. Dir tut etwas mehr Bewegung gut, alter Mann!"' "`Alter Mann?! Also nai, Berta, eso nit!"' "`Fein, dann ist es beschlossen?"' Thot schmunzelte, sie waren sich überall ähnlich, die alten Götter, etwas dick, etwas gemütlich und versessen darauf, mal wieder eine richtige Einweihungspartie zu starten und Schicksal zu spielen \dots
+
+"`Wo?"', fragte Thot. "`Ich persönlich würde Europa vorziehen, da ich selbst etwas erledigen will, was in Ägypten nicht möglich ist!"' "`Hans? Was meinst Du?"' Der wilde Mann, der auf dem piekfeinen Rokokosofa lag, runzelte die breite Stirn. Seine zottigen, dichten Haare standen vom Kopf ab, einige Blätter, der Jahreszeit entsprechend braun, hingen darin fest. Er war bis auf eine blaue Latzhose nackt. Seine dreckigen, erdbeschmierten grossen Füsse hingen über die Sofalehne. Er kaute an einer Pfeife herum, während er nachdachte: "`Johh, denn halt! Basel! Kömmet doch uf Basel! Die Basler sind fromm genug geblieben und gleichzeitig  ignorant und mit sich beschäftigt, da fallen ein paar Götter mehr oder weniger nicht auf. Hermes hat hier bei uns alte Kontakte. Ich wohne hier und dir, liebste Berta, liegt das ganze Dreiländereck zu Füssen."' "`Gut, klingt vernünftig, auch, wenn es von dir kommt!"' "`Berta! Eso, würkli nit!"'    
+
+"`Das Wann dürfte allen klar sein?"' "`Berta!"' "`Natürlich, liebe Berta!"'
+"`Ja dann, see you later mit alligator\dots, haha!"' "`Bis Mitwinter!"' "`Es sind Krokodile! Keine Alligatoren, sondern Krokodile. Bis Heilig Abend."'
+
+
+
+\part*{Erste Stunde:\\"`Welche die Stirnen der Feinde des Re zerschmettert"'}
+\addcontentsline{toc}{part}{Erste Stunde}
+
+
+
+\chapter{}
+%\addcontentsline{toc}{chapter}{}
+
+"`Hermes, alter Junge, in diesem Moment wird Berta alles für den Transport vorbereiten. Sind wir bereit?"' "`Wir sind bereit, Hans. Unsere grosszügigen Gastgeber\cite{Hagenbach12} haben uns freundlicherweise ihre beiden Häuser zur Verfügung gestellt, die auf das beste geeignet sind."' "`Is' denn Alessandro\cite{Hagenbach12}\cite{von88} fertig mit seinem Schutznetz? Hat er die Zeitüberschneidung richtig berechnet?"' "`Ja, ich habe es überprüft. Und unser Alessandro ist ein wahrer Spezialist, wenn es darum geht einen Ort in zwei Zeitzonen einzuteilen. Schliesslich ist diese Fähigkeit sehr nützlich, wenn man, wie er, gerne dem schönen Geschlecht huldigt."' "`Ei, das hesch schön gesagt, dem 'schönen Geschlecht' huldigen\dots so isses, Hermes, der Herr Graf ist kein Kind von Traurigkeit, das isch wahr!"' 
+
+"`Die Häuser werden in der Gegenwart am Tag benutzt, auch das ist ein Vorteil. Vielleicht wird der eine oder andere Mensch Kopfschmerzen haben und wirre Träume, aber mit dem können wir leben."' "`Gut, dann werde ich Berta sagen, dass wir unseren Transport starten können und ihr helfen, die Route frei zu halten und den kleinen Krabbelviechern Beine machen. Hermes, viel Glück bei eurer Reise, deine Herrschaften sind ja nicht mehr die jüngsten."' "`Du solltest sie sehen, die gute Hathor, ist schon seit Wochen am Packen. Sie freuen sich alle auf das Abenteuer."' "`See you\dots"' "`Es sind Krokodile, Hans. Bis bald."'
+
+\sterne
+
+Amélie öffnete die Augen, was für ein Traum\dots
+
+Aber, he, das war nicht ihr Zimmer! Wo in aller Welt war sie? Sie zog die weisse Bettdecke, die mit den Daunen von einer Million Gänsen gefüllt war, herauf zur Nasenspitze und rutsche tiefer in das weisse, flaumige Kissen. Sie lauschte, während die Augen das Zimmer durchstreiften. 
+Die Wände waren weiss. Eine Kommode aus Nussbaum stand an der einen Wand, das Bett an der anderen. Am Kopfende des Bettes fiel durch ein grosses Sprossenfenster trübes, graues Winterlicht, in den langen schmalen Raum. Durch die Tür, gegenüber dem Fenster, hörte sie eilige Schritte hin und her gehen. Das Zimmer schien sich in einem grösseren Gebäude zu befinden. Stimmen waren zu hören. 
+
+Das Zimmer roch nach Wachs mit dem der dunkle, alte Holzboden gepflegt worden war. Es roch nicht nur alt, sondern unpersönlich, wie ein Büro- oder Amtsgebäude. Die Geräusche und Stimmen schienen einer aufgeregten Grossfamilie zu gehören.
+
+Amélie streckte sich. Und starrte an die Decke. An der Decke war ein schwarzer Punkt. Ein schwarzer Punkt, der sich bewegte! Eine Spinne? Amélie steckte den Kopf unter die Decke. Vorsichtig spähte sie hervor, der Punkt war weg! Mit einem kleinen Schrei, sprang Amélie aus dem Bett. Schüttelte sich wild und hopste durch Zimmer. Dann schaute sie hektisch, ob die Spinne an ihr klebte. Wo war die verdammte Spinne? Über der Kommode, ein schwarzer Fleck, Amélie sah genauer hin, es war keine Spinne, es war eine Ameise. Überrascht betrachtete Amélie sie genauer. Eine Ameise? Im Winter? Amélie beugt sich vor, ihre langen, glatten schwarzen Haare rutschen über die Schultern nach vorne. Diese Ameise sah erschöpft aus!
+
+Amélie setzte sich auf das Bett, sie hatte ein weisses Unterhemd mit breiten Spitzenträgern und eine weisse Unterhose an. Kalt war es, sie schlang die Arme um sich und zog die Beine an. Sie versuchte sich an den Traum zu erinnern, darin kamen Ameisen vor. Sie hatte geträumt, eine riesige Zahl Ameisen würde sie durch einen unterirdischen Gang schleppen. Sie wurden von einem grossen, kräftigen Mann mit einem dunkelbraunen, struppigen Vollbart und wildem Haar angetrieben, der mit grünem und braunem Laub bedeckt war. Amélie war betäubt, sie konnte sich während des Transportes nicht bewegen, dämmerte auf dem Marsch dahin, der, wie ihr schien, Tage dauerte. Einzig geweckt wurde sie, wenn ihr Kopf oder ein anderer Körperteil unsanft gegen eine Baumwurzel schlug, die  in den erdigen Gang hineinragten. Sie erinnerte sich an grässlichen Lärm quietschender Räder auf Schienen. Tunnel, dunkel, betoniert und mit Leitungen vollgestopft. Ein blendendes Licht, S-Bahnen, die direkt auf sie zu gebraust kamen und mitten durch sie, die Ameisen und den fluchenden, wilden Mann hindurchfuhren, ohne abzubremsen. Und in dem Tunnelgewirr verschwanden, während die Ameisen sie mit dem Kopf solange gegen die Wand stiessen, bis diese nachgab und sie sich wieder in dem Erdgang befanden.
+
+Es klopfte an der Zimmertür.
+"`Hallo? Amélie! Bist Du wach?"' Amélie rutschte unter die Decke. Panik machte sich breit, das war eindeutig die Stimme von einem Kerl, einem jungen Kerl. Sie hörte angespannte Stille, dann schnüffelte es an der Tür. "`Ja! Nein! Stopp!"' rief Amèlie, aber da stand der junge Mann in der Tür und an ihm vorbei drängelte sich ein graziler, schlanker Hund mit dickem, goldbraunem Fell. Er trug einen schwarz-grauen Sattel aus längerem Haar auf dem Rücken und die Ohren waren spitz und gross. Der Hund war es, der aufgeregt schnüffelte. Er blieb in einiger Entfernung stehen und starrte Amèlie unhündisch an.
+
+"`Ich hab keine Kleider,"' Amélie spürte, wie ihr die Röte ins Gesicht stieg und verschwand unter der Decke. "`Ah, oh! Ich glaube Isis hat dir etwas zum anziehen in die Kommode gelegt."' Sagte der junge Mann zu der Bettdecke. "`Ich bin übrigens Amset und das ist mein Bruder Duamutef, er ist ein Schakal."' 
+
+Isis? Sein Bruder? Ein Schakal? Hilfe, bin ich von Verrückten entführt worden? Vorsichtig schob Amèlie ihre Nase hervor und rief empört: "`Du bist ja immer noch da! Verschwinde! ich will mich anziehen!"' Amélie nahm das Kissen und warf es, es prallte an der hastig geschlossenen Tür ab und plumpste zu Boden.
+
+-Haha, sie hat nach fünf Minuten schon den ersten Gegenstand nach dir geworfen, Amsi! -Ach, halt dein Maul, Tef! -Hast du gewusst, dass sie dich für verrückt hält? -Maul halten, Tef! -Haha! Der Schakal und der junge Mann stiegen die grosszügige Treppe hinunter. Sie waren Götter und Brüder, der eine war ein junger Mann und der andere hatte die Gestalt eines Schakals. Wie sie miteinander sprachen? Mit Gedanken! Sie waren sogar vier Brüder, die berühmten Horussöhne, unbestechliche Wächter im Totenreich. Der dritte Bruder Kebechsenuef hatte Falkengestalt und der vierte, Hapi, die eines Pavian.
+
+-Geh raus in den Garten deine Geschäfte machen, Tef! Und Grüss Hapi und Kebi von mir. -Heb' mir was vom Frühstück auf, ja? Der Schakal verschwand durch die Tür, die Amset ihm öffnete, in den Garten.
+
+Amélie tappte auf Zehenspitzen zur Kommode. Aus dem Augenwinkel bemerkte sie eine Bewegung am Fenster. Es war nichts zu sehen. Ausser dem grauen Himmel.
+
+ "`Gib sie her!"' "`Hol sie dir doch! Komm doch! Kooomm!"' "`Isfet, gib sie her, ich bring dich um!"'"`Vergiss es, Maat, das darfst du garnicht!"' Die Tür flog auf und zwei Mädchen fielen ins Zimmer. Sie wälzten sich am Boden. Die eine von ihnen hielt eine weisse Straussenfeder von sich gestreckt, nach der die andere hektisch griff. Sie bekam sie nicht zu fassen, weil ihre Gegnerin energisch zappelte. Amélie schnappte sich behutsam die Feder und zog sich ans Fenster zurück. "`Gib mir die Feder!"'
+
+Die schlanke Gestalt, etwas kleiner als Amélie, streckte gebieterisch die Hand aus. Sie trug ein gerade geschnittenes, schwarzes Kleid mit weissem Spitzenkragen. Sie hatte weisse Söckchen ebenfalls mit Spitze an, im Winter! Und schwarze Spangenschuhe aus Lack. Die schwarzen Haaren trug sie zum Pagenkopf geschnitten, mit einer weissen Schleife gebunden. Die Haare waren zerzaust und die Schleife hing schief, ihre Wangen waren gerötet. Aber als sie ihr in das Gesicht sah, bekam Amélie eine Gänsehaut.
+
+ Ihre Augen waren gelb. Goldgelb. Und sie strahlten eine machtvolle Würde und Weisheit aus. Amélie schluckte und gab dem Mädchen die Feder, stumm und erschrocken. "`Danke!"' sagte die zarte Person und ging erhobenen Hauptes aus dem Zimmer. 
+ 
+ "`Isfet!"' sagte die andere und streckte Amélie die Hand entgegen. Diese hätte ein Zwilling sein können, allerdings einer, der aus dem Nest der Ordnung gefallen schien. Isfet hatte kurze, verwuschelte, schwarze Haare. Sie steckte in einem riesigen, bunten Sweatshirt mit Kapuze und einem Pinguin drauf, ihre Beine in pinken Leggings mit blauen Tupfen und die Füsse in dicken Stiefeln.
+ 
+"`Amélie,"' sagte Amélie. "`Ich weiss!"' Isfet liess sich auf das Bett fallen. "`Alle scheinen das zu wissen"', maulte Amélie "`und ich weiss nicht mal, wo ich bin. Verdammt, wo bin ich und wer seit ihr? Ein Haufen Verrückte?"' Isfet grinste: "`Du bist schon in Ordnung, weisst du das? Zieh dich an und komm runter, dann lernst du den restlichen Haufen kennen."'
+
+Amélie zog die Kommodenschublade auf, da! Da war wieder eine Bewegung am Fenster, sie zuckte zusammen. Isfet jedoch sprang ans Fenster, riss es auf und schrie: "`Kebi, lass' das, sie ist ein Mädchen und ein Gast, n' bisschen Anstand, jaah!"' Sie schloss das Fenster wieder und drehte sich zu der bleichen Amélie. "`Diese Brüder. Wenn sie nicht arbeiten, sind sie immer zu Spässen aufgelegt, die Jungs!"' Isfet ging aus dem Raum und Amélie trat ans Fenster. Auf dem gegenüberliegenden Dach sass ein Raubvogel, ein Falke. Komisch, dachte Amélie, mitten in der Stadt\dots
+
+ Brüder? Hatte jemand von der gegenüberliegenden Seite aus dem Fenster geschaut? Amélie betrachtete das Haus. Es erstreckte sich auf drei Seiten. Zwei Stockwerke war es hoch und im Dach waren viele kleine Gauben mit weiteren, kleinen Fenstern. Blau, weiss war das Haus. Im Innenhof war ein üppiger Garten angelegt mit einem grossen Teich. Seltsamerweise war der Garten grün, die Bäume trugen Laub. Die Bäume verdeckten den offenen Teil, so dass Amélie nicht sah, ob der Garten eingezäunt war und wie die Strasse aussah. Jedenfalls war sie in einer grösseren Stadt, denn es waren weitere Dächer zu sehen und Strassenlärm tönte herauf. Zwischendurch war ein Kreischen zu hören, wie Amélie es aus dem Affenhaus im Zoo kannte.
+ 
+ Energisch zog Amélie die Vorhänge zu und machte sich über die Kleider in der Kommode her. Sie passten ihr wie angegossen und trafen genau ihren Geschmack, jedenfalls etwas, dachte sie und machte sich auf zum Frühstück, wo immer es auch sein mochte. Ach, ja, dachte sie, heute ist Heiligabend!
+
+
+\chapter{}
+
+Amélie sass im Garten auf einer Marmorbank. Wenn das eine 'harmlose Gruppe von Touristen aus Ägypten' ist, dann bin ich Kaiserin von China, dachte sie. Auch wenn alle betont entspannt und lässig taten. Der eine ältere Typ hatte sogar am Frühstückstisch seine Sonnenbrille anbehalten! Und diese Hathor wollte Amélie Würmer aus der Nase ziehen, dabei wusste sie selbst nicht, wie sie hierher gekommen war. Basel, hatten sie gesagt. Was soll ich bitte in Basel? Und dann war da dieser Typ im schwarzen Anzug, der sprach, als wenn er einen Einstein verschluckt hätte. Der wirkte am normalsten, wenn er nicht so ernsthaft mit seinem grossen, schwarzen Hund reden würde, als ob der alles verstünde, was er sagte. Anubis, hiess der Hund, den Namen hatte Amélie schon in einem Buch über Ägypten gelesen, ebenso wie den Namen Thot, so hiess der im schwarzen Anzug.
+
+Ganz in der Nähe hörte Amélie ein hohes Kreischen und zuckte zusammen. Das musste der Raubvogel sein. Offenbar hatte der Falke einen Freund gefunden, es ertönten zwei Raubvogelstimmen. Erst jetzt blickte sie sich genauer um. Der Garten war nicht nur grün, sondern auch warm. Angenehme 20 Grad, leicht feucht, es roch sumpfig, was an dem grossen Teich mit Schilfgürtel lag. Die Bäume waren recht hoch und sahen von unten viel höher aus, als aus dem Fenster. Waren das Lianen? An einigen Stellen standen dichte Büsche, die die Sicht versperrten. Es raschelte dahinter.
+
+Amélie seufzte, wenn doch Berta da wäre, die wüsste bestimmt, was das alles zu bedeuten hätte. Berta war viel mehr als nur ihre alte Amme, sie wusste alles und mit Berta an der Seite, konnte einem nichts passieren. -Abgesehen von den Abenteuern, in die man automatisch hineingeriet, wenn Berta es für richtig hielt. War das hier eine Bertasache?
+
+Amélie fühlte sich beobachtet. Sie schaute sich um, sah aber niemanden. Sie hörte Schritte. Und dann kam Amset auf die kleine Lichtung. "`Hi!"' "`Hi"', er setzte sich neben Amélie. "`Warst du schon in Basel, Amélie?"' "`Ne, du?"', "`Nöh, aber es ist nett!"'"`Amset, warum bin ich hier?"' Amélie dreht sich um und schaute ihm direkt ins Gesicht. "`Also, äh\dots"' "`Raus mit der Sprache!"' Schrie sie. "`Warum wache ich am Heiligabend mitten in Basel bei einer Truppe ägyptischer Touristen, wie ihr euch nennt, auf?"'"`Amélie! Ich weiss nicht, ob ich es dir sagen darf"' "`Wenn du mir nicht sagst, Amset, was du weisst, dann schreie ich!"' "`Das tust du jetzt schon! Okay, okay,"' er hob beschwichtigend die Hände: "`Du träumst seltsame Sachen!"' "`Ich träum' seltsame Sachen? Wer sagt das?"' "`Berta und Thot!"' "`Berta! ich hab es mir gedacht."' Amélie sah Amset in die Augen. Sie waren goldbraun. Wenn sie nicht so wütend gewesen wäre, wäre ihr aufgefallen, dass er mit seinem schmalen Gesicht, der leicht gebräunten Haut und dem kräftigen, zu einem Pferdeschwanz gebundenen schwarzen Haar gut aussah. "`Welcher Traum?"' "`Du hast von Ägypten geträumt, sagt Berta"' 
+
+"`Von Ägypten?"' "`Berta hat es Thot erzählt. Du hast geträumt, dein Herz wäre gestohlen worden und ein Hund hat es dir wieder gebracht."' Amélie sagte erstaunt: "`Das stimmt! Ich träumte von einem dunklen Tunnel durch den ein Hund zu mir kam mit einem Bündel in dem mein Herz war. Und eine Stimme, die gruslig und beängstigend klang, sagte, das Herz wäre mir nur geliehen worden, ich müsste es mir erst verdienen. Es war ein schlimmer Traum. Seitdem habe ich das Gefühl, als würde jemand jeden meiner Schritte prüfen und mir das Herz rausreissen, sobald ich einen falschen Schritt mache."' Amélie schluchzte auf, wischte sich mit dem Handrücken über die Nase.
+
+"`War es ganz sicher ein Hund?"' fragte Amset. "`Was? Keine Ahnung, ja schon!"' "`Oder war es ein Schakal, wie Duamutef?"' Der schlanke Hund vom Morgen kam aus dem Gebüsch und blieb vor Amélie stehen. "`Das ist ein Schakal?"' fragte Amélie schwach. "`Du musst uns alles genau erzählen, Amélie!"' Sagte Amset aufgeregt und schüttelte Amélie an der Schulter. "`Ich muss nichts, Amset! Ich will nach Hause. Ich will zu meiner Familie und nach Hause."' Amélie sprang von der Bank auf und lief aus dem Gebüsch auf eine grosszügige Auffahrt aus Kies. Sie rannte auf das schwarze, verschnörkelte Eisentor zu. Im Augenwinkel sah sie einen grossen, kräftigen Mann mit wirrem Haar und langem, wildem Bart in einer grünen Latzhose, der den Kies harkte.
+
+Sie riss an der Tür, die sich im Tor befand. Sie war offen. Amélie stürmte hinaus und schlug die Türe fest zu. Die Kälte traf sie wie ein Schock. Der Garten war verschwunden. Durch da Gitter des Tors sah sie einen kahlen Innenhof mit Kopfsteinpflaster, einem Brunnen und einer grosszügigen Treppe, auf der man von zwei Seiten das Haus betreten konnte. Sie probierte die Tür, sie war offen. Sie ging hindurch. Der Garten und Amset blieben verschwunden.
+\sterne
+
+
+
+Duamutef stand in dem dunklen Gang und hob witternd die feine Nase. Mit dieser Amélie stimmte etwas nicht. Ganz und gar nicht. Er hatte das ägyptischen Grab sofort gefunden. Und bisher war der schlichte unterirdische Gang wie alle anderen. 
+
+Schritt für Schritt tappte er vorwärts. Die Luft stand still, als Wächter und Horussohn konnte er jedes Grab finden und aufsuchen, in das er hinein wollte. Warum war er nicht in der Grabkammer gelandet, sondern im Gang? Als Gott der Kanopen hätte er mitten im Grab zum Vorschein kommen sollen. 
+
+Er lauschte in die Dunkelheit und ein Hauch, eine winzige Bewegung, eine einzige Welle traf auf die feinen Härchen in seinen Ohren. Wie Radars drehten sie sich hin und her. Eine Disharmonie. Eine kleinste Unstimmigkeit. Er ging einen Schritt weiter und lauschte wieder, senkte die Nase und sog den abgestandenen Geruch von tausend Jahren ein\dots Und nun kam zu dem leisen Ton ein giftiger, metallisch-beissender Geruch hinzu. 
+
+Duamutef blieb stehen. Und starrte angestrengt in die absolute Dunkelheit. Und dann sah er ihn, den Fluch. Er war wenige Zentimeter entfernt. Wie durchsichtiges Schillern einer Seifenblase, bildete er eine Membran, die dem Durchgang versperrte, zart, wie ein Spinnennetz.
+
+Duamutef schob die Nase vorsichtig weiter. Er jaulte laut auf, als der Fluch das erste Tasthaar an der empfindlichen Schnauze erwischte und bis auf die Haut verbrannte. Er jaulte nochmal, diesmal aus Zorn. Wer hatte es gewagt in seinen, in ihren Schutzbereich, den der Horussöhne einzudringen und ihnen den Durchgang zu versperren?
+\sterne
+
+"`Osiris? Wie geht es?"' fragte Thot seinen Freund und Meister, denn, wenn auch einer der mächtigsten Götter, so war er der fragilste, zumindest im Diesseits. "`Es geht Thot!"' Die Anstrengung, die das Sprechen bereitete, war deutlich zu hören, stellte Thot besorgt fest. "`Es wird hart werden. Was ist mit dem Mädchen, ist sie bereit? Wir haben nicht viel Zeit und ich hoffe, sie weiss, welche Aufgabe sie hat?"' Isis sass auf der Bettkante von Osiris Bett. Thot bemerkte ihre Augenringe, eine grosse Last lag auf den Schultern der Gemahlin des Osiris und mächtigen Heilerin. Sie musste den Körper ihres Mannes in einer Zwischenzeit stabil halten, einen Körper, der seit tausenden Jahren in die Unterwelt gehörte und im Diesseits jederzeit Schaden nehmen konnte. 
+
+Der Herr der Unterwelt lag von mehreren Kissen gestützt in einem grossen Bett. Mehrere grosse Federbetten waren um ihn herum drapiert. Auf dem Nachtisch lagen Amulette, Räucherwerk kräuselte sich zart in die Luft des Zimmers und Glas- und Fayenceflaschen standen bereit. In den Glasflaschen waren rote, grüne und goldene Tinkturen zu sehen. Sein Zimmer lag im Erdgeschoss des blauen Hauses, in der Nähe der Küche, so war immer jemand in seiner Nähe und es war warm.  (Im Moment hörte man Hathor ein Freudenlied\footnote{Eingehweihte wissen, es handelt von einem Igel, um dem Meister kleiner, dicker, vergnügter Frauen in schwarzen Kleidern und mit spitzen Hüten zu huldigen.} singen, während sie das Mittagessen zubereitete.) Aber Osiris liess sich nichts anmerken. Er war der mächtige Herr des Westens, der Unterwelt und er würde mit der Hilfe der Götter auch wieder am Leben der Erde teilhaben können. Wenn Thot nicht zu viel versprochen hatte. Osiris hatte grosses Vertrauen in Thot, schliesslich hatte er ihn alles gelehrt, was er wusste\dots
+ 
+ "`Das Mädchen? Es tut mir leid, Isis, aber das Mädchen ist weggelaufen. Sie weiss nichts von ihrer Aufgabe!"' "`Was?"' rief Isis entsetzt und sprang auf. "`Ich höre wohl nicht richtig!"' Isis funkelte Thot aus ihren schwarzen Augen an, das durfte wohl nicht wahr sein? In was für ein Abenteuer hatten sich diese verrückten Götter, oder Männer, was in diesem Fall keine Rolle spielte, jetzt wieder gestürzt? "`Ich bring Euch um!"' "`Haha"' meinte Osiris, wurde aber sofort ernst, als er das Gesicht seiner Frau sah. "`Isis, Schatz, lass' es dir erklären!"' "`Ja, liebe Isis, in der Tat, sollten wir dir wohl einiges erklären"' meinte Thot. "`Ich geb' euch fünf Minuten eine gute Erklärung zu bringen\dots"' Thot räusperte sich, während Isis, die schlanken Arme verschränkt, hocherhobenen Hauptes zu ihm hochstarrte. Denn selbst wenn sie wütend war, blieb sie zierlich und klein. Was sie nicht daran hinderte neben ihrem Gemahl die mächtigste Göttin zu sein. Sie sieht so hübsch aus, wenn sie wütend ist, dachte Thot. Kleine Blitze stoben um ihr Haupt mit den kräftigen, langen schwarzen Haaren, die Luft knisterte. Ihre kohlrabenschwarzen Augen blitzten und ihre vollen Lippen waren zusammen gepresst. Ihr schlanker Körper steckte noch immer in einem weissen, ägyptischen Leinenkleid und dem bunten Perlenkragen. Sie hatte keine Zeit gehabt sich wärmer anzuziehen, weil sie seit ihrer Ankunft für ihren Gatten sorgen musste.
+ 
+"`Berta hat uns eingeladen, weil es mit Amélie, so heisst das Mädchen, ein Problem zu geben scheint. Berta hat das Mädchen die letzten Jahre betreut und beobachtet. Sie ist vielversprechend. Aber wie gesagt, es ist ein Problem aufgetaucht, dass Amélie sich in Ägypten zugezogen haben muss. Wir haben nicht rausgefunden, was es ist. Und weil wir aus der Entfernung nichts sehen konnten, hatten wir die Idee nach Basel zu gehen\dots"' "`So, hattet ihr?"' fauchte Isis. "`Weil eine vielversprechende Schülerin von Berta, die ich, wie ihr wisst, sehr schätze, ein Problem hat, schleppst du, Thot, meinen Mann aus dem Jenseits nach Basel? Kannst du mir einen Grund nennen, warum ich ihn nicht noch in dieser Stunde wieder in seinen Sarg stecke und zurück in die Duat bringe?"'
+
+ "`Weil ich ihn darum bat, mich hierher zu bringen, Schatz!"' Osiris Stirn glänzte vor Anstrengung und seine Stimme war schwach und leise, aber bestimmt: "`Dies könnte meine Chance sein, dem Fluch meines Bruders endlich etwas entgegenzusetzten, endlich wieder die Erde zu spüren!"' Isis war still. Eine Träne lief langsam ihre Wange herunter. Sie ballte ihre Fäuste.
+ 
+ "`Isis, \dots"' "`Still! Ich will nichts hören. Auch wenn ihr Götter seit, meine beiden Herren, könnt ihr trotzdem vorher fragen, ob ich einverstanden bin, denn ihr wisst selbst, ohne meine Hilfe kommt ihr nicht aus."' "`Isis, \dots"' "`Still! Kein Mucks."' Schrie sie. "`Schaff' das Gör wieder her und schau, Thot, wie du sie in den Griff bekommst, bevor unsere Zeit abgelaufen ist. Und ich"' sagte sie und blickte streng auf ihren Gatten "`werde versuchen dieses Häufchen Elend am Leben zu erhalten."' Sie wischte sich die Träne ab und griff nach einem grossen Löffel, füllte ihn mit einer blutroten Flüssigkeit aus einer Glasphiole und leerte ihn behutsam und gleichsam zornig in den Mund des ergebenen Osiris. Währenddessen schlich sich Thot aus dem Zimmer und ging in den Garten.
+
+
+
+\chapter{}
+
+Sie trafen am Teich bei der Marmorbank zusammen. Thot und Anubis, sein engster Weggefährte und göttlicher Bestatter. Im Gegensatz zu Thot, der sich für ein menschliches Äusseres entschieden hatte, hatte sich der ruhige und besonnene Totenwächter auf ihrer Reise für seine Hundegestalt entschieden. Anubis, unterweltlicher Totengott und deshalb in Hundegestalt, war gross, schwarz, dem ägyptischen Ideal folgend schlank, langbeinig und mit grossen Ohren, in die, im winterlichen Basel, die Kälte empfindlich zwickte.
+
+Wie die Horusbrüder, deren Gestalten unterschiedliche waren, teilten sich Anubis und Thot über Gedanken mit, was für sie nichts ungewöhnliches war. Im Moment hockte Anubis neben Thot, der auf der Mamorbank sass, am Boden und schaute so traurig drein, wie es seine Hundeschnauze zuliess. Sie seufzten beide. Anubis Ohren drehten sich in die Richtung des Falkenrufes, den nur seine feinen Ohren gehört hatten. 
+
+"` Wir müssen Amélie wiederfinden, alter Freund. Alleine kann sie die Sphäre nicht betreten, die Alessandro und ich um die Häuser aufbauen mussten, damit die göttlichen Herrschaften hier urlauben können."' Thot war der Meinung, er könnte besser denken, wenn er die Dinge beim Namen nannte, deshalb beschränkte er sich nur auf die stille, gedankliche Zwiesprache, wenn es die Situation erforderte. "`Ich habe bei der Suche an Amset gedacht, die beiden scheinen sich etwas kennengelernt zu haben"' Anubis schnaufte. -Lieber Thot, ich glaube, wegen Amset ist die Amélie weggelaufen. Wenn er auch keine Schuld hat, so ist er wohl ein Grund. Er bringt sie durcheinander. Seine Brüder noch dazu. "`Ach, ja, Menschen können sehr schnell empfindlich werden, wenn die Gegensätze ins Spiel kommen\dots Dennoch, wir brauchen die Hilfe der Brüder."' -Ich weiss, ich habe Kebechsenuef schon gerufen und Amset und Duamutef dazu. Hapi fällt in der Stadt zu sehr auf. Ausserdem ist er dabei seine Kinder und seine Frau, die von der Reise durcheinander sind, zu beruhigen. 
+
+In dem Moment ertönte, wie auf Bestellung, ein lautes Kreischen hinter der Bank im Gebüsch und ein Pavianmännchen, verfolgt von einem Pavianweibchen, das einen Stock in der Pfote hielt mit dem es auf den Kopf des Männchens einschlug, stürmten hervor. Das Weibchen kreischte. Das Männchen versuchte vergeblich einerseits beschwichtigende Gesten zu machen und sich gleichzeitig die Pfoten schützend über den Kopf zu halten. Drei kleine Paviankinder stürzten nun, gleichfalls lärmend aus dem Gebüsch und tobten direkt auf den Teich zu. Dessen Wasser kräuselte sich. Das Pavianmännchen und seine Frau packten die drei kleinen Äffchen, klemmten sie unter die Arme und verschwanden wieder im Gebüsch. Das Kreischen des Weibchens wurde wieder etwas leiser. 
+
+Anubis, der sich flach auf den Boden gelegt hatte und von Thot die empfindsamen Ohren zugehalten bekommen hatte, blickte auf.- Ja, ich denke, der Hapi wird wohl keine Zeit für die Suche haben, solange seine Frau mit dem Urlaubsort nicht einverstanden ist. Ich habs ihm gesagt, Hapi, habe ich zu ihm gesagt, deine Frau ist eine kluge, aber gewöhnliche Äffin, sie wird keine Freude am winterlichen Basel haben. Habe ich ihm gesagt. Aber er wollte sie mit den drei Kleinen nicht alleine lassen. 
+
+Einen kleinen Augenblick sassen, bzw. lagen, die beiden Freunde ganz still, einzig ein kleines Plätschern war aus dem Teich zu hören. Da landeten zwei Falken. Der ein von ihnen verwandelte sich in einen Mann. Einen kräftigen, muskulösen Mann mit braunem, kurzen Locken und lapislazuliblauen Augen. Der dunkle Wimpernkranz seiner Augen hinterlies einen Schatten, als ob die Augen geschminckt wären. Er hatte keine Schuhe an, was ihn aber, trotz der Kälte, nicht zu stören schien. Er trug eine beige-braune Jeans und ein sandbraunes T-Shirt mit schwarzgrauen Tupfen, passend zu dem Gefieder des anderen Falken, der sich auf seine Schulter gesetzt hatte und eine Maus im Schnabel trug. 
+
+"`Na, ihr beiden Hübschen, seit ihr wieder am Welt erfinden?"' lachte er. "`Guten Morgen, Horus, wie ich sehe habt ihr beiden schon eine Rundflug über das Rheinknie gemacht"' "`Jep!"' Der Falke auf der Schulter verschluckte die Maus und liess einen Blutstropfen fallen, Horus wischte sich mit dem Handrücken versonnen über den Mund und hinterliess dort ebenfalls eine Blutspur. "`Es geht nichts über frische Luft unter den Flügeln am Morgen!"' -Und eine leckere Maus, statt Müsli wie bei Muttern, gell, Papa? "`Sei nicht so frech, Kebi,"' schmunzelte Horus und streichelte dem Falken sanft über die Kehle. 
+
+"`Amélie ist weg!"' "`Die Kleine gefällt mir, hat sich sofort auf die Feuerprobe\cite{Steiner75} gestürzt, was?"' -Ja, aber Isis gefällt das nicht. Wir sollten sie schnell wieder finden, antwortete Anubis. -Kebi wir brauchen deine Hilfe und die deiner Brüder. -Alles klar, antwortete Kebi, ich rufe Amsi und Tef\dots  Schritte ertönten aus dem Garten. "`Morgen Papa!"' Amset und Duamutef kamen aus dem Gebüsch, "`wir haben Hapi versucht zu helfen, seine Frau zu beruhigen und den kleinen ein Winternest gebaut. Für Paviane ist es recht kalt."' "`Ich würde euch ja Suchen helfen, Jungs, aber ich muss das Haus und die Umgebung für Re und Osiris sichern und die Barkenfahrt planen."' liebevoll tätschelte Horus den Kopf des Schakals. Thot sagte: "`Ich habe noch einiges für Osiris vorzubereiten. Wenn ihr Hilfe braucht ruft mich, ich bin in meinem Labor."' Thot erhob sich und ging mit Horus in die Richtung des Hauses. "`Ich geh' wohl erstmal bei Isis vorbei"' hörten sie Horus sagen, "`manchmal braucht eine Mutter ihren Sohn\dots".
+
+-Also gut, ich werde euch begleiten. Ich denke, wir sollten Isfet mitnehmen, meinte Anubis. -Was, das Chaoskind? Duamutef schlug unruhig mit seinem Schweif, -die bringt alles durcheinander. -Ja, antwortete Anubis, -aber, wenn alles durcheinander ist, dann wirkt sie druchaus\dots ordnend. "`Aber dann gehen wir mit ihr zusammen. Mir wäre es unheilmlich, sie alleine in der Stadt zu wissen"' meinte Amset. "`Kebi kann von oben suchen, Tef Amélies Spur verfolgen."' -Das ist ein guter Plan. Sie trennten sich, der Schakal und der Falke verschwanden in die Stadt, Anubis und Amset suchten Isfet.
+
+\sterne
+
+"`Hey, Papi"' Maat schlüpfte in das Zimmer ihres Vaters Re. Er hatte ein Zimmer zur Rheinseite mit einer schönen Aussicht über Kleinbasel und den Rhein gewählt. Re liebte Flüsse und Boote. Schliesslich war er selbst Kapitän einer Barke. Er hatte seine Sonnenbrille auf, es ging nicht anders, wenn er inkognito bleiben wollte, denn seine Augen leuchteten wie das hellste Sonnenlicht, was sie ja auch waren. Seine Haare waren lockig und dicht und wenn er sie nicht in einem Pferdeschwanz gebändigt hätte, stünden sie ab wie Sonnenstrahlen. So hatte sich aus feinen Haaren eine Art Corona um sein Haupt gebildet. Seine Kleidung hatte er lässiger als Thot gewählt, der stets in massgeschneiderten, schwarzen Anzügen steckte, und hatte eine Bluejeans an, Seglerschuhe und ein blaues Jacket unter dem er einen weissen Rollkragenpullover trug. Er sass in einem hohen, gemütlichen, ledernen Ohrensessel und lass die Basler Tageszeitung. Er schien sich zu amüsieren.
+
+Maat brachte ihm einen Becher mit seinem geliebten Ceylon-Tea. Der Becher war offensichtlich mit der Hingabe eines Mädchens bemalt worden, das Rosa, Katzen und seinen Vater liebte, was z.B. an der Aufschrift "`Daddy is the best"' zu erkennen war. Re erkannte Stil, wenn er ihn sah und war der Meinung, dass die ehemaligen Besetzter in gewissen Bereichen durchaus Stil besassen. Er nahm, wenn immer möglich um Fünf Uhr seinen Tee in eben diesem Becher\dots Im Urlaub, so meinte er, könnte,  müsste man eine Ausnahme machen, daher nahm er den Tee heute früher, in der Hoffnung es bliebe Zeit für einen Zweiten.
+
+"`Maat, meine Liebe, wie geht es, hast du dich an deine Feriengestalt gewöhnt?"' "`Nicht ganz Vater, der Körper einer 12 Jährigen ist nicht nur nützlich, sondern verwirrend. Ich habe das grosse Verlangen, dich jetzt fürchterlich anzuschreien, weil ich unbedingt mit in die Stadt gehen will, um diese Amélie zu suchen. Und es gefällt mir nicht, dass Isfet darf und ich nicht!"' Re seufzte "`Maat, wir müssen alle das eine oder andere Opfer bringen bei diesem Abenteuer, dennoch bin ich sicher, am Ende werden die guten Erinnerungen überwiegen. Du weisst, du kannst nicht einfach in der Stadt herumlaufen\dots "' "`Ich weiss,"' Maat schob die Unterlippe vor.
+
+ "`Aber das Isfet darf, ist gemein!"' Sie stampfte mit dem Fuss auf. "`Nein, ist es nicht!"' Re sprach ruhig und gelassen, hinter dem Glas seiner Sonnenbrille blitzte es kurz auf. Maat setzte sich und nahm einen Schluck Tee, aus dem Katzenbecher. "`Deine Schwester ist oft genug der Störenfried, gönne ihr die gute Tat, die ihr hoffentlich gelingen möge, weil wir sonst ein grosses Problem hätten."' "`Du hast ja recht, Vater. Ich weiss nicht, wie die Menschen es ihr ganzes Leben aushalten mit all diesen Drüsen und Körperdingen. Kein Wunder benehmen sie sich merkwürdig und gegen jegliche Ordnung."' Maat hatte vorsichtig ihre Feder, die sie stets im Haar mit sich führte, hervorgeholt und sich gedankenvoll damit über die Wange gestrichen. "`Siehst du, meine Liebe, was bin ich froh, können wir diese aufregenden Ferien machen."' Re strahlte. Maat schaute verwundert auf die Feder und strich sich dann mit den Fingern über die Wange, dann lächelte auch sie.
+
+In diesem Moment klopfte es an der Tür und Horus kam schwungvoll hinein. "`Grossvater, wir sollten die Nachtfahrt noch einmal durchgehen. Vorallem die erste Stunde, die wir mit Amélie zusammen fahren. Ausserdem ist der Rhein nicht ganz ohne\dots"' "`Gut, wie ich sehe, bist du voller Tatendrang, Enkel.  Maat, mein Schatz,\dots"' "`Bin schon weg, Vater. Ich glaube, ich nehme ein Bad\dots, wenn schon Urlaub mit physischem Körper und so."' Murmelte sie und liess die beiden verdutzt dreinschauenden Götter zurück. 
+
+\sterne
+
+
+Behutsam klopfte Thot an Osiris Tür -Osiris? Bist du wach? -Komm rein. Thot betrat den abgedunkelten Raum. Er war froh, Isis war nicht da, ihr wollte er erst wieder begegnen, wenn Amélie wieder aufgetaucht war.
+
+-Wenn die Nacht begonnen hat, wird es für dich leichter werden. tröstete Thot, -dann tauchen wir in die Zwischenzeit der Rauhnächte ein und die Heilige Nacht gibt zusätzlich Kraft und Schutz. In dem Moment bemerkte Thot die Tannenzweige, die ihren harzigen Duft verstömten. -Hans hat dich besucht, stellte er fest. -Ja, er hat mir die Tannenzweige gebracht und etwas Mistel, daraus wird mir Isis einen Tee machen. -Du wirst mit Isis sprechen müssen, Thot seufzte, wenn unser Vorhaben glückt, wirst du nicht mehr der alte sein. -Das will ich schwer hoffen, Osiris sah Thot fest an, -für sie wird es leichter werden\dots und für mich. 
+
+-Ich habe eine gute Nachricht für dich, ich habe den Ort gefunden, an dem genug Lebenskraft flisst, um dich aus der Vergangenheit in die heutige Zeit zu bringen. Thots Augen glänzten, -wenn der richtige Zeitpunkt gekommen ist, können wir im Bereich des Münsters die blockierte Zeit lösen und du kannst in die Gegenwart durchkommen. -Wenn Amélie ihre Aufgabe erfüllt. -Wenn Amélie ihre Aufgabe als Menschenvertreterin erfüllt.
+
+
+
+\chapter{}
+
+Die Verkäuferin in dem grossen, mehrstöckigen Buchladen wurde unruhig. Amélie sah, wie sie mit einer Kollegin zu tuscheln anfing und in ihre Richtung zeigte. Immerhin habe ich hier zwei warme, unterhaltsame Stunden verbracht, dachte Amélie.
+
+Sie wusste nicht wie lange sie durch das Gittertor gestarrt hatte. Und wie oft sie all die Namen gerufen hatte, an die sie sich erinnern konnte. Sie wusste nicht, wie laut sie nach Berta gerufen hatte und sie heimlich verflucht hatte. 
+
+Das hatte sie herausgefunden: Ihren Aufenthalt hier in der fremden Stadt, hatte sie Berta zu verdanken. Das hiess, sie musste versuchen, auf Berta-Art an die Dinge heranzugehen. Sie schob den Groll und die Verzweiflung von sich weg und dann betrachtete sie das Tor und den Innenhof noch einmal\dots Aber Amélie konnte nichts entdecken: Keinen Garten, und kein Leben. Das Haus schien unbewohnt. Amélie suchte sich durch die Gasse einen Weg um das Haus herum. Es stand in einer Häuserzeile, aber neben dem Nachbarhaus links, führte eine schmale Gasse zur Vorderfront des Hauses.
+
+Amélie stieg den Hügel ein kleines Stück wieder bergauf, bis sie vor dem Haus stand, vor dem sich die Gasse zu einer Terasse über den Rhein öffnete. Das Haus war offensichtlich ein Amtsgebäude und die Tür verschlossen. Auch bei dem Nebenhaus, das zu dem blauen in dem sie die Nacht verbracht haben musste, dazugehörte, und das mit 'weisses Haus' angeschrieben war, waren die Türen versperrt. Auch dieses Haus war ein Amt. Amélie versuchte durch die Fenster zu schauen. Sie rief und hämmerte an die Tür, bis einige Passanten stehen blieben und ein Mann pöbelte, er würde gleich der Polizei anrufen. Amélie überlegte kurz, ob sie weiterrandalieren sollte, vielleicht konnte die Polizei ihr helfen? 
+
+ich muss einen Ort finden, an dem ich nachdenken kann. Und an dem ich nicht erfriere! Auf diese Weise war Amélie in den Buchladen geraten. Und nun fiel sie auf, nach zwei Stunden, welch Wunder! Sie hatte keine Jacke dabei und ihre Füsse steckten in Plüschpantoffeln. Ich seh' aus, als wäre ich wo ausgebrochen, dachte sie. Bin ich auch! Eben, meldete sich die Amélievernunftstimme: und deshalb hast du keine Papiere und kein Geld und keine warmen Kleider.
+
+Amélie unterbrach ihre Gedanken und lief eilig auf die Rolltreppe zu, denn die Verkäuferin war im Anmarsch samt ihrer Kollegin. Amélie verschnaufte erst einige Läden weiter. Über dem Geschäft hing eine Uhr, es war kurz nach drei, na, toll, dachte Amélie in knapp einer Stunden werden die Läden geschlossen und dann ist für alle heilig Abend ausser für mich.
+
+\sterne
+
+"`Isfet, das ist jetzt der zweite Laden, wo sie uns rausschmeissen! Was mir eigendlich egal ist, aber wir müssen Amélie finden."' "`Amsi, mach kein Stress, solange so viele Leute herumlaufen, finden wir sie eh nicht. Wir warten einfach, bis alle Läden schliessen und suchen dann."' Isfet hopste vergnügt vor Amset her, der missmutig hinterherstapfte. Anubis und Duamutef hatten sich alle Mühe gegeben Amélies Spur zu finden, aber es waren zuviele Menschen und Gerüche.
+
+-Amsi? "`Isfet sei mal still, Kebi meldet sich!"' -Amsi, ich muss zum Haus zurückfliegen. Es wird dunkel, ich seh' nichts mehr. -Hast du denn irgendwas gesehen, fragte Amset verzweifelt, -Nein, es sind zu viele Menschen. Bis später! Ein Falkenruf ertönte hoch über ihnen. "`Hab' ich doch gesagt"' grinste Isfet.
+
+-Das Problem ist, mischte sich Anubis ein, -Wir können Amélie nur finden, wenn sie bereit ist. "`Was heisst denn das?"' Amset raufte sich die Haare. -Amélie muss die Feuerprobe bestehen und das muss sie alleine tun. Sie muss den Schleier der sinnlichen Welt lüften, lüften wollen. Solange sie an ihrem Elend hängt und zagt und kämpft, ist ihr der Weg versperrt und uns auch.
+
+"`Können wir denn nichts tun?"' Amset kickte wütend eine leere Dose gegen die Hauswand. -Nein, denn wenn wir es könnten, wie könnten die Menschen einen freien Willen haben? "`ich finds gut, dann können wir noch in den läden etwas stöbern"' "`Isfet! Nein!"' Aber sie war in der nächsten Boutique verschwunden. Anubis setzte sich in den Eingang und lauschte. Duamutef tat es ihm gleich, aber dann bemerkte er eine aufregende Duftnote an der Hauswand.
+
+\sterne
+
+Amélie war erschöpft. Sie fand einen Brunnen, was in dieser Stadt nicht schwer war und trank. Das eiskalte Wasser belebte sie und füllte den leeren Magen. Ich muss mich konzentrieren, sonst bleibt mir nichts anderes übrig, als zur Polizei zu gehen, überlegte Amélie, aber das kann nicht die Lösung sein. Die Frage ist: Warum schickt Berta mich nach Basel zu einem wirklich durchgeknallten Haufen von ägyptischen Wesen? Bestimmt nicht, damit ich den basler Polizeiposten kennenlerne. Amélie musste grinsen und irgendwie fühlte sie sich dadurch besser. 
+
+Es ging um den Traum\dots aber für die Lösung des Traums brauchte sie scheinbar die ägyptischen Götter. Wie finde ich Götter? Was hatte Berta mir gesagt? 'Kind, wenn du etwas wirklich willst, dann gehe los und öffne alle Türen, die du finden kannst, aber warte, bevor du dich für eine entscheidest, ob dir von dort ein Wink entgegen kommt. Lass' den Nornen den Platz, den sie zum Spinnen  des Schicksals brauchen. Erzwinge nichts, aber sitz' auch nicht wehleidig herum, dann bekommst du alles, was du willst.'
+
+Die Kirchenglocken begannen, eine nach der anderen zu läuten. Als Amélie sich umsah, bemerkte sie wieviele Läden schon geschlossen hatten. Sie schlang die Arme um sich. Warum hatte sie sich am Morgen nicht für den dicken Wollpullover entschieden, sondern für das schwarze, kurze Cordkleid, schwarze Strumpfis und einen weissen Rollkragen? Zum Glück habe ich, bevor ich in den Garten ging, die dünne Wolljacke angezogen, dachte sie.
+ 
+Amélie stand still. Ich kann die Götter nicht finden, aber vielleicht kann ich mich finden lassen? Sie müssen nach mir suchen. Wenn sie mich verlieren, würde Berta sie alle zu Brei schlagen, Amélie grinste wieder. Wo finden sie mich am besten vor der Haustür! 
+
+Amélie staunte wie schnell sie den Weg zurück zum blauen Haus fand. Sie setzte sich auf die Treppe am vorderen Eingang, lehnte den Rücken gegen die helle Holztür. Die Welt in der die Götter sind, muss eine andere sein, dachte Amélie. Sie schloss die Augen und wurde still und stellte sich alle Götter, Wesen vor, die sie in dem blauen Haus gesehen hatte. Den schönen Amset, die lustige Isfet und die kühle Maat, Duamutef, den Schakal, den Falken. Sie dachte an Hathor, die rund und klein ind er grossen Küche herumgekugelt war und ihr das Frühstück serviert hatte.
+
+Amélie lief das Wasser im Mund zusammen. genau in diesem Moment würde sie gleich zwei Portionen vom Fuul mudammas essen. An das Gericht aus dicken Bohnen hatte sie sich nicht herangewagt, sondern sich über ein Omlette mit Fleischstückchen und Schafkäse hergemacht. Dazu gab es ein dünnes Fladenbrot und Hummus mit frischer, knackiger Petersilie\dots 
+
+Die Tür in Amélies Rücken gab nach und sie kippte in die Eingangshalle. "`Ja, wen haben wir denn da?"' fragten sie zwei riesige Nasenlöcher die zwischen einem dicken, wilden Bart hervorlugten. Amélies kopf war auf Hans nackten, braungebrannten Füssen gelandet. im gleichen Moment bekam sie einen Schleck von einer wie sich später herausstellte Schakalzunge und Amset und Isfet drängelten sich durch die Tür.
+
+"Amélie, du hast es geschafft!" "`Natürlich hat sie es geschafft und nun husch, alle an den Tisch! Bevor die Barke ablegt, müsst ihr euch alle stärken!"' zwischerte Hathor, die sich ihre Hände in der Schürze mit Kuhmuster abwischte und wieder in die Küche eilte. Amélie stand auf, wobei sie Amsets Hand, die er ihr reichte, geflissendlich ignorierte: "`Barke?"' "`Schätze wir sollten machen, was die alte Kuh sagt, sonst gibts heute nichts mehr zu essen."' Isfet legte den Arm um Amélie "`Weisst du, dass wir ein gutes Chaosteam wären, wir zwei?"' fragte sie und schob Amélie Richtung Küche. -Das befürchte ich auch, stöhnte Duamutef, dem ein Tropfen an der Nase hing schlotternd und trabte mit dem grinsenden Amset ebenfalls in Richtung Küche.
+
+"`Und?"' fragte Hans den schwarzen Hund, der wie eine Statue in der Halle gesessen und alles beobachtet hatte. -Wenn sie will, ist sie schon sehr stark, das ist gut! Anubis erhob sich und schlenderte in die Küche. Hans bemerkte ein leichtes Zittern, aber schliesslich durfte ein Gott frieren, wenn er in einem dünnen Hundefell Stunden in der basler Winterkälte verbracht hatte.
+
+
+
+
+\part*{Zweite Stunde\\"`Kluge, die ihren Herrn beschützt"'}
+\addcontentsline{toc}{part}{Zweite Stunde}
+
+\tableofcontents
+
+% \printbibliography
+
+\bibliography{Bilbliothek.bib}{}
+\bibliographystyle{plain}
+
+\end{document}

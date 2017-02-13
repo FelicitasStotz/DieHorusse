@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<manage_target braces="true" utf8="true">hosussoehne</manage_target>
+	<library_folder monitor="false"></library_folder>
+	<taglist/>
+	<doclist>
+		<doc>
+			<filename></filename>
+			<key>west2000schlange</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Schlange am Firmament</bib_title>
+			<bib_authors>West, John Anthony</bib_authors>
+			<bib_journal>Die Weisheit des Alten Ägypten. Frankfurt aM (Zweitausendeins)</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hornung91</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Nachtfahrt der Sonne : eine altägyptische Beschreibung des Jenseits</bib_title>
+			<bib_authors>Hornung, Erik</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="Address">Zürich, München</bib_extra>
+			<bib_extra key="Isbn">3-7608-1036-5</bib_extra>
+			<bib_extra key="Note">Mit Literaturhinw.</bib_extra>
+			<bib_extra key="Publisher">Artemis &amp; Winkler</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Teichmann99</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die ägyptischen Mysterien</bib_title>
+			<bib_authors>Teichmann, Frank</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="address">Stuttgard</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Verlag Freies Geistesleben</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaIsis</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Isis</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Graf10</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die hochheilige Trinosophia</bib_title>
+			<bib_authors>Graf von Saint-Germain, Leopold-Georg and Dietzfelbinger, Konrad</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="address">Königsdorf</bib_extra>
+			<bib_extra key="edition">2.</bib_extra>
+			<bib_extra key="publisher">Königsdorfer Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dietzfelbinger10</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mysterienschulen</bib_title>
+			<bib_authors>Dietzfelbinger, Konrad</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="address">Königsdorf</bib_extra>
+			<bib_extra key="edition">3.</bib_extra>
+			<bib_extra key="publisher">Königsdorfer Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Meier86</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Vogel Gryff</bib_title>
+			<bib_authors>Meier, A. Eugen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="publisher">Litera Buch- und Verlags-Aktiengesellschaft</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kolpaktchy79</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das  ägyptische Totenbuch</bib_title>
+			<bib_authors>Kolpaktchy, Gregoire, Übersetz. </bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1979</bib_year>
+			<bib_extra key="address">Bern-München-Wien</bib_extra>
+			<bib_extra key="edition">6.</bib_extra>
+			<bib_extra key="publisher">Scherz Verlag für Otto Wilhelm Barth Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Derungs04</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Geheimnisvolles Basel</bib_title>
+			<bib_authors>Derungs, Kurt</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="address">Grenchen, Schweiz</bib_extra>
+			<bib_extra key="edition">2. erweiterte Neuausgabe</bib_extra>
+			<bib_extra key="publisher">edition amalia, </bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Andrew06</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ägypten</bib_title>
+			<bib_authors>Andrew, Ian and Harris, Nick and Ward, Helen and Lambert, Jonathan and Ta, Nghiem</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="publisher">arsEdition GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Brunner-Traut87</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die alten Ägypter</bib_title>
+			<bib_authors>Brunner-Traut, Emma</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1987</bib_year>
+			<bib_extra key="address">Stuttgart</bib_extra>
+			<bib_extra key="edition">4.</bib_extra>
+			<bib_extra key="publisher">W. Kohlhammer GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bauval98</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Der Schlüssel der Sphinx</bib_title>
+			<bib_authors>Bauval, Robert and Handcock Graham</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="edition">Sonderausgabe</bib_extra>
+			<bib_extra key="publisher">Paul List Verlag GmbH &amp; Co KG</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bauval94</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das Geheimnis des Orion</bib_title>
+			<bib_authors>Bauval, Robert and Gilbert, Adrian</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="publisher">Paul List Verlag GmbH &amp; Co KG</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Paganini05</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Giza-Mauer</bib_title>
+			<bib_authors>Paganini, Rico and Risi, Armin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="address">Jestetten, Deutschland</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Govinda-Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>S98</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Hieroglyphen</bib_title>
+			<bib_authors>Sandison, David</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="address">Augsburg</bib_extra>
+			<bib_extra key="publisher">Weltbild-Verlag GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wiese01</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Antikenmuseum Basel und Sammlung Ludwig Die ägyptische Abteilung</bib_title>
+			<bib_authors>Wiese, Andrew</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="address">Mainz am Rhein</bib_extra>
+			<bib_extra key="publisher">Verlag Philipp von Zabern</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lange78</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ägypten</bib_title>
+			<bib_authors>Lange, Kurt and Hirmer Max</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1978</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="edition">Sonderausgabe</bib_extra>
+			<bib_extra key="publisher">Hirmer-Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>04</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Tutanchamun, Das goldene Jenseits</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">Wiese, André and Brodbeck Andreas</bib_extra>
+			<bib_extra key="publisher">Antikenmuseum Basel und Sammlung Ludwig</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Unknown94</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The egyptian Book of the Dead</bib_title>
+			<bib_authors>Unknown, Scribes and Artists</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="address">San Francisco</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Chronicle Books LLG</bib_extra>
+			<bib_extra key="series">The Complete Papyrus of Ani</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>03</key>
+			<notes></notes>
+			<bib_type>proceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Edgar Cayce und das antike Ägypten</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="address">Schäffern</bib_extra>
+			<bib_extra key="organization">Edgar Cayce Gruppe Schweiz Zürich</bib_extra>
+			<bib_extra key="publisher">Arcturus Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Uxkull97</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Eine Einweihung in alten Ägypten</bib_title>
+			<bib_authors>Uxkull von, Woldemar</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="address">Wuppertal</bib_extra>
+			<bib_extra key="publisher">Rüggeberg-Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Weden78</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ägyptische Einweihung</bib_title>
+			<bib_authors>Weden, Wilhelm and Spindler, Wolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1978</bib_year>
+			<bib_extra key="address">Frankfurt am Main</bib_extra>
+			<bib_extra key="edition">Originalausgabe</bib_extra>
+			<bib_extra key="publisher">Fischer Taschenbuch Verlag GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Steiner92</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ägyptische Mythen und Mysterien</bib_title>
+			<bib_authors>Steiner, Rudolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="address">Dornach</bib_extra>
+			<bib_extra key="edition">5.</bib_extra>
+			<bib_extra key="publisher">Rudolf Steiner Verlag</bib_extra>
+			<bib_extra key="series">GA 106</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Blume13</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Symbole, Geschichte, Einfluss &amp; Wirkung</bib_title>
+			<bib_authors>Blume, Michael</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>2</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">Filderstadt</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">sciebooks Verlag Zehra Blume</bib_extra>
+			<bib_extra key="series">Freimaurer, Rosenkreuzer, Illuminaten</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Steiner60</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Welt, Erde und Mensch</bib_title>
+			<bib_authors>Steiner, Rudolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1960</bib_year>
+			<bib_extra key="address">Freiburg i. Breisgau</bib_extra>
+			<bib_extra key="edition">3-</bib_extra>
+			<bib_extra key="editor">Lauer, Hans Erhard</bib_extra>
+			<bib_extra key="publisher">Novalis-Verlag</bib_extra>
+			<bib_extra key="series">GA 105</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Crowley85</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das Buch Thoth (Ägyptischer Tarot)</bib_title>
+			<bib_authors>Crowley, Aleister</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1985</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="edition">3.</bib_extra>
+			<bib_extra key="publisher">Urania Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hornung97</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Unterweltsbücher der Ägypter</bib_title>
+			<bib_authors>Hornung, Erik</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="address">Augsburg</bib_extra>
+			<bib_extra key="edition">Lizensausgabe</bib_extra>
+			<bib_extra key="publisher">Weltbild Verlag GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>von11</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Giuseppe balsamo, der  berüchtigste Abenteurer und Betrüger seines Zeitalters</bib_title>
+			<bib_authors>von Train, Joseph Karl</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="edition">Faksimile</bib_extra>
+			<bib_extra key="publisher">Nabu Press</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hagenbach12</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Jakob Sarasin und seine Freunde</bib_title>
+			<bib_authors>Hagenbach, Karl Rudolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="edition">Faksimile</bib_extra>
+			<bib_extra key="publisher">Nabu Press</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>von88</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Nachricht von des berüchtigten Cagliostro Aufenthalte in Mitau, im Jahre 1779, und von dessen dortigen magischen Operationen</bib_title>
+			<bib_authors>von der Recke, Charlotta Elisabeth Konstantia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="address">Berlin</bib_extra>
+			<bib_extra key="publisher">Berliner Handpresse</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rotterdam14</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>das Lob der Torheit</bib_title>
+			<bib_authors>Rotterdam, Erasmus von</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="address">Stuttgart</bib_extra>
+			<bib_extra key="publisher">Reclam</bib_extra>
+			<bib_extra key="series">Reclams Universal-Bibliothek Nr. 1907</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rotterdam11</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Papst  Julius vor der Himmelstür</bib_title>
+			<bib_authors>Rotterdam, Erasmus von</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="address">Mainz</bib_extra>
+			<bib_extra key="publisher">Dieterich'sche Verlagsbuchhandlung</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bachofen75</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das Mutterrecht</bib_title>
+			<bib_authors>Bachofen, Johann Jakob</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1975</bib_year>
+			<bib_extra key="address">Frankfurt am Main</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Suhrkamp Taschenbuch Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Paracelsus12</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Über die 5 Elemente</bib_title>
+			<bib_authors>Paracelsus</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="address">Waltrop</bib_extra>
+			<bib_extra key="editor">Hermetischer Bund</bib_extra>
+			<bib_extra key="publisher">Christof Uiberreiter Verlag</bib_extra>
+			<bib_extra key="series">Sonderausgabe Nr VI</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Brant13</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das Narrenschiff</bib_title>
+			<bib_authors>Brant, Sebastian</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">Wiesbaden</bib_extra>
+			<bib_extra key="publisher">Matrixverlag GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmeier12</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Rufmord, Leonhard Thurneysser</bib_title>
+			<bib_authors>Hofmeier, Thomas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="address">Berlin &amp; Basel</bib_extra>
+			<bib_extra key="edition">1. Originalausgabe</bib_extra>
+			<bib_extra key="publisher">Leonhard-Thurneysser-Verlag</bib_extra>
+			<bib_extra key="series">secretBasel 5</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Spaar13</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Odilia</bib_title>
+			<bib_authors>Spaar, Michaela</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Futurum Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tschacher00</key>
+			<notes></notes>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Der Formicarius des Johannes Nider von 1437/38</bib_title>
+			<bib_authors>Tschacher Werner</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="address">Aachen</bib_extra>
+			<bib_extra key="school">Techn. Hochsch.</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Moore14</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>König, Krieger, Magier, Liebhaber</bib_title>
+			<bib_authors>Moore, Robert and Gillette, Douglas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="address">Hamburg</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Aurinia Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Francia10</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Göttin im Federkleid</bib_title>
+			<bib_authors>Francia, Luisa</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="publisher">nymphenburger i.d. F.A.Herbig Verlagsbuchhandlung GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Frey10</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Wie man einen verdammt guten Roman schreibt</bib_title>
+			<bib_authors>Frey, N. James</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="address">Köthen</bib_extra>
+			<bib_extra key="publisher">Hemann-Joseph Emons Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Frey11</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Wie man einen verdammt guten Roman schreibt 2</bib_title>
+			<bib_authors>Frey, N. James</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="address">Köthen</bib_extra>
+			<bib_extra key="publisher">Hermann-Joseph Emons Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Eugster16</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Unfassbar, Die Geister, die ich rief</bib_title>
+			<bib_authors>Eugster, Andreas</bib_authors>
+			<bib_journal>Coopzeitung</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>Nr. 43</bib_number>
+			<bib_pages>13-17</bib_pages>
+			<bib_year>2016</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Doughty16</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fragen Sie Ihren Bestatter</bib_title>
+			<bib_authors>Doughty, Caitlin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="publisher">Verlag C.H. Beck oHG</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wegmüller04</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Zigeunertarot</bib_title>
+			<bib_authors>Wegmüller, Walter and Golowin, Sergius</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="howpublished">Orakelkarten</bib_extra>
+			<bib_extra key="note">Königsfurt-Urania Verlag/PRO</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Crowley69</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Thoth Tarot</bib_title>
+			<bib_authors>Crowley, Aleister</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1969</bib_year>
+			<bib_extra key="howpublished">Orakelkarten</bib_extra>
+			<bib_extra key="note">Königsfurt-Urania Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmeier14</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Hauptstadt der Alchemie</bib_title>
+			<bib_authors>Hofmeier, Thomas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="address">Berlin &amp; Basel</bib_extra>
+			<bib_extra key="publisher">Leonhard-Thurneysser-Verlag</bib_extra>
+			<bib_extra key="series">secretbasel 1.1</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmeier13</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Basels Ungeheuer</bib_title>
+			<bib_authors>Hofmeier, Thomas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">Berlin &amp; Basel</bib_extra>
+			<bib_extra key="publisher">eonhard-Thurneysser-Verlag</bib_extra>
+			<bib_extra key="series">secretBasel 2</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmeier16</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Über den Dächern Basels</bib_title>
+			<bib_authors>Hofmeier, Thomas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="address">Berlin &amp; Basel</bib_extra>
+			<bib_extra key="publisher">Leonhard-Thurneysser-Verlag</bib_extra>
+			<bib_extra key="series">secretBasel 6</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Graber85</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Basler Fährengeschichten</bib_title>
+			<bib_authors>Graber, Rudolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1985</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="publisher">Friedrich Reinhardt Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gerber08</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Spuk- und Hexengeschichten aus der Region Basel</bib_title>
+			<bib_authors>Gerber, Kurt</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="publisher">Friedrich Reinhardt Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lendorf66</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Kleine Geschichte der Baslerin</bib_title>
+			<bib_authors>Lendorf, Gertrud</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1966</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="publisher">Birkhäuser Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zihlmann-Märki10</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>&quot;Gott gebe das wir das Liebe Engelein mit Freüden wieder sehen Mögen&quot;</bib_title>
+			<bib_authors>Zihlmann-Märki, Patricia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="address">Zürich</bib_extra>
+			<bib_extra key="publisher">Chronos-Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pini00</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Beitreten oder nicht? Wie Basel zur Schweiz kam...</bib_title>
+			<bib_authors>Pini, Elena and Heyne, K. Andreas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">Staatskanzlei des Kantons Basel-Stadt</bib_extra>
+			<bib_extra key="publisher">Schwabe &amp; Co AG Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Egger90</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Basler Totentanz</bib_title>
+			<bib_authors>Egger, Franz</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1990</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="publisher">Buchverlag Basler Zeitung und Historisches Museum Basel</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lienhard03</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Basler Basilisken</bib_title>
+			<bib_authors>Lienhard, Christian and Widmer, Christiane</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="publisher">Spalentor Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hänni08</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Magischer Jura</bib_title>
+			<bib_authors>Hänni, Pier</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="address">Baden &amp; München</bib_extra>
+			<bib_extra key="publisher">AT Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Schweizer-Völker12</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mythische Orte am oberrhein</bib_title>
+			<bib_authors>Schweizer-Völker, Edith and Schulte-Kellinghaus, Martin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="edition">3.</bib_extra>
+			<bib_extra key="publisher">Christoph Merian verlag</bib_extra>
+			<bib_extra key="series">Band 2</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Merz99</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Orte der Kraft in der Schweiz</bib_title>
+			<bib_authors>Merz, Blanche</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="address">Aarau/Schweiz</bib_extra>
+			<bib_extra key="edition">4.</bib_extra>
+			<bib_extra key="publisher">AT Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Krause07</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Welt der Kelten</bib_title>
+			<bib_authors>Krause, Arnulf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="address">Frankfurt am Main</bib_extra>
+			<bib_extra key="edition">2.</bib_extra>
+			<bib_extra key="publisher">Campus Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>d'Aujourd'hui90</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Entwicklung Basels vom keltischen Oppidum zur hochmittelalterlichen Stadt</bib_title>
+			<bib_authors>d'Aujourd'hui, Rolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1990</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="edition">2.</bib_extra>
+			<bib_extra key="publisher">chäologische Bodenforschung des Kantons Basel-Stadt</bib_extra>
+			<bib_extra key="series">Sciptum zur Frühgeschichte Basels</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>08</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Unter uns, Archäologie in Basel</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">archäologische Bodenforschung Basel-Stadt</bib_extra>
+			<bib_extra key="publisher">Christoph Merian Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Storl14</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die alte Göttin und ihre Pflanzen</bib_title>
+			<bib_authors>Storl, Wolf Dieter</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Kailash Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Storl13</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Der Bär</bib_title>
+			<bib_authors>Storl, Wolf-Dieter</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">Baden &amp; München</bib_extra>
+			<bib_extra key="edition">3.</bib_extra>
+			<bib_extra key="publisher">AT Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Roob96</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Alchemie &amp; Mystik</bib_title>
+			<bib_authors>Roob, Alexander</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="address">Köln</bib_extra>
+			<bib_extra key="publisher">Benedikt Taschen Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hecht11</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Alltagskultur und Totenrituale der Kelten</bib_title>
+			<bib_authors>Hecht, Yolanda and Niederhäuser, ANdreas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">archäologische Bodenforschung Basel-Stadt</bib_extra>
+			<bib_extra key="publisher">Christoph Merian Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Steiner75</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Wie erlangt man Erkenntnisse der höheren Welten?</bib_title>
+			<bib_authors>Steiner, Rudolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1975</bib_year>
+			<bib_extra key="address">Dornach, Schweiz</bib_extra>
+			<bib_extra key="edition">22.</bib_extra>
+			<bib_extra key="editor">Rudolf-Steiner-Nachlassverwaltung</bib_extra>
+			<bib_extra key="publisher">Rudolf Steiner Verlag</bib_extra>
+			<bib_extra key="series">GA 10</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>14</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das Corpus Hermeticum</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">M.P. Steiner</bib_extra>
+			<bib_extra key="publisher">Edition Oriflamme</bib_extra>
+			<bib_extra key="series">Faksimile von 1503</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaThot</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Thot</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>AnthrowikiThot</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>http://anthrowiki.at/Thot</bib_title>
+			<bib_authors>Anthrowiki</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>AnthrowikiCagliostro</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>http://anthrowiki.at/Graf_Alessandro_Cagliostro</bib_title>
+			<bib_authors>Anthrowiki</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaCagliostro</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Alessandro_Cagliostro</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaPerchta</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Perchta</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaFrauHolle</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Frau_Holle</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>InternetNerthus</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>http://anthrowiki.at/Nerthus</bib_title>
+			<bib_authors>Internet</bib_authors>
+			<bib_journal>http://anthrowiki.at/Nerthus</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Anthrowiki</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaEisenhans</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Der_Eisenhans</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaSilenos</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Silenos</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaSucellos</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Sucellus</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2026</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>CeltoiwikiSucellos</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>http://wiki.celtoi.org/Sucellus</bib_title>
+			<bib_authors>Celtoiwiki</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gödrich15</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Das Kloster Odilienberg als Zentrum des esoterischen CHristentums</bib_title>
+			<bib_authors>Gödrich, Manfred</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="address">Stuttgard</bib_extra>
+			<bib_extra key="publisher">J. Ch. Mellinger Verlag GmbH</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Storl14</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die alte Göttin und ihre Pflanzen</bib_title>
+			<bib_authors>Storl, Wolf-Dieter</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="address">München</bib_extra>
+			<bib_extra key="edition">1.</bib_extra>
+			<bib_extra key="publisher">Kailash Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Egger15-1</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Der grosse Stadtplan von Matthäus Merian eine Utopie</bib_title>
+			<bib_authors>Egger Franz</bib_authors>
+			<bib_journal>hmb magazin</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10-26</bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Egger15</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Matthäus Merian d.Ä.</bib_title>
+			<bib_authors>Egger, Franz</bib_authors>
+			<bib_journal>hmb magazin</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>6-9</bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmeierhmb</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ansichtssache</bib_title>
+			<bib_authors>Hofmeier, Thomas</bib_authors>
+			<bib_journal>hmb magazine</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>27-33</bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmeier15</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ansichtssache</bib_title>
+			<bib_authors>Hofmeier Franz</bib_authors>
+			<bib_journal>hmb magazin</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>27-33</bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Schwarz23</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Isaak Iselin, Jugend- und Bildungsjahre</bib_title>
+			<bib_authors>Schwarz Ferdinand</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>101</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1923</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">Gesellschaft zur Förderung des Guten und Gemeinnützigen</bib_extra>
+			<bib_extra key="publisher">Helbing &amp; Lichtenhahn</bib_extra>
+			<bib_extra key="series">Neujahrsblatt</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rapp89</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Der Flachsland-Teppich</bib_title>
+			<bib_authors>Rapp Buri Anna and Stucky-Schürer Monica</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>10</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1989</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="editor">Baumann &amp; Cie, Banquiers</bib_extra>
+			<bib_extra key="publisher">Historisches Museum Basel</bib_extra>
+			<bib_extra key="series">Basler Kostbarkeiten</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaIsteinerKlotz</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Isteiner_Klotz</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>altbaselDavidJoris</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>http://www.altbasel.ch/dossier/david_joris.html</bib_title>
+			<bib_authors>altbasel.ch geschichte</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+	</doclist>
+</library>
