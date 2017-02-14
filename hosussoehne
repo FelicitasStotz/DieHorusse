@@ -756,3 +756,17 @@
 	year = {2017},
 }
 
+@misc{wikivoyageÄgyptischEssenTrinken,
+	howpublished = {{Internet}},
+	author = {de.wikivoyage.org},
+	title = {{https://de.wikivoyage.org/wiki/Essen_und_Trinken_in_%C3%84gypten}},
+	year = {2017},
+}
+
+@misc{WikipediaWibrandisRosenblatt,
+	howpublished = {{Internet}},
+	author = {Wikipedia},
+	title = {{https://de.wikipedia.org/wiki/Wibrandis_Rosenblatt}},
+	year = {2016},
+}
+

@@ -1460,5 +1460,35 @@
 			<bib_year>2017</bib_year>
 			<bib_extra key="howpublished">Internet</bib_extra>
 		</doc>
+		<doc>
+			<filename></filename>
+			<key>wikivoyageÄgyptischEssenTrinken</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikivoyage.org/wiki/Essen_und_Trinken_in_%C3%84gypten</bib_title>
+			<bib_authors>de.wikivoyage.org</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaWibrandisRosenblatt</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>https://de.wikipedia.org/wiki/Wibrandis_Rosenblatt</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+		</doc>
 	</doclist>
 </library>
