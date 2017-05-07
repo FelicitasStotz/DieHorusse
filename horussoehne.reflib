@@ -56,21 +56,6 @@
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>WikipediaIsis</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Isis</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
 			<key>Graf10</key>
 			<notes></notes>
 			<bib_type>book</bib_type>
@@ -1142,171 +1127,6 @@
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>WikipediaThot</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Thot</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>AnthrowikiThot</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>http://anthrowiki.at/Thot</bib_title>
-			<bib_authors>Anthrowiki</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>AnthrowikiCagliostro</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>http://anthrowiki.at/Graf_Alessandro_Cagliostro</bib_title>
-			<bib_authors>Anthrowiki</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaCagliostro</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Alessandro_Cagliostro</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year></bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaPerchta</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Perchta</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaFrauHolle</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Frau_Holle</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>InternetNerthus</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>http://anthrowiki.at/Nerthus</bib_title>
-			<bib_authors>Internet</bib_authors>
-			<bib_journal>http://anthrowiki.at/Nerthus</bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Anthrowiki</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaEisenhans</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Der_Eisenhans</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaSilenos</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Silenos</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaSucellos</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Sucellus</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2026</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>CeltoiwikiSucellos</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>http://wiki.celtoi.org/Sucellus</bib_title>
-			<bib_authors>Celtoiwiki</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
 			<key>Gödrich15</key>
 			<notes></notes>
 			<bib_type>book</bib_type>
@@ -1432,63 +1252,105 @@
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>WikipediaIsteinerKlotz</key>
+			<key>Berkemeier-Favre04</key>
 			<notes></notes>
-			<bib_type>misc</bib_type>
+			<bib_type>booklet</bib_type>
 			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Isteiner_Klotz</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
+			<bib_title>Die Votivtafel der Herzogin Isabella von Burgund</bib_title>
+			<bib_authors>Berkemeier-Favre, Marie-Claire</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
-			<bib_year>2017</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
+			<bib_year>2004</bib_year>
+			<bib_extra key="address">Historisches Museum Basel</bib_extra>
+			<bib_extra key="howpublished">Broschüre</bib_extra>
+			<bib_extra key="note">Basler Kostbarkeiten 25</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>altbaselDavidJoris</key>
+			<key>Söll-Tauchert16</key>
 			<notes></notes>
-			<bib_type>misc</bib_type>
+			<bib_type>booklet</bib_type>
 			<bib_doi></bib_doi>
-			<bib_title>http://www.altbasel.ch/dossier/david_joris.html</bib_title>
-			<bib_authors>altbasel.ch geschichte</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2017</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>wikivoyageÄgyptischEssenTrinken</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikivoyage.org/wiki/Essen_und_Trinken_in_%C3%84gypten</bib_title>
-			<bib_authors>de.wikivoyage.org</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2017</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>WikipediaWibrandisRosenblatt</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>https://de.wikipedia.org/wiki/Wibrandis_Rosenblatt</bib_title>
-			<bib_authors>Wikipedia</bib_authors>
+			<bib_title>Die Erasmus-True</bib_title>
+			<bib_authors>Söll-Tauchert, Sabine</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
 			<bib_year>2016</bib_year>
-			<bib_extra key="howpublished">Internet</bib_extra>
+			<bib_extra key="address">Historisches Museum Basel</bib_extra>
+			<bib_extra key="howpublished">Broschüre</bib_extra>
+			<bib_extra key="note">Basler Kostbarkeiten 37</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Roda99</key>
+			<notes></notes>
+			<bib_type>booklet</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Goldene Altartafel</bib_title>
+			<bib_authors>Roda, Burkard von</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="address">Historisches Museum Basel</bib_extra>
+			<bib_extra key="howpublished">Broschüre</bib_extra>
+			<bib_extra key="note">Basler Kostbarkeiten</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rapp-Buri89</key>
+			<notes></notes>
+			<bib_type>booklet</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Der Flachsland-Teppich</bib_title>
+			<bib_authors>Rapp-Buri, Anna and Stucky-Schürer, Monica</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1989</bib_year>
+			<bib_extra key="address">Historisches Museum Basel</bib_extra>
+			<bib_extra key="howpublished">Broschüre</bib_extra>
+			<bib_extra key="note">basler Kostbarkeiten 10</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Liebendörfer13</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Die Frau im Hintergrund</bib_title>
+			<bib_authors>Liebendörfer, Helen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">Basel</bib_extra>
+			<bib_extra key="edition">2.</bib_extra>
+			<bib_extra key="publisher">Friedrich Reinhardt Verlag</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zweig16</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Triumph und Tragik des Erasmus von Rotterdam</bib_title>
+			<bib_authors>Zweig, Stefan</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="address">Frankfurt a. Main</bib_extra>
+			<bib_extra key="edition">24. ungekürzt</bib_extra>
+			<bib_extra key="publisher">S. Fischer Verlag GmbH</bib_extra>
 		</doc>
 	</doclist>
 </library>

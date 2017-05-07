@@ -24,13 +24,6 @@
 	year = {1999},
 }
 
-@misc{WikipediaIsis,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Isis}},
-	year = {2016},
-}
-
 @book{Graf10,
 	address = {{Königsdorf}},
 	edition = {{2.}},
@@ -590,83 +583,6 @@
 	year = {2014},
 }
 
-@misc{WikipediaThot,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Thot}},
-	year = {2016},
-}
-
-@misc{AnthrowikiThot,
-	howpublished = {{Internet}},
-	author = {Anthrowiki},
-	title = {{http://anthrowiki.at/Thot}},
-	year = {2016},
-}
-
-@misc{AnthrowikiCagliostro,
-	howpublished = {{Internet}},
-	author = {Anthrowiki},
-	title = {{http://anthrowiki.at/Graf_Alessandro_Cagliostro}},
-	year = {2016},
-}
-
-@misc{WikipediaCagliostro,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Alessandro_Cagliostro}},
-}
-
-@misc{WikipediaPerchta,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Perchta}},
-	year = {2016},
-}
-
-@misc{WikipediaFrauHolle,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Frau_Holle}},
-	year = {2016},
-}
-
-@misc{InternetNerthus,
-	howpublished = {{Anthrowiki}},
-	author = {Internet},
-	title = {{http://anthrowiki.at/Nerthus}},
-	journal = {{http://anthrowiki.at/Nerthus}},
-	year = {2016},
-}
-
-@misc{WikipediaEisenhans,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Der_Eisenhans}},
-	year = {2016},
-}
-
-@misc{WikipediaSilenos,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Silenos}},
-	year = {2016},
-}
-
-@misc{WikipediaSucellos,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Sucellus}},
-	year = {2026},
-}
-
-@misc{CeltoiwikiSucellos,
-	howpublished = {{Internet}},
-	author = {Celtoiwiki},
-	title = {{http://wiki.celtoi.org/Sucellus}},
-	year = {2016},
-}
-
 @book{Gödrich15,
 	address = {{Stuttgard}},
 	publisher = {{J. Ch. Mellinger Verlag GmbH}},
@@ -742,31 +658,57 @@
 	year = {1989},
 }
 
-@misc{WikipediaIsteinerKlotz,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Isteiner_Klotz}},
-	year = {2017},
+@booklet{Berkemeier-Favre04,
+	address = {{Historisches Museum Basel}},
+	howpublished = {{Broschüre}},
+	note = {{Basler Kostbarkeiten 25}},
+	author = {Berkemeier-Favre, Marie-Claire},
+	title = {{Die Votivtafel der Herzogin Isabella von Burgund}},
+	year = {2004},
 }
 
-@misc{altbaselDavidJoris,
-	howpublished = {{Internet}},
-	author = {altbasel.ch geschichte},
-	title = {{http://www.altbasel.ch/dossier/david_joris.html}},
-	year = {2017},
+@booklet{Söll-Tauchert16,
+	address = {{Historisches Museum Basel}},
+	howpublished = {{Broschüre}},
+	note = {{Basler Kostbarkeiten 37}},
+	author = {Söll-Tauchert, Sabine},
+	title = {{Die Erasmus-True}},
+	year = {2016},
 }
 
-@misc{wikivoyageÄgyptischEssenTrinken,
-	howpublished = {{Internet}},
-	author = {de.wikivoyage.org},
-	title = {{https://de.wikivoyage.org/wiki/Essen_und_Trinken_in_%C3%84gypten}},
-	year = {2017},
+@booklet{Roda99,
+	address = {{Historisches Museum Basel}},
+	howpublished = {{Broschüre}},
+	note = {{Basler Kostbarkeiten}},
+	author = {Roda, Burkard von},
+	title = {{Die Goldene Altartafel}},
+	year = {1999},
 }
 
-@misc{WikipediaWibrandisRosenblatt,
-	howpublished = {{Internet}},
-	author = {Wikipedia},
-	title = {{https://de.wikipedia.org/wiki/Wibrandis_Rosenblatt}},
+@booklet{Rapp-Buri89,
+	address = {{Historisches Museum Basel}},
+	howpublished = {{Broschüre}},
+	note = {{basler Kostbarkeiten 10}},
+	author = {Rapp-Buri, Anna and Stucky-Schürer, Monica},
+	title = {{Der Flachsland-Teppich}},
+	year = {1989},
+}
+
+@book{Liebendörfer13,
+	address = {{Basel}},
+	edition = {{2.}},
+	publisher = {{Friedrich Reinhardt Verlag}},
+	author = {Liebendörfer, Helen},
+	title = {{Die Frau im Hintergrund}},
+	year = {2013},
+}
+
+@book{Zweig16,
+	address = {{Frankfurt a. Main}},
+	edition = {{24. ungekürzt}},
+	publisher = {{S. Fischer Verlag GmbH}},
+	author = {Zweig, Stefan},
+	title = {{Triumph und Tragik des Erasmus von Rotterdam}},
 	year = {2016},
 }
 
