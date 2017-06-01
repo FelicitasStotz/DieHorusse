@@ -1,4 +1,4 @@
-\documentclass[11pt,titlepage,a5paper]{book}
+\documentclass[10pt,titlepage,a5paper]{book}
 
 % \usepackage[babel,german=quotes]{csquotes}
  
@@ -19,7 +19,7 @@
 %\frenchspacing 
 
 \parindent0em 
-\setlength{\parskip}{0.4ex plus 0.6ex minus 0.4ex}
+\parskip1.0ex plus 0.5ex minus 0.5ex
 \sloppy
 
 \geometry{left=2.5cm,right=2cm,bottom=3.5cm,top=2.0cm}
@@ -55,10 +55,10 @@
 (-4.9,8.5)
 \rput(0cm,0cm){\includegraphics[width=\paperwidth,height=\paperheight]{Titel-Hell}}
 \end{pspicture}
-  
-  \vspace*{-0.4\textheight}
-  {\fontsize{40}{60}\selectfont Die Horussöhne}\\[38ex]
-  {\huge Felicitas Stotz}\\[8ex]
+ 
+  \vspace*{-0.5\textheight}
+   {\Huge\bf Die Horussöhne}\\[1.5ex]
+   Felicitas Stotz\\[24.0ex]
    \today
  
  \end{titlepage}
@@ -107,66 +107,96 @@ zu kennen die Gedeihenden und die Ver\-nich\-te\-ten.{}\\
 \chapter*{Eine Nacht im Januar(Prolog)}
 \addcontentsline{toc}{chapter}{Prolog: Eine Nacht im Januar}
 
-Die Wahrheit ist: Wir wissen es nicht! Und selbst das wissen wir nicht, \dots ob das Nicht-Wissen die, und, oder eine Wahrheit ist.
 
-Was wir wissen, sind die Dinge, die wir wahr-nehmen. Wir nehmen sie mit unseren Sinnen auf und bewerten sie. Dabei bewerten wir sie nach nützlich oder unnütz, essbar oder nicht essbar und kommt es für die Paarung in Frage? Wenn wir die Dinge als wahr bezeichnen, die wir mit den Sinnen, in der fassbaren, in der materiellen Welt erfahren, sind wir auf der sichereren Seite. Nicht ganz sicher, aber immerhin\dots
+Dies ist die Geschichte einer Reisegruppe. Da diese Reisegruppe aus Göttern der alten ägyptischen Pharaonenzeit besteht, die das schöne Basel in der Schweiz des 21. Jahrhunderts besuchen, handelt es sich um eine ungewöhnliche Reise und um ungewöhnliche Ereignisse und Abenteuer. 
 
-Aber, natürlich aber, dann gibt es unser Gehirn, unsere Emotionen, unsere Träume und unsere Hoffnungen und Wünsche, unsere Ängste, unseren Glauben\dots sie sind unsichtbar, unfassbar, aber und da wird es trickie, denkbar. Trickie deshalb, weil wir in unserem Gehirn die sichtbaren Wahrnehmungen und die unsichtbaren Gedanken miteinander untrennbar vermischen. Und weil wir sie vermischen, wissen wir schliesslich nicht mehr, was wir wahrnehmen könnten und was nur denken, was wir erfahren haben, was wir kennen und was wir nicht wissen können, weil wir es nur mit einem grauen, weichen Fleischklops gedacht haben.
+Alle Götter lieben es kreativ und innovativ zu sein, deshalb beginnen sie stets mit dem Anfang, der Schöpfung. 
 
-Wir neigen dazu, uns für alles eine Antwort zu basteln, den eine erklärbare Welt ist eine überschaubare Welt, eine, wo man weiss, wo der Tiger wohnt\dots \footnote{Unterschätze es niemals! Ich wiederhole niemals, wie wichtig es ist zu wissen, wo der Tiger wohnt! Eine beliebte Adresse ist der indische Dschungel und Sibirien.} Damit wir mit den Unsichtbarkeiten unseres Daseins besser zurecht kommen, den dunklen Gedanken in der Nacht, wenn wir nicht mehr sicher sind, ob wir wissen, wo der Tiger wohnt und wir die samtweichen Tigerpranken an unserem Schlafpelz vorbei schleichen hören, wünschen wir uns jemanden, der uns beschützt.
+Das All!  Nicht das All, das wir kennen mit all den Lichtern und Blinkesternen, sondern das All vor Urzeiten, jung und neu. Wir sitzen in einem Raumschiff und beobachten, was passiert. Es ist dunkel, wie in Mutters Schoss. Die Panoramascheibe unseres Raumschiffes ist auf Nachsicht eingestellt. Alter Astronautentrick, um die Geburt von Planeten am Anfang allen Daseins und vor der Erschaffung des Lichtes zu beobachten.
 
-Einen Krieger, zwei starke Krieger, zwanzig starke Krieger! Viele, starke Riesenkrieger, die dem Tiger in den Hinter treten und ihn im hohen Bogen bis nach Sibirien schicken, damit wir genau wissen, wo er wohnt und sich seinen  verd***ten, schmerzenden, kalten Hintern schleckt! Weit weg im verd***t Sibirien!\footnote{Ha, dem hab' ich jetzt aber gegeben, dem verd***ten Tiger! Nänänänänä!}
+Von der Kaffeemaschine tropft ein einzelner Tropfen herab, wir angespannt, zucken zusammen\dots und vor uns taucht majestätisch und langsam ein riesiger Planet auf. Er befindet sich an der Stelle, wo heute unsere Sonne ist und füllt den gesamten Platz zwischen Sonne und Saturn, so gross ist er. 
 
-Vielleicht! Wir wissen es ja nicht! Aber vielleicht sind so die ersten Götter entstanden? Als imaginärer Tigerschnelllieferservice für die Russen!  Und wenn wir beginnen unser Gehirn für Erklärungen zu bemühen von Dingen, die wir nicht verstehen, dann könnten wir auf die Idee kommen, der Tigerschnelllieferservice wäre viel mehr.
+Langsam dreht er sich und wir bemerken unterschiedlich stark strahlende Felder. Wir sehen ein Zentrum in der Mitte, von einem helleren umgeben und eine abschliessende Hülle darum. Eiförmige Gebilde  bewegen sich in dem Planeten. Wir schauen auf den Zeitmesser, der sich rasend durch die Zeit bewegt und 1000 Jahre in einer Millisekunde vorbeiziehen lässt. Die Zeit wird langsamer und wir schauen wieder raus. Es wird dunkler, es scheint als verlösche der riesige Planet. Nachdem er verschwunden ist, beschleunigt der Zeitmesser erneut. 
 
-Vielleicht würden wir die Chance ergreifen und uns vorstellen wie die starken Riesenkrieger gleich die ganze Welt erbauen. Und wenn sie zusammen bauen, dann brauchen sie sicher auch einen Chef! Und wo soll der Chef der starken Riesenkrieger wohnen, während seine Jungs die Welt bauen? Ist doch klar, auf der Sonne! Die ist doch ein richtiger Chefsessel! Und wo starke Jungs sind und ein Chef, da dürfen auch die Frauen und Mütter nicht fehlen\dots 
+Und plötzlich erscheint vor unserem Panoramafenster ein neuer Planet an Stelle des alten. Dieser Planet ist kleiner und gasförmig. Wir können die Wärmesicht abschalten, wir sehen ihn wunderschön durch die Scheibe leuchten, wir tragen Sonnenbrillen, so hell leuchtet der Planet. Er strahlt glühend, leuchtend weiss, bis auf einige rauchig-dunkle Stellen, die aus Gas bestehen und dichter sind als der Rest. An einigen Stellen ballt sich Wärme, wie wir sie auf dem vorherigen Planeten gesehen haben.
 
-Et voila! Fertig ist die Götterwelt! Gibt es sie, gibt es sie nicht? Wir wissen es nicht. Was wir jedoch wissen und kennen, ist die Sehnsucht die Dinge zu verstehen, die Fäden der Geschichte zu finden, damit wir etwas haben, an dem wir unseren Sinn finden und ihm folgen können. Götter können dafür ein nützliches Konzept bereit halten.\footnote{Sich im Geiste Dinge vorzustellen um Informationen zu bekommen, ist völlig okay. Schliesslich haben wir diese tolle Denkkiste in unserem Kopf. Mühsam, oder schwierig wird es für uns dann, wenn wir uns von unserem exentrischen Denkkasten Unsichtbarkeiten als Dogmen verkaufen lassen! Also, wenn ein kleiner, grüner Zwerg Dir sagt, was Du tun sollst, dann hör nicht auf ihn. Wenn er Dir jedoch interessante Informationen zukommen lässt, dann brauche sie bei Deiner Entscheidungssuche. Allerdings erst, wenn Du darüber nachgedacht hast.}
+Dieser Planet scheint zu atmen. Eine Zeitlang strömt das Licht weit in das All hinein. Angesogen von einer unsichtbaren Kraft und wird feiner und heller. Dann zieht es sich in das Zentrum zurück, dabei wird es dunkler, dichter, wie rauchige Luft. Kleine Gebilde kristallisieren sich darin, noch können wir sie nicht erkennen. Später werden sie die Sterne des Tierkreises bilden.
 
-Götter sind kreativ und eine ihre beliebtesten Hauptaufgaben ist die Schöpfung. Es gibt viele verschiedene Versionen und Ideen bei den Menschen, wie die Erde in den Zustand gekommen ist, in dem sie sich zur Zeit befindet. Und viele Jahrtausende waren sich unsere Vorfahren einig, es sind Götter gewesen. Einer, viele, egal, aber Götter. Unsichtbare, dem Menschen überlegene Wesen, die alles mehr oder weniger leiteten und im Griff hatten.
+Wir haben die Zeit vergessen. Ein Blick auf unsere Zeitanzeige verrät uns, es sind Millionen Jahre vergangen. Wir schauen auf den Planeten und dieser ist wiederum in der Dunkelheit verschwunden.
 
-Heute, nur am Rande bemerkt, lachen die Menschen über dieses Konzept. Sie glauben nicht an Götter, sondern an die Wissenschaft, was bedeutet, alles hat sich entwickelt. Wie genau das gegangen ist, ist so kompliziert, das verstehen nur wenige (früher nannte man die Wenigen mit dem "`geheimen Wissen"' "`Eingeweihte"' und dieses Wissen wurde eifersüchtig von ihnen gehütet, aber das war früher. Ha! Hahaha!). 
+Wir haben kurz Zeit uns einen Kaffee zu kochen und ein Schnittchen zu machen, da taucht an der Stelle ein neuer Planet auf. Er reicht von der Sonne bis zum Mars. Er ist fester als sein Vorgänger und schillert in allen Regenbogenfarben. Durch den Farbschleier sehen wir Nebel und durch den Nebel sehen wir zum ersten mal so etwas wie Leben. Eine grünliche Masse, wie gekochter Spinat, die lebendig ist und ab und zu ein "`Blubb"' von sich gibt\dots
 
-Wenn wir verschiedene Schöpfungsgeschichten anschauen, werden wir feststellen, Götter sind nicht nett. Und in diesem Sinne, liegt auch in unserer Zeit die Frage nahe, ob der Mensch nicht doch göttlichen Ursprunges ist.\footnote{Das liegt näher, als die Vermutung, einiger heutiger "`Eingeweihter"', die glauben, der Mensch sei ein Affe. Aber die Affen können nichts für den Zustand der Erde und es ist gemein, sie ungefragt in die Sache mit der Erde und den menschlichen Zerstörungsversuchen mit hinein zu ziehen. Das haben sie nicht verdient, für ihre Ähnlichkeit mit den Menschen können sie schliesslich nichts.}
+Wir haben nicht viel Zeit dieses farbenprächtige Bild zu geniessen, denn die Masse des Planeten und die ganze Umgebung drumherum geraten in Aufruhr. Unsichtbare Kräfte reissen den Planeten auseinander. Während gleichzeitig das Universum von unsichtbaren Riesenhänden zusammengepresst wird. Zeitschlaufen öffnen sich und verschlucken Materie in dunklen Röhren, um sie an anderer Stelle auszuspucken. Unsichtbare, unglaublich starke Kräfte kämpfen gegeneinander. Trümmer fliegen herum, Feuerstürme toben, Luftlawinen wälzen sich durch den Raum.
 
-Unsere Geschichte einer göttlichen Reisegruppe beginnt an einer Stelle der Schöpfung, als die Menschheit sich an einem ähnlichen Punkt befand wie wir heute, wenn wir alten Überlieferungen glauben. Natürlich war dennoch alles anders\footnote{Abgesehen davon, dass wir es ja nicht wissen! Damit es nicht zu wiederholten Unterbrechungen und unnötiger Abnutzung von Fussnoten kommt, werde ich in Zukunft auf diesen Hinweis verzichten. Möge der Leser, der es mit diesen Dingen sehr genau nimmt, sich einfach selbst an jedem Seitenende denken: Wir wissen es nicht!}:
+Unser kleines Raumschiff ist zu dicht an dem Geschehen dran, es wird gepackt und geschüttelt. Wir purzeln durcheinander, es gibt eine riesige Kaffeesauerei und die lecker Schnittchen kleben an den Wänden. Draussen sehen wir Blitze, Gaswolken. Druckwellen schütteln uns. Ein riesiges Durcheinander findet statt. Der ursprüngliche Planet ist nicht mehr zu sehen.
+
+Würden wir die alten Mysterien kennen, die ganze Ewigkeiten und durch viele Kulturen hindurch weitergegeben wurden, z.B. die Bhagavat Gita, würden wir wissen, in was wir hineingeraten sind: Den berühmten "`Streit im Himmel"'. Berühmt und berüchtigt, weil er die Geburt des Bösen beschreibt, das zu diesem Zeitpunkt nicht böse ist, sondern getrennt und allein.
+
+- Gespenstische Stille-
+
+Wir klopfen uns die Kleider ab, der Lehrling wird geschickt den Wischmop zu holen und die Kaffeepfützen zu entfernen und eine traurige Schinkenschnitte fällt von der Decke herunter.
+
+Draussen hat es sich beruhigt, aber, was für ein Anblick!
+
+An der Stelle des Planeten sehen wir eine Sonne, sie reicht nicht mehr bis zum Mars, dafür befindet sich auf der Marsumlaufbahn ein Mond. Er umkreist die Sonne und. Was auch immer die Turbulenzen verursacht hat, hat einen riesigen Ring an Trümmern hinterlassen, den Asteroidengürtel, den wir später zwischen Mars und Jupiter finden!
+
+Die Sonne leuchtet hell und ist leicht, während sich auf dem Mond die Materie zu Luft und Wasser verdichtet. Auch hier schillern wieder die Regenbögen und der lebendige Spinat macht "`Blubb"'\dots
+
+Ein letzter "Neustart" findet statt, Licht aus, Licht an und vor uns taucht die Erde auf. Sie ist viel grösser, denn es werden sich aus ihr Uranus und Saturn herauslösen, bevor sie sich endgültig verfestigt hat. Als nächster trennt sich der Jupiter und dann der Mars.
+
+Wir können es nun wagen auf das Raumschiff zu verzichten, auch wenn wir bei der jetzigen Erdatmosphäre vermutlich einen Raumanzug nötig hätten, mit unserer heutigen Gestalt.
+Ein letzter Blick auf den Zeitmesser, dort ist an Stelle der Zahlen eine Schrift erschienen: Genesis, Tag 1
+
+Die Sonne verlässt die Erde und später, als letztes der Mond. Nachdem es sich die Planeten alle für diese Runde gemütlich gemacht haben, tritt das erste mal gross auf die Bühne in physischer Gestalt: Der Mensch.
+
+Natürlich waren wir Menschen schon vorher da, wir waren auch dabei, als der Wärmeplanet sich im All begann zusammenzuballen, aber wir hatten kein Bewusstsein und nichts womit wir eines hätten haben können. Dieses Bewusstsein brauchte all die vielen Zeitrotationen auf unserem Zeitmesser, Millionen von Jahre und mehrere Äonen von Heimatplaneten, bevor es soweit war.
+
+Und dann kam Atlantis. (Womit unsere Geschichte, der Leser möge den schmählichen, aber einkalkulierten Fauxpas verzeihen, einen Gènréwechsel von Science-Fiction zu Fantasy durchmacht, kommt nicht mehr vor, versprochen.)
+
+Götter sind kreativ und eine ihre beliebtesten Hauptaufgaben ist die Schöpfung. Es gibt viele verschiedene Versionen und Ideen bei den Menschen, wie die Erde in den Zustand gekommen ist, in dem sie sich zur Zeit befindet. Und viele Jahrtausende waren sich die Menschen einig, es sind Götter gewesen. Einer, viele, egal, aber Götter. Unsichtbare, dem Menschen überlegene Wesen, die alles mehr oder weniger leiteten und im Griff hatten.
+
+Heute, nur am Rande bemerkt, lachen die Menschen über dieses Konzept. Sie glauben nicht an Götter, sondern an die Wissenschaft, was bedeutet, alles hat sich entwickelt. Wie genau das gegangen ist, ist so kompliziert, das verstehen nur wenige (früher nannte man die Wenigen mit dem "`geheimen Wissen"' "`Eingeweihte"' und dieses Wissen wurde eifersüchtig von ihnen gehütet, aber das war früher). 
+
+Wenn wir verschiedene Schöpfungsgeschichten anschauen, werden wir feststellen, Götter sind nicht nett. und in diesem Sinne, liegt auch in unserer Zeit die Frage nahe, ob der Mensch nicht doch göttlichen Ursprunges ist.\footnote{Das liegt näher, als die Vermutung, einiger heutiger "`Eingeweihter"', die glauben, der Mensch sei ein Affe. Aber die Affen können nichts für den Zustand der Erde und es ist gemein, sie ungefragt in die Sache mit der Erde und den menschlichen Zerstörungsversuchen mit hinein zu ziehen. Das haben sie nicht verdient, für ihre Ähnlichkeit mit den Menschen können sie schliesslich nichts.}
+
+Unsere Geschichte der göttlichen Reisegruppe beginnt an einer Stelle der Schöpfung, als die Menschheit sich an einem ähnlichen Punkt befand wie wir heute, wenn wir alten Überlieferungen glauben. Natürlich war dennoch alles anders:
 
 Nebelverhangen war das Land Atlantis. Die Menschen besassen weder einen Körper, wie wir ihn kennen, noch hatten sie unser heutiges Bewusstsein. Die Menschen, sie träumten, sie fühlten sich, wenn sie wach waren, wie wir uns heute im Schlaf fühlen. Dabei waren die Atlantier hoch begabt, sie konnten etwas, was uns heute nicht mehr möglich ist. Sie waren hellsichtig und konnten die Kräfte, die im Pflanzen- und Mineralreich vorhanden waren, auf diese Weise nutzten. Auf diese Weise fuhren sie in Fahrzeugen herum, die mit der Kraft von Steinen angetrieben waren. Unvorstellbar? 
 
 Eigentlich nicht. Wir können die Kräfte der Natur, dank unserer weit entwickelten Fähigkeit zu denken, nutzen. Schauen wir ein Auto an, wir nutzen  Pflanzen- und Mineralkraft, indem wir das Auto aus Metall (Mineralien) bauen und mit Erdöl (Pflanzen) in Bewegung setzten.
 
-Was die Atlantier jedoch tatsächlich unterschied und was uns heute am seltsamsten anmutet würde, ist nicht ihr merkwürdiger, zu Beginn dieser Zeit knochenloser Körper und ihre Hellsichtigkeit, die ihnen ein ähnlich komfortables, weitentwickeltes Leben wie uns heute, bescherte. Leute, stellt Euch vor, die hatten ihre Smartphones praktisch integriert;) Nein, der grösste Unterschied war, sie kannten ihre Götter! Persönlich. Mit Vor- und Nachnamen und Adresse! (Was nicht viel half, denn wie wir wissen\footnote{Nein! Sag es nicht!}, ging Atlantis kläglich unter.)
+Was die Atlantier jedoch tatsächlich unterschied und was uns heute am seltsamsten anmutet würde, ist nicht ihr merkwürdiger, zu Beginn dieser Zeit knochenlose Körper und ihre Hellsichtigkeit, die ihnen ein ähnlich komfortables, weitentwickeltes Leben wie uns heute, bescherte. Leute, stellt Euch vor, die hatten ihre Smartphones praktisch integriert;) Nein, der grösste Unterschied war, sie kannten ihre Götter! Persönlich. Mit Vor- und Nachnamen und Adresse! (Was nicht viel half, denn wie wir wissen, ging Atlantis kläglich unter.)
 
 Einer, der nicht unterging, so sagt es die Legende, weil er weise war und sich deshalb dem Wohlwollen der atlantischen Götter erfreute, war Thot. Thot konnte vor dem Untergang der Atlantis flüchten. Und der damals sehr begabte, aber menschliche Thot floh nach Ägypten und fand dort für sich und sein geheimes, atlantisches Wissen eine neue Heimat.
 
  Thot wurde später selbst Gott im Ägypterland und war auch bei den Griechen kein unbekannter. Im Gegenteil, sie nannten ihn, wiederum nach ihrem Gott Hermes: Hermes Trismegistos. Wer jetzt im hinterletzten Winkel seines Gehirns ein leises Klingeln hört, das sich wie "`hermetisch"' anhört, dem wird dämmern, wie weitreichend Thots Einfluss war und ist. Dabei ist er nicht der mächtigste der ägyptischen Götter\dots
 
 
-Er ist allerdings der Gott, weil mit dem Menschlichen wohl vertraut, der sich am besten als Reiseleiter eignet. Für eine Reisegruppe von Göttern, die teilweise nicht über menschliche Körper verfügen, oder nie aus dem Jenseits, das in Ägypten Duat heisst, heraus gekommen sind, ist es von Vorteil einen gut informierten Reiseleiter zu haben.
+Er ist allerdings der Gott, weil mit dem Menschlichen wohl vertraut, der sich am besten als Reiseleiter eignet. Für eine Reisegruppe von Göttern, die teilweise nicht über menschliche Körper verfügen, oder nie aus dem Jenseits, der ägyptischen Duat herausgekommen sind, ist es von Vorteil einen gut informierten Reiseleiter zu haben.
 
  Der Jenseitsbereich ist um die Erde herum, ein riesiger Raum für alle Götter, die für die Erde zuständig sind. Allerdings haben die Götter des einen Zeitalters und/oder des einen oder anderen Landes ihre ganz spezifischen Aufgaben und nicht alle wollen sich um alles kümmern. Andere haben sich auf den "`Altenteil"' zurückgezogen und geben den jüngeren Göttern Tipps, wie man tüchtige Blitze schleudern kann, ohne dabei die ganze Gemeinde auszulöschen.
  
  Wenn sich die Menschen jedoch anmassen, sich einem Gott zu widersetzten, oder einen unbestechlichen Wächtergott auf grausame Weise hintergehen und seinen Schutzbefohlenen schaden, dann können auch alte Götter sich für eine Reise entschliessen. Und nicht alle Götter scheuen sich, ihre Kollegen um Hilfe zu bitten. Und so kommt es, dass der grosse Hermes Trismegistos, der "`dreimal grosse Hermes"' genannte Thot, gleich in dreifacher Mission nach Basel kommt. 
  
-Thot kennt seine Pappenheimer an jedem Ort. Ihm bleibt kein Ort an dem hermetische Künste eine Rolle spielten unbekannt. In Basel einen Wohnort für sein buntes Reisegrüppchen zu finden ist einfach. Was liegt näher als die Damen und Herren an dem Ort unterzubringen, an dem ein ehemaliger Adept der Alchemie und Hermetik seinen grossen Auftritt hatte: der grosse Cagliostro? Für die einen ein Scharlatan und für die anderen ein Grossmeister der ägyptischen Logen und Besitzer des Steines der Weisen. Als Thot am Rheinsprung vor den zwei grossen Häusern der Gebrüder Sarasin stand, nickte er zufrieden. Schliesslich wollen auch die abenteuerlustigsten Götter und vor allem Göttinnen nicht auf einen Hauch an Luxus verzichten.
+Thot kennt seine Pappenheimer an jedem Ort. In Basel einen Wohnort für sein buntes Reisegrüppchen zu finden ist einfach. Was liegt näher als die Damen und Herren an dem Ort unterzubringen, an dem ein ehemaliger Adept der Alchemie und Hermetik seinen grossen Auftritt hatte: der grosse Cagliostro? Für die einen ein Scharlatan und für die anderen ein Grossmeister der ägyptischen Logen und Besitzer des Steines der Weisen. Als er am Rheinsprung vor den zwei grossen Häusern der Gebrüder Sarasin steht nickt er zufrieden. Schliesslich wollen auch die abenteuerlustigsten Götter und vorallem Göttinnen nicht auf einen Hauch an Luxus verzichten.
 
 Im berühmten Oktagon, dem achteckigen Zimmer des weissen Hauses des ehrwürdigen Jakob Sarasin, trifft sich der alte ägyptische Gott mit seinen nordischen Freunden Berta, auch bekannt als eine gewisse Frau Holle und Hans, dem "`Wilde Maa"'.
 
-Während Thot sich in einen Ohrensessel gesetzt hatte, von denen zwei im Raum standen, lief Berta im Raum auf und ab. Sie steckte in einem langen schwarzen Kleid und einer weissen Schürze. Sie sah aus wie ein altes, verhutzeltes Hausmädchen. In ihren grauen, kurzen Locken steckt ein weisses Häubchen. Ab und zu schauten ihre Füsse, die in derben, braunen, orthopädischen Schuhen stecken unter dem Kleid hervor. Vor der Tür im Gang stand ein Reisigbesen. Ab und zu nahm sie einen Schluck aus dem Kristallglas, das mit einem rauchig duftenden, bernsteinfarbenem Whisky gefüllt war. Es stand auf einem kleinen runden Nussholztischchen.
+Während Thot sich in einen Ohrensessel gesetzt hatte, von denen zwei im Raum standen, lief Berta im Raum auf und ab. Sie steckte in einem langen schwarzen Kleid und einer weissen Schürze. Sie sah aus wie ein altes, verhutzeltes Hausmädchen. In ihren grauen, kurzen Locken steckt ein weisses Häubchen. Ab und zu schauten ihre Füsse, die in derben, braunen orthopädischen Schuhen stecken unter dem Kleid hervor. Vor der Tür im Gang stand ein Reisigbesen. Ab und zu nahm sie einen Schluck aus dem Kristallglas, das mit einem rauchig duftenden, bernsteinfarbenem Whisky gefüllt war. Es stand auf einem kleinen runden Nussholztischchen.
 
-Ein zartes Grunzen ertönte. Von dem zierlichen, mit Seide bezogenem Sofa, schauten nur die geschwungenen, dünnen Beinchen hervor, der Rest war unter  dem wilden Mann begraben. Ausser einem Schurz aus Laub, Fell und Zweigen und einer Krone aus Eichenlaub war er nackt. Seine Haut schimmerte goldbraun und unter der Haut zeichneten sich die kräftigen Muskeln ab. Das Gesicht war faltig und die wilden Locken schimmerten nicht nur braun und grau, sondern grün. Da das Sofa viel zu klein war, hing ein Bein über die Lehne und das andere ragte weit ins Zimmer. Eine Hand lag auf den Boden und wenn der Wilde Mann schnarchte, zitterten die Blätter seiner Krone hingebungsvoll. 
+Ein zartes Grunzen ertönte. Von dem zierlichen mit Seide bezogenem Sofa, schauten nur die geschwundenen, dünnen Beinchen hervor, der Rest war unter  dem wilden Mann begraben. Ausser einem Schurz aus Laub, Fell und Zweigen und einer Krone aus Eichenlaub war er nackt. Seine Haut schimmerte goldbraun und unter der Haut zeichneten sich die kräftigen Muskeln ab. Das Gesicht war faltig und die wilden Locken schimmerten nicht nur braun und grau, sondern grün. Da das Sofa viel zu klein war, hing ein Bein über die Lehne und das andere ragte weit ins Zimmer. Ein Arm hängt auf den Boden und wenn der Wilde Mann schnarchte, zitterten die Blätter seiner Krone hingebungsvoll. 
  
-"`Interessant, äusserst interessant!"' Thot legte die schlanken Fingerspitzen aneinander. Er bevorzugte einen zeitgenössischen, schlichten, schwarzen Anzug. Sein Hemd war weiss-grau gestreift und er trug eine hellgraue Krawatte. In einer angesehenen Anwaltskanzlei wäre er heutigen Tags vermutlich nicht aufgefallen. Er hatte eine schmale, aber lange Nase. Die hellblauen, kristallklaren Augen, lagen tief und waren von der Stirn und den Augenbrauen verborgen. Seine schwarzen Haare lagen wie ein lockiger Helm um seinen Kopf und waren mit grauen Strähnen durchzogen. 
+"`Interessant, äusserst interessant!"' Thot legte die schlanken Fingerspitzen aneinander. Er bevorzugte einen zeitgenössischen, schlichten, schwarzen Anzug. Sein Hemd war leicht weiss-grau gestreift und er trug eine hellgraue Krawatte. In einer angesehenen Anwaltskanzlei, wäre er heutigen Tags vermutlich nicht aufgefallen. Er hatte eine schmale, aber lange Nase. Die hellblauen, kristallklaren Augen, lagen tief und waren von der Stirn und den Augenbrauen verborgen. Seine schwarzen Haare lagen wie ein lockiger Helm um seinen Kopf und waren mit grauen Strähnen durchzogen. 
 
 Er hatte die langen, schlanken Beine übereinander geschlagen und wippte unrhythmisch mit dem Fuss. "`Und was schliesst du daraus, verehrte Berta?"' "`Lieber Thot, wenn ich es selber wüsste, hätte ich Euch wohl kaum hierher bemüht!"' sagte Berta und liess ratlos die Arme fallen. Thot sagte entschieden: "`Im Moment werde ich gerne bemüht. Mir ist langweilig geworden im Jenseits und den anderen Herrschaften auch. Wir können Bewegung brauchen, sowohl für den Kopf, als auch für die Beine!"' "`Ich bin sicher, da kann ich dir helfen, Thot. Da ist etwas ganz finsteres im Gange, das hab ich in den Knochen."' 
 
 Berta wendete sich dem mannhaften Laubhaufen auf dem Sofa zu: "`Hans? Hans, was sagst Du dazu?"' "`Wckl? Was?"' es dauerte einige Zeit bis sich der Halbgott sortiert hatte und sich aufsetzte. Er stöhnte, schnaufte und hielt sich den Kopf. Berta betrachtete das Spektakel, die Hände auf die breiten Hüften gestemmt:  "`Herrjeh, dann hat er einmal im Jahr seinen grossen Auftritt und danach ist er Wochenlang nicht zu brauchen! Dir tut etwas mehr Bewegung gut, alter Mann!"' rief sie und fuchtelte Hans mit dem Zeigefinger vor der Nase herum. Er ächzte: "`Alter Mann?! Also nai, Berta, eso nit!"' Er richtete sich zu seiner vollen Grösse auf und sah der kleinen, kugeligen Frau Holle, die feixend vor ihm stand, sitzend direkt in die Augen.
 
- "`Fein, dann ist es beschlossen?"' Thot schmunzelte, sie waren sich überall ähnlich, die alten Herrschaften \dots Vergnügt nahm er Stück von der feinen Mandelschokolade, die auf einem feinen Porzellanteller für ihn auf dem Tisch stand. 
+ "`Fein, dann ist es beschlossen?"' Thot schmunzelte, sie waren sich überall ähnlich, die alten Herrschaften \dots Vergnügt nahm er Stück von der feinen Mandelschokolade, die auf einem feinen Porzellanteller für ihn auf dem Tisch bereit stand. 
 
 "`Wo? Ich persönlich würde Basel vorziehen, da ich selbst etwas erledigen will, was in Ägypten nicht möglich ist!"' murmelte Thot mit einem Rest Schokolade im Mund. "`Hans? Was meinst Du?"' Berta, die einen kräftigen Schluck aus ihrem Glas genommen hatte, wendete sich an Hans. "`Basel!"' sagte Hans. 
 
-Er nahm sich das Bierglas, das auf dem Tisch für ihn bereit gestanden hatte: "`Mr mache s in Basel!"' Er schleckte sich mit der Zunge den Schaum von den Lippen und schaute die anderen beiden versonnen an: "`D Basler sind frommi Leut aber heuer hent sie mit sich und ihre Gschäft z tue. Sie sind gnueg igbildt, ihne werde me oder wenigr Göttr do nit uffalle. Und hier z Basel und Umgäbig hätts viili Lütt, wo dr Thot kenne und wo ich kenn, und dir, Berta, lieg jo, s Dreiländreck e z Füesse."' Berta warf einen tiefen Blick in ihr Whiskyglas: "`Gut, klingt vernünftig, auch, wenn es von dir kommt!"' "`Berta! Eso, würkli nit!"' meinte Hans freundlich.   
+Er nahm sich das Bierglas, das auf dem Tisch für ihn bereit gestanden hatte: "`Mr mache s in Basel!"' Er schleckte sich mit der Zunge den Schaum von den Lippen und schaute die anderen beiden versonnen an: "`D Basler sind frommi Leut aber heuer hent sie mit sich und ihre Gschäft z tue. Sie sind gnueg igbildt, ihne werde me oder wenigr Göttr do nit uffalle. Und hier z Basel und umgäbig hätts viili Lütt, wo dr Thot kenne und wo ich kenn, und dir, Berta, lieg jo, s Dreiländreck e z Füesse."' Berta warf einen tiefen Blick in ihr Whiskyglas: "`Gut, klingt vernünftig, auch, wenn es von dir kommt!"' "`Berta! Eso, würkli nit!"' meinte Hans freundlich.   
 
 "`Das Wann dürfte allen klar sein?"' fragte Berta. "`Berta!"' rief Hans genervt "`mr sind do keini Deppe!"' "`Natürlich, liebe Berta!"' Thot erhob sich und streckte die langen Glieder. Er war zwar nicht so muskulös wie Hans, aber genauso gross.
 
@@ -175,7 +205,7 @@ Er nahm sich das Bierglas, das auf dem Tisch für ihn bereit gestanden hatte: "`
 \section*{23. Dezember}
 \addcontentsline{toc}{section}{23. Dezember}
 
-"`Hermes, min Fründ, d Berta macht jetzt alles parat für de Transport. Sind dr do z Basel au parat?"' "`Wir sind bereit, Hans. Unsere grosszügigen Gastgeber, die Brüder Sarasin, haben uns erlaubt im weissen und blauen Haus zu wohnen, die auf das beste geeignet sind."' "`Is' d Alessandro fertig mitmm Schutznetz? Hät er de Zeitüberschneidung richtig usgrechnet?"' "`Ja, ich habe es überprüft. Und unser Alessandro, Graf von Cagliostro, ist ein wahrer Spezialist, wenn es darum geht einen Ort in zwei Zeitzonen einzuteilen. Schliesslich ist diese Fähigkeit sehr nützlich, wenn man, wie er, gerne dem schönen Geschlecht huldigt."' "`Ei, das hesch schön gesagt, dem 'schönen Geschlecht' huldigen\dots so isses, Hermes, d Herr Graf isch kein Kind vo Traurigkeit, ds isch woor!"' 
+"`Hermes, min Fründ, d Berta macht jetzt alles parat für de Transport. Sind dr do z Basel au patrat?"' "`Wir sind bereit, Hans. Unsere grosszügigen Gastgeber, die Brüder Sarasin, haben uns erlaubt im weissen und blauen Haus zu wohnen, die auf das beste geeignet sind."' "`Is' d Alessandro fertig mitmm Schutznetz? Hät er de Zeitüberschneidung richtig usgrechnet?"' "`Ja, ich habe es überprüft. Und unser Alessandro, Graf von Cagliostro, ist ein wahrer Spezialist, wenn es darum geht einen Ort in zwei Zeitzonen einzuteilen. Schliesslich ist diese Fähigkeit sehr nützlich, wenn man, wie er, gerne dem schönen Geschlecht huldigt."' "`Ei, das hesch schön gesagt, dem 'schönen Geschlecht' huldigen\dots so isses, Hermes, d Herr Graf isch kein Kind vo Traurigkeit, ds isch woor!"' 
 
 "`Die Häuser werden in der Gegenwart am Tag benutzt. In den Häusern befinden sich ein Departement der Stadtregierung. Allerdings werden in den Tagen der Rauhnächte weniger Menschen dort sein. Sie stören uns nicht und sehen können sie uns auch nicht. Vielleicht wird der eine oder andere Mensch Kopfschmerzen haben und wirre Träume, aber mit dem können wir leben."' "`Gut"' sagte Hans  "`dann werd` ich Berta sage, dass mr unsern Transport starte könne und ihr helfe, de Route frei z halte und däne Ameise Bein mache. Sind halt scho tolli Tierli. Hermes, mi Fründ, viel Glück bei eurer Reis`, diini Herrschafte sind jo nümmi de jüngschte!"' Hans holte freundlich aus und gab Thot einen Klaps auf die Schulter. Dieser zuckte unmerklich zusammen, es knackte in seinem Bein. "`Du solltest sie sehen"', Thot rieb sich über das Knie, "`die gute Hathor, ist schon seit Wochen am Packen. Sie freuen sich alle auf das Abenteuer."' "`See you\dots"' Hans hob grüssend die Hand. Thot humpelte, möglichst unauffällig, zur Tür. Dort wendete er sich um und sagte lächelnd: "`Es sind Krokodile, Hans. Bis bald."'
 
@@ -277,23 +307,21 @@ Duamutef schob die Nase vorsichtig weiter. Er jaulte laut auf, als der Fluch das
 \addcontentsline{toc}{section}{4}
 
 
-"`Osiris? Wie geht es?"' fragte Thot seinen Freund und Meister, denn, wenn auch einer der mächtigsten Götter, so war er der fragilste, zumindest im Diesseits. '-Es geht Thot!' Osiris war es nicht möglich im Diesseits zu sprechen.Er konnte sich mit seinen Gedanken an die anderen Götter wenden.  "`Es wird hart werden. Was ist mit dem Mädchen, ist sie bereit? Wir haben nicht viel Zeit und ich hoffe, sie weiss, welche Aufgabe sie hat?"'  fragte Isis. Sie sass auf der Bettkante von Osiris Bett. Thot bemerkte ihre Augenringe, eine grosse Last lag auf den Schultern der mächtigen Heilerin und Gemahlin des Osiris. Sie musste den Körper ihres Mannes in dieser Zwischenzeit der Rauhnächte stabil halten, einen Körper, der seit tausenden Jahren in die Unterwelt gehörte und im Diesseits jederzeit Schaden nehmen konnte. 
+"`Osiris? Wie geht es?"' fragte Thot seinen Freund und Meister, denn, wenn auch einer der mächtigsten Götter, so war er der fragilste, zumindest im Diesseits. "`Es geht Thot!"' Die Anstrengung, die das Sprechen Osiris  bereitete, war deutlich zu hören, stellte Thot besorgt fest. "`Es wird hart werden. Was ist mit dem Mädchen, ist sie bereit? Wir haben nicht viel Zeit und ich hoffe, sie weiss, welche Aufgabe sie hat?"'  fragte Isis. Sie sass auf der Bettkante von Osiris Bett. Thot bemerkte ihre Augenringe, eine grosse Last lag auf den Schultern der mächtigen Heilerin und Gemahlin des Osiris. Sie musste den Körper ihres Mannes in dieser Zwischenzeit der Rauhnächte stabil halten, einen Körper, der seit tausenden Jahren in die Unterwelt gehörte und im Diesseits jederzeit Schaden nehmen konnte. 
 
 Der Herr der Unterwelt lag von mehreren Kissen gestützt in einem grossen Bett. Mehrere Federbetten waren um ihn herum drapiert. Auf dem Nachtisch lagen Amulette, Räucherwerk kräuselte sich zart in die Luft des Zimmers und Glas- und Fayenceflaschen standen bereit. In den Glasflaschen waren rote, grüne und goldene Tinkturen zu sehen. 
 
 Sein Zimmer lag im ersten Stock, im linken Flügel des blauen Hauses am Ende des Ganges. Jeder der zu ihm wollte, musste an den unzähligen Türen der anderen Familienmitglieder vorbei. Reine Schutzmassnahme, denn der mächtige Herrscher der Unterwelt, hatte ebenso mächtige Feinde. Allen voran seinen Bruder Seth, der es sich nicht entgehen lassen würde Osiris ein weiteres mal zu töten, wenn er Gelegenheit dazu hätte. 
 
-Im Moment brauchte es Seth vielleicht nicht mehr. Thot hatte Osiris seit seiner Ermordung vor vielen tausend Jahren nicht so geschwächt gesehen. Er lag still, wie ein Toter in seinen vielen Decken und Kissen ein Hauch von einem Gott. Seine Haut, die in der Unterwelt in sattem, kräftigen Grün schimmerte, war grau. Osiris war nicht nur der Herr der Unterwelt, der Duat, wie die Ägypter sagten, sondern auch ihr mächtigster Fruchtbarkeitsgott. Schliesslich war es seine Aufgabe aus dem Jenseits, dem unsichtbaren Bereich, dem Lebenskraftraum, die Pflanzen und Tiere nach der Nilschwämme zum Wachsen zu bringen. Er war die Kraftquelle, der für Befruchtung der Natur sorgte. Doch von all dem sah er nichts mehr, stellte Thot mit kummervoller Miene Fest.
-
-Sie hörten Hathor, die in der Küche im Erdgeschoss ein Freudenlied von einem stachligen Tiere trällerte\footnote{Eingeweihte wissen, es handelt von einem Igel, um dem englischen Meister kleiner, dicker, vergnügter Frauen in schwarzen Kleidern und mit spitzen Hüten zu huldigen.}, während sie das Mittagessen zubereitete. Aber Osiris liess sich nichts anmerken. Er war der mächtige Herr des Westens, der Unterwelt und er würde mit der Hilfe der Götter auch wieder am Leben der Erde teilhaben können, wenn Thot nicht zu viel versprochen hatte. Und seine Mutter bald eine Gesangspause machte. Osiris hatte grosses Vertrauen in Thot, schliesslich hatte er ihn alles gelehrt, was er wusste\dots
+Im Moment hörten sie Hathor, die in der Küche im Erdgeschoss ein Freudenlied von einem stachligen Tiere trällerte\footnote{Eingeweihte wissen, es handelt von einem Igel, um dem englischen Meister kleiner, dicker, vergnügter Frauen in schwarzen Kleidern und mit spitzen Hüten zu huldigen.}, während sie das Mittagessen zubereitete. Aber Osiris liess sich nichts anmerken. Er war der mächtige Herr des Westens, der Unterwelt und er würde mit der Hilfe der Götter auch wieder am Leben der Erde teilhaben können, wenn Thot nicht zu viel versprochen hatte. Und seine Mutter bald eine Gesangspause machte. Osiris hatte grosses Vertrauen in Thot, schliesslich hatte er ihn alles gelehrt, was er wusste\dots
  
- "`Das Mädchen? Es tut mir leid, Isis, aber das Mädchen ist weggelaufen. Sie weiss nichts von ihrer Aufgabe!"' Thot senkte verlegen den Kopf. "`Was?"' rief Isis entsetzt und sprang auf. "`Ich höre wohl nicht richtig!"' Sie funkelte Thot aus ihren schwarzen Augen an, das durfte wohl nicht wahr sein? In was für ein Abenteuer hatten sich diese verrückten Götter, oder Männer, was in diesem Fall das selbe war, jetzt wieder gestürzt? "`Ich bring Euch um!"' zischte sie. '-Haha!' meinte Osiris matt, wurde aber sofort ernst, als er das Gesicht seiner Frau sah. 
+ "`Das Mädchen? Es tut mir leid, Isis, aber das Mädchen ist weggelaufen. Sie weiss nichts von ihrer Aufgabe!"' Thot senkte verlegen den Kopf. "`Was?"' rief Isis entsetzt und sprang auf. "`Ich höre wohl nicht richtig!"' Sie funkelte Thot aus ihren schwarzen Augen an, das durfte wohl nicht wahr sein? In was für ein Abenteuer hatten sich diese verrückten Götter, oder Männer, was in diesem Fall das selbe war, jetzt wieder gestürzt? "`Ich bring Euch um!"' zischte sie. "`Haha"' meinte Osiris matt, wurde aber sofort ernst, als er das Gesicht seiner Frau sah. 
  
-'-Isis, Schatz, lass' es dir erklären!' Osiris blickte aus grossen Augen und wandt sich hilfesuchend zu seinem Freund um. "`Ja, liebe Isis, in der Tat, sollten wir dir wohl einiges erklären\dots"' meinte auch Thot. "`Ich geb' euch fünf Minuten, bevor ich Euch den Kopf abreisse, beiden!"' Thot schluckte und senkte den Blick und fand seinen Bauchnabel Aug` in Auge mit Isis. Diese hatte die schlanken Arme verschränkt, den Kopf im Nacken starrte sie zu ihm hoch, während sie mit den Zehen ungeduldig auf den Boden klopfte. Selbst wenn sie wütend war, blieb sie zierlich und klein. Was sie nicht daran hinderte neben ihrem Gemahl die mächtigste Göttin zu sein. Sie sieht so hübsch aus, wenn sie wütend ist, dachte Thot. Kleine Blitze stoben um ihr Haupt mit den kräftigen, langen schwarzen Haaren, die Luft knisterte. Ihre kohlrabenschwarzen Augen sprühten und ihre vollen Lippen waren zusammen gepresst. Ihr schlanker Körper steckte noch immer in einem weissen, ägyptischen Leinenkleid und dem bunten Perlenkragen. Sie hatte keine Zeit gehabt sich wärmer anzuziehen, weil sie seit ihrer Ankunft ihren Gatten umsorgt hatte.
+"`Isis, Schatz, lass' es dir erklären!"', murmelte er und blickte hilfesuchend zu seinem Freund. "`Ja, liebe Isis, in der Tat, sollten wir dir wohl einiges erklären\dots"' meinte auch Thot. "`Ich geb' euch fünf Minuten, bevor ich Euch den Kopf abreisse, beiden!"' Thot schluckte und senkte den Blick und fand seinen Bauchnabel Aug` in Auge mit Isis. Diese hatte die schlanken Arme verschränkt, den Kopf im Nacken starrte sie zu ihm hoch, während sie mit den Zehen ungeduldig auf den Boden klopfte. Selbst wenn sie wütend war, blieb sie zierlich und klein. Was sie nicht daran hinderte neben ihrem Gemahl die mächtigste Göttin zu sein. Sie sieht so hübsch aus, wenn sie wütend ist, dachte Thot. Kleine Blitze stoben um ihr Haupt mit den kräftigen, langen schwarzen Haaren, die Luft knisterte. Ihre kohlrabenschwarzen Augen sprühten und ihre vollen Lippen waren zusammen gepresst. Ihr schlanker Körper steckte noch immer in einem weissen, ägyptischen Leinenkleid und dem bunten Perlenkragen. Sie hatte keine Zeit gehabt sich wärmer anzuziehen, weil sie seit ihrer Ankunft ihren Gatten umsorgt hatte.
  
 "`Berta hat uns eingeladen, weil es mit Amélie, so heisst das Mädchen, ein Problem zu geben scheint. Berta hat das Mädchen die letzten Jahre betreut und beobachtet. Sie ist vielversprechend. Aber wie gesagt, es ist ein Problem aufgetaucht, dass Amélie sich in Ägypten zugezogen haben muss. Wir haben nicht herausgefunden, was es ist. Und weil wir aus der Entfernung nichts sehen konnten, hatten wir die Idee nach Basel zu gehen\dots"' "`So, hattet ihr?"' fauchte Isis. "`Weil eine vielversprechende Schülerin von Berta, die ich, wie ihr wisst, sehr schätze, ein Problem hat, schleppst du, Thot, meinen Mann aus dem Jenseits nach Basel? Kannst du mir einen Grund nennen, warum ich ihn nicht noch in dieser Stunde wieder in seinen Sarg stecke und zurück in die Duat bringe?"'
 
- '-Weil ich ihn darum bat, mich hierher zu bringen, Schatz!' Osiris Stirn glänzte vor Anstrengung und seine Gedanken waren schwach und leise, aber bestimmt: '-Dies könnte meine Chance sein, dem Fluch meines Bruders endlich etwas entgegenzusetzen, endlich wieder die Erde zu spüren!' Isis war still. Eine Träne lief langsam ihre Wange herunter. Sie ballte ihre Fäuste.
+ "`Weil ich ihn darum bat, mich hierher zu bringen, Schatz!"' Osiris Stirn glänzte vor Anstrengung und seine Stimme war schwach und leise, aber bestimmt: "`Dies könnte meine Chance sein, dem Fluch meines Bruders endlich etwas entgegenzusetzen, endlich wieder die Erde zu spüren!"' Isis war still. Eine Träne lief langsam ihre Wange herunter. Sie ballte ihre Fäuste.
  
  "`Isis, \dots"' "`Still! Ich will nichts hören. Auch wenn ihr Götter seit, meine beiden Herren, könnt ihr trotzdem vorher fragen, ob ich einverstanden bin, denn ihr wisst selbst, ohne meine Hilfe kommt ihr nicht aus."' "`Isis, \dots"' "`Still! Kein Mucks."' Schrie sie. "`Schaff' die Göre wieder her und schau, Thot, wie du sie in den Griff bekommst, bevor unsere Zeit abgelaufen ist. Und ich"' sagte sie und blickte streng auf ihren Gatten "`werde versuchen dieses Häufchen Elend am Leben zu erhalten."' Sie wischte sich die Träne ab und griff nach einem grossen Löffel, füllte ihn mit einer blutroten Flüssigkeit aus einer Glas-Phiole und leerte ihn behutsam und gleichsam zornig in den Mund des ergebenen Osiris. Währenddessen schlich sich Thot aus dem Zimmer und ging in den Garten.
 
@@ -895,6 +923,7 @@ Nun bemerkte sie Thot, er streckte den Daumen nach oben. Er grinste und wischte 
 \addcontentsline{toc}{chapter}{26.Dezember, Stephanstag}
 
 \section*{1}
+\addcontentsline{toc}{section}{1}
 
 Amélie öffnete die Augen\dots
 
@@ -902,9 +931,9 @@ Sie lag im Bett. In ihrem warmen Bett im blauen Haus. -Ich lebe, noch! Dachte Am
 
 Es klopfte, die wissen wohl alles, dachte Amélie, vermutlichen wissen alle schon bevor ich aufwache, wann es soweit ist\dots "`Jaaah?"' rief sie zaghaft. "`Guten morgen, Kind!"' Uff, es war Wibrandis mit einem Tablett auf dem der Kakao dampfte und ein frisches Schokoladencroissant lag und eine schlanken Vase mit einer Rose standen. "`Die Rose ist von Hans"' erklärte Wibrandis "`der wilde Maa ist sehr stolz auf dich. Wie wir alle!"' Die ältere Frau stämmte ihre Fäuste in die Hüften und strahlte Amélie herzlich und stolz an.
 
-Amélies Blick fiel auf eine Schürze, die nun unübersehbar über Wibrandis Bauch und Busen prangte. Auf der Brust befanden sich die 'betenden Hände' von Albrecht Dürer, die restliche Platz der weissen Schürze war mit Friedenstauben und zarten, schwarzen Kreuzen bedruckt. Wibrandis bemerkte Amélies Blick und fragte besorgt: "`Gell, es ist nicht zu gewagt, oder? Die Herrschaften haben mich etwas angesteckt\dots"' Wibrandis errötet leicht und Amélie beeilte sich sie zu beschwichtigen: "`Nein, nein, Wibrandis, es sieht\dots toll aus, vielleicht etwas ungewohnt."' Wibrandis atmete hörbar aus und meinte: "`Genau, es ist etwas ungewohnt"'.
+Amélies Blick fiel auf eine Schürze, die nun unübersehbar über Wibrandis Bauch und Busen prangte. Auf der Brust befanden sich die 'betenden Hände' von Albrecht Dürer, die restliche Platz der weissen Schürze war mit Friedenstauben und zarten, schwarzen Kreuzen bedruckt. Wibrandis bemerkte Amélies Blick und fragte besorgt: "`Gell, es ist nicht zu gewagt, oder? Die Herrschaften haben mich etwas angesteckt\dots"' Wibrandis errötet leicht und Amélie beeilte sich sie zu beschwichtigen: "`Nein, nein, Wibrandis, es sieht\dots toll aus, vielleicht etwas ungewohnt"' Wibrandis atmete hörbar aus und meinte: "`Genau, es ist etwas ungewohnt"'.
 
-Während Amélie sich über ihr Frühstück her machte, bemerkte sie eine rötliche Katze, die mit Wibrandis ins Zimmer geschlüpft sein musste. Amélie kannte Katzen und wusste sofort, wenn man keine Dose mit Katzenfutter in der Hand hatte, wurde man von einer echten Katze nicht so gemustert, wie von dieser. Sie war auf die Kommode gesprungen, um Amélie besser anstarren zu können. Instinktiv zog Amèlie die Decke höher, immerhin könnte es ein Kater sein.
+Während Amélie sich über ihr Frühstück her machte, bemerkte sie eine rötliche Katze, die mit Wibrandis ins Zimmer geschlüpft sein musste. Amélie kannte Katzen und wusste sofort, wenn man nichts Fressbares in der Hand hielt, wurde man von keiner echten Katze so neugierig gemustert, wie es diese rote Katze tat. Sie war auf die Kommode gesprungen, um Amélie besser anstarren zu können. Instinktiv zog Amèlie die Decke höher, immerhin könnte es ein Kater sein.
 
 Wibrandis schien die Katze nicht zu bemerken. Sie kramte für Amélie Kleider hervor. Als sie alles gefunden hatte, schaute sie zufrieden auf das geleerte Frühstückstablett. Die Rose von Hans stellte sie auf den Nachtisch. Sie duftete intensiv. Amélie sog den Duft tief ein. Er war wie eine warme, sanfte, kräftigende Massage von Innen. Wie schön wäre die gleiche Behandlung auch aussen, dachte sie. "`So, Amélie! Husch, husch! Es steht viel auf dem Programm\dots"' Als Wibrandis Amélies Gesicht sah, lachte sie: "`Ja, ein Bad gehört auch dazu und zwar sofort"' schmunzelte sie.
 
@@ -914,189 +943,17 @@ Sie kamen in das Erdgeschoss und gingen durch die grosse Eingangshalle in den re
 
 Dann stieg sie langsam in das warme Wasser und liess sich an der tiefsten Stelle nieder. Die Arme entspannt auf den Rand gelegt, streckte sie die Beine aus. Ihre Zehen tauchten aus dem flaumigen Schaum auf. Amélie grinste und hatte zum ersten mal das Gefühl mit Göttern Ferien zu machen, könnte auch auf entspannende Weise cool sein\dots
 
-"`Du bist also die Liebe unseres Amsi!"' Amélie riss die Augen auf. Ihr gegenüber sass, wie aus dem Nichts, eine Frau. Sie hatte feuerrote, lockige Haare, smaragdgrüne Augen und volle Lippen. "`Nein! Bin ich nicht!"' Amélie verschränkte wütend die Arme und schob die Unterlippe, vor. -Konnte man denn nicht fünf Minuten alleine sein? "`Ich bin neugierig auf Dich und wollte die Chance nutzten und dich kurz anschauen. Ich bin Tefnut!"' versöhnlich reichte sie Amélie ihre Hand. Die schlanken Finger fühlen sich warm an, wärmer als das Wasser. 
+"`Du bist also die Liebe unseres Amsi!"' Amélie riss die Augen auf. Ihr gegenüber sass, wie aus dem Nichts, eine Frau. Sie hatte feuerrote, lockige Haare, smaragdgrüne Augen und volle Lippen. "`Nein! Bin ich nicht!"' Amélie verschränkte wütend die Arme und schob die Unterlippe, vor. -Konnte man denn nicht fünf Minuten alleine sein? "`Es gibt so viel zu tun!"' antwortete die Göttin. "`Ich bin neugierig auf Dich und wollte die Chance nutzten und dich kurz anschauen. Ich bin Tefnut!"' versöhnlich reichte sie Amélie ihre Hand. Die schlanken Finger fühlen sich warm an, wärmer als das Wasser. 
 
-Amélie war eingeschüchtert. Tefnut war ein Kraftpacket. Ihr Körper, der sich erhob, um aus der Wanne zu klettern, war wunderschön. Die Haut glänzte wie Bronze. Sie hatte die Figur eine Pinup-Girls und bewegte sich geschmeidig, wie eine Katze. Ihren grünen Augen entging nichts und wenn sie sprach bewegten sich ihre zierlich Nase und ihre Ohren, wie die eines witternden Raubtieres. Sie ist die rote Katze! Durchfuhr es Amélie. Tefnut grinste. Kam es Amélie nur so vor, oder waren ihre Eckzähne lang und spitz? Amélie merkte, wie sie verschüchtert über den Schaum linste und wurde im gleichen Augenblick wütend. 
+Amélie war eingeschüchtert. Tefnut war ein Kraftpacket. Ihr Körper, der sich erhob, um aus der Wanne zu klettern, war wunderschön. Die Haut glänzte wie Bronze. Sie hatte die Figur eine Pinup-Girls und bewegte sich geschmeidig, wie eine Katze. Ihren grünen Augen entging nichts und wenn sie sprach bewegten sich ihre zierlich Nase und ihre Ohren, wie die eines witternden Raubtieres. Sie ist die rote Katze! Durchfuhr es Amélie. Tefnut grinste. Kam es Amélie nur so vor, oder waren ihre Eckzähne länger und spitzer als gewöhnlich? Amélie merkte, wie sie verschüchtert über den Schaum linste und wurde im gleichen Augenblick wütend. 
 
 Was heisst, mal kurz gucken und Katzen? Ha! Sie hatte sich heute Nacht mit einem riesigen Krokodil geprügelt\dots Tefnut grinste noch immer, aber dann grollte sie tief aus der Kehle und brüllte. Löwengebrüll! Amélie hielt sich die Ohren zu und sah die Göttin trotzig an, während der Rest von ihr vor Schreck schlotterte! "`Tapfer, kleine Amélie, du gefällst mir und das ist gut, denn wir werden die Nacht miteinander verbringen."' Die Göttin hatte sich zu Amélie gebeugt und hielt ihr Kinn fest. Sie zwang sie, sie anzuschauen. Amélie bekam eine Gänsehaut in der warmen Wanne. "`Wer bist du?"' "`Ich bin die Wahrheit!"' Sagte die Göttin und gab Amélie einen sanften Kuss auf den Mund.
 
 \section*{2}
 \addcontentsline{toc}{section}{2}
 
-
 Amélie schluckte den Ärger, ohnehin vermutete sie, die Wut könnte nur ein Ersatz sein, für andere Gefühle für die sie keinen Platz hatte, haben wollte. Angst stand ganz oben auf der Liste, oder Traurigkeit\dots
-Sie konzentrierte sich fest auf den Blumenduft, den sie in ihren frisch gewaschenen, feuchten Haaren mit sich durch das Haus trug. 
-
-Als sie in ihr Zimmer kam, fiel ihr Blick auf die Kommode. Auf einem roten Samttuch hatte Wibrandis das Schwert und den Kelch drapiert und die Rose vom Hans. An der Vase lehnte ein Zettel. Der Stab ragte auf beiden Seiten über die Kommode hinaus.
-
-Amélie nahm als erstes den Zettel, sie hatte da einen Verdacht. Tatsächlich war er von Hans geschrieben, wie sie vermutet hatte. "`Liebe Amélie"', stand dort in ungelenker Handschrift, "`Die Münze ist seltsamerweise noch nicht wieder aufgetaucht. Ich bringe sie Dir sobald ich sie habe. Liebe Grüessli, Hans"' Kein Wunder, dachte Amélie, schliesslich habe ich die Münze heute Nacht verschluckt, ausversehen. Sie nahm sich vor so schnell wie möglich Wibrandis um Rat zu fragen und Hans Bescheid zu sagen, damit er sie nicht länger suchen musste.
-
-Dann bestaunte sie Scheide und Schwert. Die Scheide war aus Samt und Leder. Das Leder war gelblich. An der Spitze und am oberen Rand war das Leder auch Aussen als Verstärkung angebracht. Auf dem oberen Lederring schimmerte ein blauer Kristall.Der Samt war Königsblau und überzog die restliche Scheide. So fühlte sie sich steif, aber warm und weich an. Mit einem einfachen Gürtel, der aus dem selben gelben Leder gefertigt war, konnte die Scheide an die Hüfte gebunden werden. 
-
-Die Scheide war neu gefertigt und das Leder wirkte völlig unberührt, als Amélie mit den Fingern darüber fuhr. Nur an der unteren Spitze war ein breiter Ritz zu spüren. -Der muss von dem Krokodil stammen, dachte sie. Dann bemerkte sie weitere, aber kleinere Zahnabdrücke, die auf dem sonst makellosen Samt zu sehen waren. -Duamutef? Sie konnte nicht anders und sog eine tiefe Nase von dem Lederduft ein, sie liebte den Geruch, dann schnallte sie sich den Gürtel um.
-
-Amélie zog das Schwert aus der Scheide. Der Griff war mit dem gelben Leder wie frisch umwickelt. Sonst war das Schwert einfach. Die Klinge aus Eisen, keine Schnörkel, keine Zierden, keine Schmucksteine. Ausserdem hatte die Klinge Kerben und war offensichtlich alt. Amélie war etwas enttäuscht. Sie lies es trotzdem durch die Luft sausen und machte einen Ausfallschritt. "`Ha!"' Sie fuhr durch die Luft. "`Nimm das!"' Es gefiel ihr. Der Griff fühlte sich kühl an? Sobald sie die Hiebe ausführte, schien die Klinge zum Leben zu erwachen, vibrierte und summte wie ein klarer, scharfer Windhauch. Vorsichtig steckte sie sie in die Scheide zurück. Amélie wackelte zweimal mit der Hüfte. Das Gewicht des Schwertes fühlte sich- gut an!
-
-Sie nahm den Stab. Er reichte ihr bis an die Schultern. Er war aus Holz. Er besass noch die Rinde, in die feine Muster eingeritzt waren, die wie Flammen aussahen. Die Muster bildeten sich aus lauter Dreiecken, deren Spitze nach oben zeigte. Am oberen Ende das leicht gekrümmt war und sich natürlich in ihre Hand schmiegte, sah sie die verschiedenen Farben des Holzes. Aussen unter der Rinde war es hell, gelblich und im Inneren befand sich ein rötlicher Kern.
-
--Cool, ich hab' jetzt einen Zauberstab! Amélie fuchtelte mit dem Stab durch die Luft. "`Abraaa, Kadabraaa!"' intonierte sie. Leider blitzte es nicht und sprühte auch keine Funken, wie sie gehofft hatte. Jedoch, der Stab war warm, sogar heiss geworden. Amélie war sich nicht sicher, aber das Muster der Flammen, hatte es sich verändert? Sie stand etwas ratlos und stellte ihn schliesslich an die Wand, um den letzten Gegenstand, den Kelch zu betrachten.
-
-Wieso war er wieder heil? Sie konnte sich nur zu gut erinnern, wie sie in der Nacht die Scherbe mit dem Blut daran genommen und in Ihr Herz gestossen hatte.  Sie nahm den Kelch in die Hände. Er war schwer und kühl. Er war ein fein geschliffener Kristall, der an immer neuen Stellen das Licht ein funkelnde Regenbögen brach und sie im Zimmer verteilte.
-
-Sie schauderte, denn auf dem Grund des Kelchs befand sich wieder Blut. Als sie genauer hinsah, begriff sie, dass es kein Blut, sondern ein blutroter Edelstein war, der an eine Goldkette befestigt war. Vorsichtig hob Amélie den Rubin aus dem Kelch und legte sich die Kette um den Hals. Durfte sie das? -Aber wozu waren die Sachen sonst in ihr Zimmer gebracht worden\dots Amélies Gefühl schwankte zwischen Stolz und Unsicherheit hin und her. Dann breitete sich Sicherheit aus. Sie kam aus dem Stein, der wie ein Strom von Gewissheit ihre Brust füllte. Ohne es zu bemerken, stand Amélie aufrechter, kerzengerade und dennoch entspannt.
-
-Leider gab es keinen Spiegel in ihrem Zimmer. Sie überlegt, ob sie ins Bad schlüpfen sollte, da klopfte es an der Tür und im selben Augenblick stand Wibrandis im Zimmer. "`Schnell, schnell, die Herrschaften erwarten dich!"' 
-
-Sie schob Amélie vor sich her. Als Wibrandis Amélie vor der Tür zu Thots Bureau ansah, machte sie verdutzt einen Schritt zurück: "`Jesses, Meidli, wie siehst du denn aus\dots!"' Bevor Amélie etwas erwidern konnte, öffnete sich die Tür und Thot erschien. Er sprach mit einer Person, die in seinem Bureau war, griff nach Amélie und zog sie in den Raum. Er wandte sich erst zu ihr um, als Wibrandis "`Herrjeh!"' rief und aus seinem Zimmer hinter ihm lautes Gelächter erklang.
-
-Dem obersten Gerichtsschreiber der ägyptischen Götterwelt aus nächster Nähe dabei zuzusehen wie ihm die Kinnlade vor Überraschung runterklappte, wäre vermutlich für Amélie ohne das Lachen in ihren Ohren lustiger gewesen.
-
-Amélie bemerkte entsetzt, dass jeder der drei Ohrensessel mit Göttern besetzt war. In den einen hatte sich ausgerechnet diese Tefnut niedergelassen. Amélie hatte gehofft, sie nicht so schnell und sicher nicht nochmal im Bademantel zu treffen. Vor allem nicht im dicken, rot-weiss gestreiften Frotteebademantel mit einem Zauberschwert umgürtet, barfuss und einem ansehnlich grossen Rubin um den Hals. 
-
-Die Göttin, die vor Lachen weiterhin gluckste, hatte sich, nach ihrem Auftritt im Bad, einen kurzen, roten Bademantel aus weichfliessender Seide übergestreift. Seltsamer Weise hatte sie eine Schürze an. Keine grosse, wie die anderen Göttinnen, die Amélie mit Schürze gesehen hatte, sondern eine kleine weisse Schürze mit Rüschenrand und einer kleinen Tasche. Auf die Tasche waren Dreiecke in rötlichen Farben gestickt, angeordnet wie eine Flamme.
-
- Diese Schürze ist -heiss! Fand Amélie und merkte, wie sie noch röter wurde. Es musste eine Art Zeichen Tefnuts Anwesenheit sein, Scham zu empfinden. Tefnut trug nur diese zwei Kleidungsstücke und rotseidene Pantöffelchen an den Füssen.  Sie hatte ein Bein übergeschlagen und wippte mit ihrem Pantoffel an der Zehenspitze. Nun fixierte sie Amélie, lächelte aber. Dann warf sie einen schmachtenden Blick zu dem zweiten Ohrensessel hinüber und Amélie folgte neugierig ihrem Blick und erstarrte\dots
-
--Mach', dass das nicht wahr ist! Im zweiten Sessel sass der schönste Mann, den Amélie je gesehen hatte. "`Das ist Schu. Der Gott der Lüfte und des Lichtes. Der Gott des Lebens und Ehegatte und Bruder der hinreissenden Tefnut\footnote{Erklärung siehe weiter vorn.}."' Stellte Thot den mächtigen  Gott vor. Sein ebenmässiges, fein geschnittenes Gesicht war leicht gebräunt. Die Augen leuchteten kornblumenblau und kristallklar. Der Lippen waren sanft geschwungen und zu einem spöttischen, freundlichen Grinsen verzogen. Im Mund trug er eine Selbstgedrehte. Sein Gesicht war von einer wilden, lockigen goldig schimmernden Mähne umrahmt, die ihm neckisch ins Gesicht und auf die Schultern fiel. Und um es auf die Spitze zu treiben, trug er einen unauffällig getrimmten Bart\dots
-
-Er war ausgesprochen muskulös, aber schlank, was von der verboten engen Jeans und dem T-Shirt noch betont wurde. Auf dem schwarzen T-Shirt befand sich ein weisses Dreieck mit der Spitzte nach oben. Das Dreieck wurde von einer weissen Linie von links durchfahren. Auf der rechten Seite brach die Linie, als sie das Dreieck verliess in einen Regenbogen auseinander. Amélie war sicher das Bild auf einem Plattencover schon gesehen zu haben.
-"`Hi, Amélie"' nuschelte das göttliche, \dots männliche, göttliche Wesen und lächelte breit. Dabei entblösste es die kräftigen, grossen Eckzähne einer Raubkatze. "`Hii!"' quitschte Amélie, wie ein Groupie. Warum kann ich jetzt nicht tot umfallen, oder besser, tot umfallen und im Erdboden versinken? 
-
-Aber Thot hatte ein Einsehen und meinte: "`Last but not least, haben wir heute die Ehre den Sonnengott höchstpersönlich in unserer Morgenrunde zu begrüssen. Amélie, dies ist der Vater aller hier anwesenden Götter, Re!"' "`Hach, Thot. Wie schaffst du es nur? Jetzt fühle ich mich plötzlich alt"' lachte der Göttervater. Amélie grinste schüchtern. Sie hatte den Vater aller Götter sofort in ihr Herz geschlossen. Sie hatte ihn schon während des gemeinsamen Mittagessens beobachtete, wo er, meist vergnügt und laut-fröhlich, mit einer Sonnenbrille auf der Nase am Kopfende des Tisches sass. Er überragte alle, selbst Horus. Man musste kein Götterexperte sein, um seine Stellung und Autorität als Göttervater sofort zu spüren.
-
-Auch jetzt trug er die Sonnenbrille. Amélie war ihm bisher nie so nahe gekommen und konnte nun den Glanz erkennen, den die Augen auch durch die dunklen Gläser abstrahlten. Das Haupt des Sonnengottes war von einer goldenen Carona umgeben. Die golden und rot schimmernden Locken bewegten sich, als gäbe es in dem stillen Raum einen Luftzug. 
-
-"`Wie ich sehe, hast du die Insignien der Elemente schon entdeckt"' meinte Thot trocken. "`Entschuldigung!"' Murmelte Amèlie, ehrlich zerknirscht. Im Angesicht der Götter wurde ihr bewusst, wie kindisch sie war. "`Nun, ich finde es- prima!"' strahlte Re, der Göttervater. "`Ein Adept kann sich nicht früh genug mit den Insignien beschäftigen. Ausserdem hatten wir noch keinen, der das auf so schwungvolle Weise machte."' Thot lächelte -endlich, dachte Amélie. "`Wir haben einiges zu besprechen für heute Nacht, Amélie!"' Meinte er dann: "`Dies wird deine erste Reise ohne deinen Körper sein. Tefnut und Schu werden dich begleiten."' "`Und ich und mein Auge, passt gut darauf auf!"' Sagte Re mit erhobenem Zeigefinger. "`Dein Auge?"` fragte Amélie.
-
-\section*{3}
-\addcontentsline{toc}{section}{3}
-
--'Was soll ich denn machen, Hapi?' Duamutef liess betrübt den Kopf hängen. Er hatte sich mit seinem Pavianbruder vor dem Teich zwischen den Bäumen und Büschen des Innenhofes getroffen. Er musste schnell mehr über den Fluch rausfinden. Alles was er gestern gesehen und gehört hatte, bevor sein Vater ihn geschnappt und wieder in die Gegenwart gebracht hatte, verstärkte seine Gewissheit. Der Fluch hatte mit ihnen, den Horussöhnen zu tun, allem voran mit ihm, weil Amélie ihn im Traum mit den Kanopen gesehen hatte.
-
-Sie waren Wächter, die Horussöhne. Eine ihrer wichtigsten Eigenschaften war ihre Unbestechlichkeit! Niemand konnte sie bestechen und sie liessen niemals in ihrer Achtsamkeit nach\dots und doch, und doch musste es jemandem gelungen sein vor ihrer Nase ein Herz zu verfluchen! Das war unmöglich! Es sollte unmöglich sein! Wer das bewerkstelligt hatte, war kein daher gelaufener Einbalsamierer, so etwas konnte nur ein Priester schaffen. Ein besonderer und mächtiger, in Magie bewanderter Priester. Aber welcher?
-
-Das Herz galt bei den Ägyptern als Zentrum von Lebenskraft und Verstand. Im Gegensatz zu den Organen, die die vier Horussöhne in den Kanopen beschützten, blieb das Herz im Körper des Toten. Es war auch nach dem Tod lebenswichtig. Lebenswichtig für das Leben von dem die Ägypter glaubten, es beginne erst nach dem Tod. Deshalb wurde das Herz von den Priestern und von ihnen, den Göttern, die die Toten begleiteten, besonders geschützt. Mit Magie, mit Gebeten, mit Amuletten. Das Herz bildete den Kern und das alles entscheidende Werkzeug für den Ba, die Seele, nach dem Tod.
-
-Nicht jeder Tote durfte nach Sechet-iaru, dem Gefilde, in dem die geprüften und für würdig und rein befundenen Toten für immer zufrieden und glücklich sein konnten. Die Toten mussten viele Abenteuer bestehen und das Grösste davon war das Totengericht. Thot und Anubis wogen dabei das Herz des Toten mit der Feder der Maat auf. Recht sprachen schliesslich die 42 strengen Totenrichter. Ihren Vorsitz hatte Osiris, der Herrscher der Duat, des Jenseits, persönlich. Jede Nacht. Wehe dem, dessen Herz schwerer wog als die Feder der Göttin! Dessen Ba, dessen Seele, wurde von dem schrecklichen Monster Ammit verschlungen und für immer ausgelöscht.
-
-Damit jeder Tote seine Chance ergreifen konnte auch nach dem Tot ein schönes Leben zu führen, beschützten die Horussöhne und mit ihnen auch Anubis die Körper der Toten, solange sie sie brauchten. Sie überwachten den Vorgang der Einbalsamierung, die die höchsten Priester mit magischen Ritualen durchführen mussten.
-
-Und genau dabei musste etwas passiert sein!
-
-Aber wer würde so etwas tun? Duamutef schauderte, wer hasste Amélie so sehr? Wie konnte jemand, ein Priester, der über all die Seelendinge Bescheid wusste, ein Herz zerstören wollen und es damit für Ewig aus dem Strom der Zeit reissen? Aus dem Gefüge der Ordnung reissen. Das Herz verstecken, damit es nicht von der Maat gewogen werden konnte? 
-
-Der Priester musste wahnsinnig sein vor Hass, denn er hatte mit dem Fluch, den er auf Amélies Herz gelegt hatte, auch sein eigenes Herz schwer belastet. Eigentlich müsste Ammit ihn gefressen haben! Dachte Duamutef. Aber war es so einfach? War der Übeltäter damals vor tausenden Jahren, nachdem er gestorben war und sein Herz gewogen wurde, selbst Ammit zum Opfer gefallen, weil er einen Fluch auf sein Herz geladen hatte? 
-
-Mit Schaudern wurde Duamutef bewusst, dass genau das auch mit Amélies Herz passieren musste, wenn sie es vom Fluch befreien konnten. Es würde gewogen werden. Wie würde das Ergebnis aussehen. War Amélies Herz rein genug? Wie sollten sie das prüfen, nach all den tausend Jahren? Waren in den letzten Lebenskreisen durch den Fluch neue Verfehlungen entstanden, die das Herz zu schwer werden liessen?
-
-All diese Fragen muss ich beantworten! Bevor Amélies Herz gewogen wird. Was, wenn es zu schwer ist? Was wird dann aus Osiris? Verzweifelt heulte Duamutef auf. Alles drehte sich in seinem Kopf, kaum war ein Gedanke gedacht, tauchten dazu hundert Fragen und neue Gedanken auf!
-
-Hapi kratzte sich sein langes Kinn, Affen haben recht lang davon. '-Tef! Du kannst das nicht allein durchziehen! Und wir anderen drei können auch nicht mehr ausrichten als du. Du musst den Chef, du musst Anubis um Rat fragen!' Duamutef verzog das Maul. Es war ihm nicht recht. Ausserdem wusste er viel zu wenig. Aber er konnte sich bei seinen Ermittlungen keinen Patzer mehr leisten, die Zeit drängte. Bis zum Gerichtstermin waren es nur noch vier Tage!
-
-Anubis trat aus dem Gebüsch auf die kleine Lichtung vor dem Teich, auf dem sich Hapi und Duamutef getroffen hatten. Er blickte die beiden durchdringend an: '-Was ist los? Ich habe ja nur das Ende deiner Reise mit deinem Vater erlebt, Duamutef, aber das war seltsam genug.' 
-
-Duamutef berichtete seinem Meister und Freund von dem Verdacht den die Brüder wegen den Kanopen hatten. Von seinem Reisebericht durch die Zeit war Anubis alles andere als begeistert. '-Noch auffälliger sein, wäre jetzt echt schwierig geworden', bemerkte er. Die beiden Horussöhne zuckten zusammen, normalerweise neigte ihr Chef nicht zu ironischen Bemerkungen.
-
-Anubis schwieg eine Zeit. Dann bemerkte er: '-Wir können die Stunden und ihren vorgezeichneten Weg nicht verlassen, ohne endgültig aus der Zeit zu fallen, also müssen wir sie nutzen. Duamutef, du hast Glück. Auf der heutigen nächtlichen Fahrt wirst du auf die richtigen Seelen von Toten, die Bas, und auch Götter treffen. Frage sie aus! Sie sind seit Urzeiten in der Duat, sie können sich erinnern, dann musst du nicht in der Zeit rumpfuschen und Verwirrung stiften!' Duamutef wedelte mit dem Schwanz, wie immer hatte ihr Meister den einfachsten und logischen Weg sofort erkannt.
-
-'-Ein Letztes,' Anubis wurde eindringlich, '-So lange wir hier in der Gegenwart sind: Tue das nie wieder!' Anubis war dicht an Duamutef getreten und knurrte '-Betrete nie wieder die Zeit!' Duamutef leckte ihm fragend über das Maul '-Warum Meister. Sonst reisen wir doch auch in der Zeit.' '-Ich hatte dich für klüger gehalten' bemerkte Anubis tadelnd. '-Stell dir vor, was passiert, wenn der Übeltäter, der sehr, sehr klug zu sein scheint, dich bei der Recherche erwischt? 
-
-Was dann? Wenn er die Vergangenheit ändert und sein Verbrechen nicht begeht? Dann ist Amélie in unserer Gegenwart verflucht und es gibt keinen Täter mehr und keine Tat, die dafür verantwortlich sind! Wie willst du dann den Fluch lösen? Einen Fluch, den es plötzlich in der Vergangenheit nicht mehr gibt?' Duamutef war bleich geworden, was bei ihm nur an der dunklen Nase zu erkennen war. Hapi kreischte. '-Also, meine Horussöhne, auf, auf! Macht eure Arbeit und etwas mehr!'
-
-\section*{4}
-\addcontentsline{toc}{section}{4}
-
-Nachdem Thot Amélie auf die nächtlichen Abenteuer vorbereitet hatte, verliess er sein Bureau und bog links in den langen Gang ein. Am Ende des Ganges öffnete sich die Tür und Isis kam heraus, gefolgt von einem Sonnenstrahl, der den dunklen Gang in warmes Licht tauchte. Thot bemerkte eine grosse, mit vielen samtenen, rosa Blättern gefüllte Pfingstrose in Isis Haaren und ein friedliches Lächeln auf ihren Lippen. "`Guten Morgen, Thot!"' Strahlte sie. Sie trug eine Schürze, grün mit bunten Blumen darauf, ab und zu konnte Thot eine Schlange zwischen den Blumen auftauchen sehen, die jedoch wieder im Grün verschwanden. Osiris und Isis schien es besser zu gehen.
-
-"`Wie geht es ihm?"' fragte Thot. "`Viel besser! Als Anubis und ich ihm heute Morgen aus dem Imiut heraus und ins Bett brachten, hatte er endlich wieder etwas Grün im Gesicht!"' sagte sie. "`Er hat Besuch von Geb, der ihm hilft heute Nacht vorzubereiten. Sie müssen die Route mit der von Amélie und Re abstimmen, damit sie viel Kraft des kosmischen Eies aufnehmen können. Ich hoffe Anubis kann sich ausruhen, er wird heute Nacht Osiris und Amélie tragen müssen!"' meinte sie und sogleich legte sich ihre Stirn in Falten. Dadurch wurde die goldene Schlange, die ihr als Haarband diente, geweckt, sie zischelte und blickte vorwurfsvoll auf Thot. "`Also, bis später"', Isis eilte an Thot vorbei den Gang runter, die Schlange wippte auf ihrem Haupt, sie behielt Thot im Auge und züngelte, bis die Göttin um die Ecke bog.
-
-Thot blieb vor der Tür stehen. Das kosmische Ei. Er staunte, wie gut Berta und Hans den Ort für sie ausgesucht hatten. Nicht jede Stadt verfügte über einen solchen starken Schutz wie Basel. Die Form des Eies wurde von einem Ring aus Kirchen gebildet: Dem Münster, der Barfüsserkirche, der Leonhardskirche, der Peterskirche und der Martinskirche. Sie alle standen auf Plätzen, die stark mit den Kräften zusammen hingen, die zwischen Erde und Himmel ausgetauscht wurden. Thot schaute in seiner Vorstellung von oben auf die Stadt und die Kirchen schienen untereinander mit Adern verbunden. Das Blut dieser Adern kam mal aus der Erde und mal vom Himmel. Sie verflochten sich miteinander und bildeten einen lebendigen Schutzraum. Dabei waren es natürlich nicht die Kirchen selbst, die dieses Kunstwerk vollbrachten, nein, sie waren lediglich auf diesen  kraftvollen Plätzen, die es hier immer gegeben hatte, gebaut worden. Einige von ihnen hatten schlicht Tempel verdrängt oder ersetzt, die vor Christigeburt  an diesen heiligen Orten gestanden hatten.
-
-Im Zentrum des Eies, im Zentrum des geschützten Raumes lag das Herz der Stadt tief in der Erde verborgen. Es war durch einen Brunnen gekennzeichnet. Ein Brunnen, um den sich viele Legenden rankten. Der Gerberbrunnen.
-
-Früher wussten die Menschen das alles noch, dachte der Gerichtsschreiber wehmütig. Obwohl Thot wusste, wie notwendig das Vergessen all dieser Dinge für die Menschheit war, packte ihn die Wehmut. Schliesslich hatte er massgeblich an dem alten Wissen mitgewirkt, welches den Menschen tausende Jahre nützlich gewesen war. In bestimmten Momenten schmerzte es zu sehen, wie viel seines hermetischen Weges die Menschen vergessen mussten, damit sie zur Freiheit wachsen konnten.
-
-Eijeijei! Thot mahnte sich selbst, stehst da und träumst\dots Er klopfte an Osiris Tür und betrat das geräumige Schlafgemach. Osiris sah in der Tat besser aus. Er trug die Farbe von jungem Roggen im Gesicht und er musste sich gelangweilt haben, denn an einigen Stellen wuchsen aus den Wänden und Möbeln verschiedene Pflanzen und Blumen. Es gab überall im Zimmer Fussabdrücke aus reifen Weizenähren. Das war seine schönste Liebeserklärung an seine Gemahlin im Diesseits. Überall wohin sie ihre Füsse setzte, spross Weizen in die Höhe, der dann sofort reifte und golden dastand.
-
-Geb, der Erdgott, Vater des Osiris und direkter Erbe der Herrschaft über die Erde nach seinem Grossvater Re und Vater Schu, hatte sich im Zimmer auf dem Boden ausgestreckt. Da er wie sein Sohn eine grünlich Hautfarbe hatte, war er kaum zwischen den Pflanzen zu erkennen, die überall wuchsen. Geb lebte in der Erde und dort brauchte er keine Kleidung. Er wirkte wie ein Baumstamm, der längerer Zeit auf dem Waldboden verwittert war. Wie ein solcher so grünlich-hölzern, glatt und glänzend war seine Haut. Darunter war jeder Muskel zu erkennen. Am erdigen, durchdringenden Geruch des Fruchtbarkeitsgottes, der an ein wildes Tier erinnerte, konnte man unschwer erkennen wie wenig Wert er im Gegensatz zu seinem Vater Schu, auf sein Äusseres legte. Geb könnte ein grosser Bruder von Hans sein, dachte Thot: Handwerker, Tüftler, Gärtner und Macher. Seine wilde Mähne und sein Bart hatten eine braune Färbung und standen verfilzt und zottelig ab. Er sieht viel älter aus , als sein Vater Schu mit seinem luftig, lichtem Wesen, dachte Thot.
-
-Seine Nilgans, Geb verliess seine Gefilde nie ohne seine Nilgans, die gewöhnlich auf seinem Kopf thronte, hatte es sich auf seinem Bauch gemütlich gemacht und schlief, den Schnabel unter den Flügel geschoben. Ihretwegen, oder seinetwegen, die Götter wussten es nicht genau, wurde Geb auch 'grosser Schnatterer' genannt. Um den grossen Schnatterer nicht zu wecken, unterhielten sich auch Geb und Thot gedanklich. So war es still im Zimmer, obwohl sie miteinander sprachen. Nur das leise Schnarchen des Schnatterers und das eine oder andere 'Plobb!' eines Blattes, das sich ans Licht der Welt schob und entfaltete, waren zu hören.
-
-'-Ich finde die Idee sehr gut' bemerkte Osiris. '-Vater meinte, er könnte mir die Gestalt des Benu geben.' Thot runzelte verwundert die Stirn. Der göttlich Vogel Benu, ein grosser Reiher, erschien nur alle 1461 Jahre. Der Benu war die Verkörperung von Osiris Ba-Seele.\footnote{ Später sollte er als Fabeltier in der Legende des Phönix weiterleben. Denn, wenn er auftauchte, baute er auf dem Tempel des Sonnengottes in Heliopolis sein Nest. Sobald die Morgenröte des nächsten Tages kam, verbrannte er, um verjüngt wieder geboren zu werden.}'-Das wäre gut, denn diese nächtliche Reise wirst du von den Ibissen bewacht, da passt die  Vogelgestalt.' Geb blickte mit hellbraunen Augen zu Thot hoch: '-Es sollte möglich sein, weil der Ort, den wir heute Nacht betreten ein Ei ist! Das kosmische Ei von Basel hat die Funktion eine Eies und deshalb kann sich Osiris in seiner Vogelgestalt darin bewegen. Es ist als wenn das Vogelkind in einem solch grossen Ei ist, dass es da drinnen herumspazieren kann!' '-Geb, das ist genial! Dann muss Anubis nur Amélie im Imiut tragen. Und Osiris kann sich innerhalb des Eies frei bewegen!' Geb schmunzelte, '-Genau!' 
-
-Das bedeutete jedoch einige Arbeit für Vater und Sohn. Geb setzte sich auf, nicht ohne vorher vorsichtig, vorsichtig den Schnatterer sanft auf den Arm zu nehmen und ihn an Osiris Fussende auf das Bett zu setzten. Der Schnatterer schnorchelte und steckte den Schnabel unter den anderen rotbraunen Flügel mit der schönen dunkelgrün schillernden Spitze. Geb schaute ihn liebevoll und zärtlich an '-Später kann er in den Park, die Grüne 80, fliegen und sich mit den anderen Nilgänsen anfreunden. Vielleicht findet er ja eine Ferienliebe!' Thot grinste wie hielt Nut, die Himmelsgöttin, es aus mit ihrem gansverrückten Göttergatten? 
-
-\section*{5}
-\addcontentsline{toc}{section}{5}
-
-
-
-
-
-
-\chapter*{3. Nacht, Stephanstag}
-\addcontentsline{toc}{chapter}{3.Nacht, Stephan}
-
-
-
-
-
-%\Restecke
-\chapter*{Reste}
-\addcontentsline{toc}{chapter}{Reste}
-
-\section*{prolog}
-\addcontentsline{toc}{section}{prolog}
-
-Dies ist die Geschichte einer Reisegruppe. Da diese Reisegruppe aus Göttern der alten ägyptischen Pharaonenzeit besteht, die das schöne Basel in der Schweiz des 21. Jahrhunderts besuchen, handelt es sich um eine ungewöhnliche Reise und um ungewöhnliche Ereignisse und Abenteuer. 
-
-Alle Götter lieben es kreativ und innovativ zu sein, deshalb beginnen sie stets mit dem Anfang, der Schöpfung. 
-
-Das All!  Nicht das All, das wir kennen mit all den Lichtern und Blinkesternen, sondern das All vor Urzeiten, jung und neu. Wir sitzen in einem Raumschiff und beobachten, was passiert. Es ist dunkel, wie in Mutters Schoss. Die Panoramascheibe unseres Raumschiffes ist auf Nachsicht eingestellt. Alter Astronautentrick, um die Geburt von Planeten am Anfang allen Daseins und vor der Erschaffung des Lichtes zu beobachten.
-
-Von der Kaffeemaschine tropft ein einzelner Tropfen herab, wir angespannt, zucken zusammen\dots und vor uns taucht majestätisch und langsam ein riesiger Planet auf. Er befindet sich an der Stelle, wo heute unsere Sonne ist und füllt den gesamten Platz zwischen Sonne und Saturn, so gross ist er. 
-
-Langsam dreht er sich und wir bemerken unterschiedlich stark strahlende Felder. Wir sehen ein Zentrum in der Mitte, von einem helleren umgeben und eine abschliessende Hülle darum. Eiförmige Gebilde  bewegen sich in dem Planeten. Wir schauen auf den Zeitmesser, der sich rasend durch die Zeit bewegt und 1000 Jahre in einer Millisekunde vorbeiziehen lässt. Die Zeit wird langsamer und wir schauen wieder raus. Es wird dunkler, es scheint als verlösche der riesige Planet. Nachdem er verschwunden ist, beschleunigt der Zeitmesser erneut. 
-
-Und plötzlich erscheint vor unserem Panoramafenster ein neuer Planet an Stelle des alten. Dieser Planet ist kleiner und gasförmig. Wir können die Wärmesicht abschalten, wir sehen ihn wunderschön durch die Scheibe leuchten, wir tragen Sonnenbrillen, so hell leuchtet der Planet. Er strahlt glühend, leuchtend weiss, bis auf einige rauchig-dunkle Stellen, die aus Gas bestehen und dichter sind als der Rest. An einigen Stellen ballt sich Wärme, wie wir sie auf dem vorherigen Planeten gesehen haben.
-
-Dieser Planet scheint zu atmen. Eine Zeitlang strömt das Licht weit in das All hinein. Angesogen von einer unsichtbaren Kraft und wird feiner und heller. Dann zieht es sich in das Zentrum zurück, dabei wird es dunkler, dichter, wie rauchige Luft. Kleine Gebilde kristallisieren sich darin, noch können wir sie nicht erkennen. Später werden sie die Sterne des Tierkreises bilden.
-
-Wir haben die Zeit vergessen. Ein Blick auf unsere Zeitanzeige verrät uns, es sind Millionen Jahre vergangen. Wir schauen auf den Planeten und dieser ist wiederum in der Dunkelheit verschwunden.
-
-Wir haben kurz Zeit uns einen Kaffee zu kochen und ein Schnittchen zu machen, da taucht an der Stelle ein neuer Planet auf. Er reicht von der Sonne bis zum Mars. Er ist fester als sein Vorgänger und schillert in allen Regenbogenfarben. Durch den Farbschleier sehen wir Nebel und durch den Nebel sehen wir zum ersten mal so etwas wie Leben. Eine grünliche Masse, wie gekochter Spinat, die lebendig ist und ab und zu ein "`Blubb"' von sich gibt\dots
-
-Wir haben nicht viel Zeit dieses farbenprächtige Bild zu geniessen, denn die Masse des Planeten und die ganze Umgebung drumherum geraten in Aufruhr. Unsichtbare Kräfte reissen den Planeten auseinander. Während gleichzeitig das Universum von unsichtbaren Riesenhänden zusammengepresst wird. Zeitschlaufen öffnen sich und verschlucken Materie in dunklen Röhren, um sie an anderer Stelle auszuspucken. Unsichtbare, unglaublich starke Kräfte kämpfen gegeneinander. Trümmer fliegen herum, Feuerstürme toben, Luftlawinen wälzen sich durch den Raum.
-
-Unser kleines Raumschiff ist zu dicht an dem Geschehen dran, es wird gepackt und geschüttelt. Wir purzeln durcheinander, es gibt eine riesige Kaffeesauerei und die lecker Schnittchen kleben an den Wänden. Draussen sehen wir Blitze, Gaswolken. Druckwellen schütteln uns. Ein riesiges Durcheinander findet statt. Der ursprüngliche Planet ist nicht mehr zu sehen.
-
-Würden wir die alten Mysterien kennen, die ganze Ewigkeiten und durch viele Kulturen hindurch weitergegeben wurden, z.B. die Bhagavat Gita, würden wir wissen, in was wir hineingeraten sind: Den berühmten "`Streit im Himmel"'. Berühmt und berüchtigt, weil er die Geburt des Bösen beschreibt, das zu diesem Zeitpunkt nicht böse ist, sondern getrennt und allein.
-
-- Gespenstische Stille-
-
-Wir klopfen uns die Kleider ab, der Lehrling wird geschickt den Wischmop zu holen und die Kaffeepfützen zu entfernen und eine traurige Schinkenschnitte fällt von der Decke herunter.
-
-Draussen hat es sich beruhigt, aber, was für ein Anblick!
-
-An der Stelle des Planeten sehen wir eine Sonne, sie reicht nicht mehr bis zum Mars, dafür befindet sich auf der Marsumlaufbahn ein Mond. Er umkreist die Sonne und. Was auch immer die Turbulenzen verursacht hat, hat einen riesigen Ring an Trümmern hinterlassen, den Asteroidengürtel, den wir später zwischen Mars und Jupiter finden!
-
-Die Sonne leuchtet hell und ist leicht, während sich auf dem Mond die Materie zu Luft und Wasser verdichtet. Auch hier schillern wieder die Regenbögen und der lebendige Spinat macht "`Blubb"'\dots
-
-Ein letzter "Neustart" findet statt, Licht aus, Licht an und vor uns taucht die Erde auf. Sie ist viel grösser, denn es werden sich aus ihr Uranus und Saturn herauslösen, bevor sie sich endgültig verfestigt hat. Als nächster trennt sich der Jupiter und dann der Mars.
-
-Wir können es nun wagen auf das Raumschiff zu verzichten, auch wenn wir bei der jetzigen Erdatmosphäre vermutlich einen Raumanzug nötig hätten, mit unserer heutigen Gestalt.
-Ein letzter Blick auf den Zeitmesser, dort ist an Stelle der Zahlen eine Schrift erschienen: Genesis, Tag 1
-
-Die Sonne verlässt die Erde und später, als letztes der Mond. Nachdem es sich die Planeten alle für diese Runde gemütlich gemacht haben, tritt das erste mal gross auf die Bühne in physischer Gestalt: Der Mensch.
-
-Natürlich waren wir Menschen schon vorher da, wir waren auch dabei, als der Wärmeplanet sich im All begann zusammenzuballen, aber wir hatten kein Bewusstsein und nichts womit wir eines hätten haben können. Dieses Bewusstsein brauchte all die vielen Zeitrotationen auf unserem Zeitmesser, Millionen von Jahre und mehrere Äonen von Heimatplaneten, bevor es soweit war.
-
-Und dann kam Atlantis. (Womit unsere Geschichte, der Leser möge den schmählichen, aber einkalkulierten Fauxpas verzeihen, einen Gènréwechsel von Science-Fiction zu Fantasy durchmacht, kommt nicht mehr vor, versprochen.)
-
-\section*{3t.2}
-\addcontentsline{toc}{section}{3t.2}
-
-Wibrandis hatte sie zu Thots achteckigen Bureau geschickt.
+Sie konzentrierte sich fest auf den wunderbaren Blumenduft, den sie in ihren frischgebadeten, feuchten Haaren mit sich durch das Haus trug. Wibrandis hatte sie zu Thots achteckigen Bureau geschickt.
 
 Sie wollte klopfen, hielt aber inne, als sie das Stimmengewirr hinter der Tür hörte. Ob Tefnut in dem Zimmer war? Und wer noch? Amset? Wieso Amset, dachte Amélies Trotzstimme im Hinterkopf.
 
@@ -1126,6 +983,12 @@ Amélie zog das Schwert aus der Scheide. Der Griff war mit dem gelben Leder umwi
 
 
 
+
+
+
+
+\chapter*{3. Nacht, Stephanstag}
+\addcontentsline{toc}{chapter}{3.Nacht, Stephan}
 
 \tableofcontents
 
