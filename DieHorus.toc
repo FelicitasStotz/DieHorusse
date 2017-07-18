@@ -1,0 +1,61 @@
+\select@language {ngerman}
+\contentsline {chapter}{Prolog: Eine Nacht im Januar}{5}
+\contentsline {section}{23. Dezember}{14}
+\contentsline {part}{Erste Stunde}{19}
+\contentsline {chapter}{24.Dezember; Adam und Evatag}{19}
+\contentsline {section}{2}{25}
+\contentsline {section}{3}{28}
+\contentsline {section}{4}{29}
+\contentsline {section}{5}{32}
+\contentsline {section}{6}{36}
+\contentsline {section}{7}{39}
+\contentsline {section}{8}{40}
+\contentsline {section}{9}{42}
+\contentsline {section}{10}{43}
+\contentsline {chapter}{1. Nacht, Die Heilige}{49}
+\contentsline {section}{2}{51}
+\contentsline {part}{Zweite Stunde}{59}
+\contentsline {chapter}{25. Dezember, Christi Geburtstag}{59}
+\contentsline {section}{2}{63}
+\contentsline {section}{3}{66}
+\contentsline {section}{4}{70}
+\contentsline {section}{5}{73}
+\contentsline {section}{6}{75}
+\contentsline {section}{7}{77}
+\contentsline {chapter}{2. Nacht, Christi Geburtstag}{81}
+\contentsline {section}{2}{84}
+\contentsline {section}{3}{87}
+\contentsline {section}{4}{88}
+\contentsline {section}{5}{93}
+\contentsline {section}{6}{96}
+\contentsline {section}{7}{99}
+\contentsline {section}{8}{102}
+\contentsline {section}{9}{105}
+\contentsline {part}{Dritte Stunde}{111}
+\contentsline {chapter}{26. Dezember, Stephanstag}{111}
+\contentsline {section}{2}{115}
+\contentsline {section}{3}{121}
+\contentsline {section}{4}{125}
+\contentsline {section}{5}{129}
+\contentsline {section}{6}{130}
+\contentsline {section}{7}{134}
+\contentsline {section}{8}{136}
+\contentsline {chapter}{3. Nacht, Stephan}{139}
+\contentsline {section}{1}{139}
+\contentsline {section}{2}{140}
+\contentsline {section}{3}{142}
+\contentsline {section}{4}{147}
+\contentsline {section}{5}{158}
+\contentsline {part}{Vierte Stunde}{163}
+\contentsline {chapter}{27. Dezember, Johannestag}{163}
+\contentsline {chapter}{4. Nacht, Johannes}{165}
+\contentsline {part}{F\IeC {\"u}nfte Stunde}{169}
+\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{169}
+\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{171}
+\contentsline {part}{Sechste Stunde}{175}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{175}
+\contentsline {chapter}{6. Nacht, Jonathan}{177}
+\contentsline {chapter}{Reste}{179}
+\contentsline {section}{prolog}{179}
+\contentsline {section}{2n.5}{183}
+\contentsline {section}{3t.2}{184}
