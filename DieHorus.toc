@@ -46,18 +46,19 @@
 \contentsline {section}{3}{142}
 \contentsline {section}{4}{147}
 \contentsline {section}{5}{158}
-\contentsline {section}{6}{160}
-\contentsline {section}{7}{160}
-\contentsline {part}{Vierte Stunde}{163}
-\contentsline {chapter}{27. Dezember, Johannestag}{163}
-\contentsline {chapter}{4. Nacht, Johannes}{165}
-\contentsline {part}{F\IeC {\"u}nfte Stunde}{169}
-\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{169}
-\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{171}
-\contentsline {part}{Sechste Stunde}{175}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{175}
-\contentsline {chapter}{6. Nacht, Jonathan}{177}
-\contentsline {chapter}{Reste}{179}
-\contentsline {section}{prolog}{179}
-\contentsline {section}{2n.5}{184}
-\contentsline {section}{3t.2}{185}
+\contentsline {section}{6}{161}
+\contentsline {section}{7}{164}
+\contentsline {section}{8}{164}
+\contentsline {part}{Vierte Stunde}{171}
+\contentsline {chapter}{27. Dezember, Johannestag}{171}
+\contentsline {chapter}{4. Nacht, Johannes}{173}
+\contentsline {part}{F\IeC {\"u}nfte Stunde}{177}
+\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{177}
+\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{179}
+\contentsline {part}{Sechste Stunde}{183}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{183}
+\contentsline {chapter}{6. Nacht, Jonathan}{185}
+\contentsline {chapter}{Reste}{187}
+\contentsline {section}{prolog}{187}
+\contentsline {section}{2n.5}{191}
+\contentsline {section}{3t.2}{192}
