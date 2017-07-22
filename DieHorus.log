@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.18)  22 JUL 2017 19:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.18)  22 JUL 2017 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,303 +826,318 @@ Underfull \hbox (badness 1122) in paragraph at lines 1181--1182
 
 ] [140] [141] [142] [143] [144] [145] [146] [147]
 [148] [149]
-Underfull \hbox (badness 1072) in paragraph at lines 1278--1279
+Underfull \hbox (badness 1072) in paragraph at lines 1280--1281
 \T1/ppl/m/n/10.95 war ne-ben Amé-lie ge-tre-ten und wies auf die häss-li-che,
  []
 
-[150]
-Underfull \vbox (badness 1231) has occurred while \output is active []
+[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
+[162] [163]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [151]
-[152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163]
-[164]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1391
+ [164]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1393
 .
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1394
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
 []\T1/cmtt/m/n/10.95 22:05: Meldung in der Leitstelle: Der Portier des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1394
-\T1/cmtt/m/n/10.95 Hotels 'Troi Roi', Herr Hässler, meldet, dass sich
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+\T1/cmtt/m/n/10.95 Hotels 'Troi Roi', Herr Häsler, meldet, dass sich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1394
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
 \T1/cmtt/m/n/10.95 zwei auffällige Personen vor dem Restaurant 'Lälle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1394
-\T1/cmtt/m/n/10.95 König' aufhalten. Sie seien nackt und würden laut
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+\T1/cmtt/m/n/10.95 König' aufhalten. Sie seien nackt und würden einen
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+\T1/cmtt/m/n/10.95 grossen Vogel, vermutlich eine Gans, auf dem Kopf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+\T1/cmtt/m/n/10.95 mit sich führen, die laut schrie. Vielleicht solle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+\T1/cmtt/m/n/10.95 man den Tierschutz auch informieren, so der Herr
+ []
+
+[165]
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 []\T1/cmtt/m/n/10.95 22:10: Streifenwagen mit den Polizisten Moser und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 \T1/cmtt/m/n/10.95 Meyer trifft an der Schifflände ein. Von den beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 \T1/cmtt/m/n/10.95 Ruhestörern ist nichts zu sehen. Es befinden sich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 \T1/cmtt/m/n/10.95 viele Bürger auf der Strasse. Der Portier des 'Troi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 \T1/cmtt/m/n/10.95 Roi, Gäste aus dem 'Club de Bale, Passanten. Da es
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 \T1/cmtt/m/n/10.95 viele Zeugen hat (Liste im Anhang) beschliessen die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 \T1/cmtt/m/n/10.95 Polizisten Moser und Meyer die Umgebung genauer zu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 []\T1/cmtt/m/n/10.95 22:20: Die Polizisten Moser und Meyer fahren von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 der Marktgasse in die Gerbergasse. Auf der Höhe der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 Post sehen wir die verdächtigen Personen. Wie von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 den Zeugen berichtet sind es zwei grosse, nackte
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 Männer. Einer von ihnen trägt eine Art Tier auf dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 Rücken. Die Kollegin Meyer ruft die beiden Männer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 an, sie sollen stehenbleiben. Sie tun so, als ob
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 \T1/cmtt/m/n/10.95 sie uns nicht sehen würden und gehen weiter die
  []
 
-[165]
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 []\T1/cmtt/m/n/10.95 22:25: Die Polizisten Meyer und Moser verlassen den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 Wagen und folgen den Männern. Sie holen sie auf der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 Höhe des Gerberbrunnens ein. Dort sind die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 stehen geblieben. Die beiden scheinen aufgeregt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 und reden laut. Beide legen sich auf den Boden.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 Es hat sieht aus, als würden sie am Boden horchen.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 ^^RUnheimlich!^^P ruft der mit dem Tier auf dem Rücken.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 Das Tier zappelt. ^^RDas ist die Mitte vom Ei!^^P
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 Sagt der andere. Die beiden Beamten, die bisher
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 beobachtend im Hintergrund geblieben waren, nehmen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 jeweils einen der Herren in die Zange und bitten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 []\T1/cmtt/m/n/10.95 22:30: Die beiden Herren denken nicht daran. Da
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 beide sehr gross und kräftig sind, haben sie keine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 Schwierigkeiten die beiden Beamten Meyer und Moser
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 abzuschütteln. Der, der das Tier auf dem Rücken
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 trägt, nimmt es und reisst daran und plötzlich gibt
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 []\T1/cmtt/m/n/10.95 22:35: Aus dem hundeartigen, schwarzen Tier,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 das der nackte Nr.1 auf dem Rücken getragen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 hatte, kommt ein riesiger Vogel. Der Vogel gehört
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 vermutlich zur Gattung der Reiher. Er schlug
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 heftig mit den Flügeln und trifft dabei den Beamten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 Moser an der Nase, die daraufhin heftig zu bluten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 beginnt. Kollegin Meyer, die den nackten Nr. 2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 \T1/cmtt/m/n/10.95 festsetzten wollte, war ebenfalls ausser Gefecht
  []
 
-[166]
-Underfull \hbox (badness 2781) in paragraph at lines 1407--1408
+
+Underfull \hbox (badness 2781) in paragraph at lines 1409--1410
 []\T1/ppl/m/n/10.95 Das muss-te, was Kol-le-gin Mey-er be-traf, für den Mo-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 []\T1/cmtt/m/n/10.95 22:40: Die beiden nackten flüchteten hinter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 dem Reiher her das Gerbergässlein Richtung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 Leonhardskirche. Die Beamten stiegen unverzüglich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 in ihren Streifenwagen und fuhren zum Heuberg,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 Ecke Leonhardskirche. Die beiden Flüchtigen und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 der grosse Vogel befanden sich auf der Terasse auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 []\T1/cmtt/m/n/10.95 Von den Beamten angesprochen, flog der Vogel auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 und verschwand in einer Art Seifenblase. Die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 Flüchtigen springen zum Entsetzten der beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 Beamten die Maurer runter in das Lohnhofgässlein.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 obwohl die beiden Beamten am Fuss der Mauer keine
  []
 
-[167] [168] [169] [170] [171] [172] [173] [174
+[168] [169] [170] [171] [172] [173] [174
 
 ] [175] [176] [177
 
 ] [178
 
-]
-[179] [180
+] [179]
+[180
 
 ] [181] [182] [183
 
@@ -1134,11 +1149,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 
 ] [190
 
-]
-[191] [192
+] [191]
+[192
 
-] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
-[203] [204] (./DieHorus.toc
+] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+[204] (./DieHorus.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
@@ -1170,7 +1185,7 @@ nts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/felicitas/.texmf-var/fonts/pk/
 ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DieHorus.pdf (208 pages, 1555579 bytes).
+Output written on DieHorus.pdf (208 pages, 1555788 bytes).
 PDF statistics:
  962 PDF objects out of 1000 (max. 8388607)
  497 compressed objects within 5 object streams

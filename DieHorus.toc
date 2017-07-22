@@ -47,8 +47,8 @@
 \contentsline {section}{4}{147}
 \contentsline {section}{5}{158}
 \contentsline {section}{6}{161}
-\contentsline {section}{7}{164}
-\contentsline {section}{8}{164}
+\contentsline {section}{7}{165}
+\contentsline {section}{8}{165}
 \contentsline {section}{9}{168}
 \contentsline {part}{Vierte Stunde}{177}
 \contentsline {chapter}{27. Dezember, Johannestag}{177}
