@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.7.18)  4 AUG 2017 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.18)  5 AUG 2017 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -37,8 +37,7 @@ Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
 File: babel.def 2016/02/24 3.9q Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def))
+)
 \l@naustrian = a dialect from \language\l@ngerman 
 \l@nswissgerman = a dialect from \language\l@ngerman 
 Package babel Info: Making " an active character on input line 88.
@@ -48,10 +47,312 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
 
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
 
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
@@ -74,18 +375,19 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: xetex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
-(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
-File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Liv
-e/RRM/JK)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)))
+)
+\Gread@gobject=\count89
+))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
@@ -94,7 +396,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
@@ -103,9 +405,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
 \Gm@bindingoffset=\dimen106
 \Gm@wd@mp=\dimen107
 \Gm@odd@mp=\dimen108
@@ -125,8 +427,9 @@ Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
@@ -147,20 +450,20 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
-\XKV@depth=\count92
+\XKV@depth=\count93
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count93
-\pstFP@xia=\count94
-\pstFP@xib=\count95
-\pstFP@xfa=\count96
-\pstFP@xfb=\count97
-\pstFP@rega=\count98
-\pstFP@regb=\count99
-\pstFP@regs=\count100
-\pstFP@times=\count101
+\pstFP@xs=\count94
+\pstFP@xia=\count95
+\pstFP@xib=\count96
+\pstFP@xfa=\count97
+\pstFP@xfb=\count98
+\pstFP@rega=\count99
+\pstFP@regb=\count100
+\pstFP@regs=\count101
+\pstFP@times=\count102
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks20
@@ -187,16 +490,16 @@ ex
 \pgf@ya=\dimen121
 \pgf@yb=\dimen122
 \pgf@yc=\dimen123
-\c@pgf@counta=\count102
-\c@pgf@countb=\count103
-\c@pgf@countc=\count104
-\c@pgf@countd=\count105
-\pgfutil@tempcnta=\count106
-\pgfutil@tempcntb=\count107
+\c@pgf@counta=\count103
+\c@pgf@countb=\count104
+\c@pgf@countc=\count105
+\c@pgf@countd=\count106
+\pgfutil@tempcnta=\count107
+\pgfutil@tempcntb=\count108
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen124
-\pgfmath@count=\count108
+\pgfmath@count=\count109
 \pgfmath@box=\box26
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
@@ -220,14 +523,14 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count109
+\c@pgfmathroundto@lastzeros=\count110
 ))
 \pgffor@iter=\dimen125
 \pgffor@skip=\dimen126
 \pgffor@stack=\toks27
 \pgffor@toks=\toks28
 )
-\psLoopIndex=\count110
+\psLoopIndex=\count111
 
 `PSTricks' v2.64b  <2015/14/11> (tvz)
 \pst@dima=\dimen127
@@ -243,24 +546,23 @@ thmetics.code.tex)))
 \pst@hbox=\box27
 \pst@ibox=\box28
 \pst@boxg=\box29
-\pst@cnta=\count111
-\pst@cntb=\count112
-\pst@cntc=\count113
-\pst@cntd=\count114
-\pst@cntg=\count115
-\pst@cnth=\count116
-\pst@cntm=\count117
-\pst@cntn=\count118
-\pst@cnto=\count119
-\pst@cntp=\count120
-\@zero=\count121
+\pst@cnta=\count112
+\pst@cntb=\count113
+\pst@cntc=\count114
+\pst@cntd=\count115
+\pst@cntg=\count116
+\pst@cnth=\count117
+\pst@cntm=\count118
+\pst@cntn=\count119
+\pst@cnto=\count120
+\pst@cntp=\count121
+\@zero=\count122
 \pst@toks=\toks29
-(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
-(/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
 \psunit=\dimen137
 \psxunit=\dimen138
 \psyunit=\dimen139
-\pst@C@@rType=\count122
+\pst@C@@rType=\count123
 \pslinewidth=\dimen140
 \psk@startLW=\dimen141
 \psk@endLW=\dimen142
@@ -275,13 +577,10 @@ thmetics.code.tex)))
 \sh@wgridXunit=\dimen149
 \sh@wgridYunit=\dimen150
 \pst@shift=\dimen151
-
-(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
-(/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
-Using PSTricks configuration for XeTeX+xdvipdfmx
-)))
+)
 File: pstricks.tex 2015/14/11 v2.64b `PSTricks' (tvz,hv)
- (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
 File: pst-fp.tex 2015/14/11 v2.64b `PST-fp' (hv)
 )
 (./DieHorus.aux)
@@ -299,11 +598,67 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count124
+\scratchdimen=\dimen152
+\scratchbox=\box30
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen153
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
 
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: a5paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -338,12 +693,26 @@ LaTeX Font Info:    Try loading font information for T1+ppl on input line 52.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-File: Titel-Hell.jpg Graphic file (type QTm)
+<Titel-Hell.jpg, id=1, 389.2944pt x 480.8364pt>
+File: Titel-Hell.jpg Graphic file (type jpg)
+ <use Titel-Hell.jpg>
+Package pdftex.def Info: Titel-Hell.jpg used on input line 62.
+(pdftex.def)             Requested size: 421.10886pt x 597.52962pt.
+ [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 
-<use  "Titel-Hell.jpg" > [1
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 
 
-] [2
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
+Titel-Hell.jpg>] [2
 
 ] [3] [4
 
@@ -359,6 +728,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 122.
  [5] [6] [7] [8] [9] [10] [11] [12]
+Underfull \hbox (badness 1009) in paragraph at lines 194--195
+\T1/ppl/m/n/10.95 de Trans-port. Sind dr do z Ba-sel au pa-rat?^^P ^^RWir sind
+ []
+
 [13] [14] [15] [16
 
 ] [17] [18] [19
@@ -383,64 +756,81 @@ Underfull \vbox (badness 1231) has occurred while \output is active []
 ] [58] [59
 
 ] [60] [61]
-[62] [63] [64] [65] [66] [67] [68]
+[62] [63] [64] [65] [66] [67]
+Underfull \hbox (badness 1259) in paragraph at lines 574--575
+[]\T1/ppl/m/n/10.95 ^^RArme Am�-lie^^P seufz-te sie. ^^RWas hast du her-aus-ge-
+fun-
+ []
+
+[68]
 Underfull \vbox (badness 4391) has occurred while \output is active []
 
  [69]
 [70]
 Underfull \hbox (badness 1163) in paragraph at lines 601--602
-[]\T1/ppl/m/n/10.95 Nachdem der wil-de Mann wie-der in den Bü-schen ver-
+[]\T1/ppl/m/n/10.95 Nachdem der wil-de Mann wie-der in den B�-schen ver-
  []
 
-[71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82
+[71] [72] [73] [74] [75] [76]
+Underfull \hbox (badness 1194) in paragraph at lines 668--669
+\T1/ppl/m/n/10.95 -'Was machst du hier?' W�h-rend die Wor-te in Dua-mu-
+ []
 
-] [83] [84]
+[77] [78] [79] [80] [81
+
+] [82]
 Underfull \hbox (badness 1052) in paragraph at lines 731--732
 []\T1/ppl/m/n/10.95 Isis be-trat das Zim-mer ih-res Man-nes. Ei-ne gan-ze Schar
 
  []
 
-[85] [86] [87] [88] [89] [90]
+[83] [84] [85] [86] [87]
+Underfull \hbox (badness 1092) in paragraph at lines 782--783
+[]\T1/ppl/m/n/10.95 Am�lie at-me-te tief ein. Sie sah die schwach er-leuch-te-t
+e
+ []
+
+[88]
 Underfull \hbox (badness 2103) in paragraph at lines 786--787
-[]\T1/ppl/m/n/10.95 Plötzlich be-rühr-te et-was har-tes, spit-zes ih-ren Fuss. 
+[]\T1/ppl/m/n/10.95 Pl�tzlich be-r�hr-te et-was har-tes, spit-zes ih-ren Fuss. 
 Sie
  []
 
-[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
-[105] [106] [107] [108] [109] [110] [111
+[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107] [108] [109
 
-] [112] [113
+] [110] [111
 
-] [114] [115]
+] [112] [113]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [116]
-[117] [118] [119] [120] [121]
+ [114]
+[115] [116] [117] [118] [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
-[123] [124] [125]
+ [120]
+[121] [122] [123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
-[127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
+ [124]
+[125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135]
 Underfull \hbox (badness 1122) in paragraph at lines 1181--1182
-[]\T1/ppl/m/n/10.95 ^^RSchätzchen, ich ha-be da was für dich. Du musst dich
+[]\T1/ppl/m/n/10.95 ^^RSch�tzchen, ich ha-be da was f�r dich. Du musst dich
  []
 
-[138] [139] [140] [141
+[136] [137] [138] [139
 
-] [142] [143] [144] [145] [146] [147] [148] [149]
-[150] [151]
+] [140] [141] [142] [143] [144] [145] [146] [147]
+[148] [149]
 Underfull \hbox (badness 1072) in paragraph at lines 1280--1281
-\T1/ppl/m/n/10.95 war ne-ben Amé-lie ge-tre-ten und wies auf die häss-li-che,
+\T1/ppl/m/n/10.95 war ne-ben Am�-lie ge-tre-ten und wies auf die h�ss-li-che,
  []
 
-[152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163]
-[164] [165]
+[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
+[162] [163]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [166]
+ [164]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1393
 .
 
@@ -453,17 +843,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
-\T1/cmtt/m/n/10.95 des Hotels 'Troi Roi', Herr Häsler, meldet, dass
+\T1/cmtt/m/n/10.95 des Hotels 'Troi Roi', Herr H�sler, meldet, dass
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
-\T1/cmtt/m/n/10.95 sich zwei auffällige Personen vor dem Restaurant
+\T1/cmtt/m/n/10.95 sich zwei auff�llige Personen vor dem Restaurant
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
-\T1/cmtt/m/n/10.95 'Lälle König' aufhalten. Sie seien nackt und würden
+\T1/cmtt/m/n/10.95 'L�lle K�nig' aufhalten. Sie seien nackt und w�rden
  []
 
 
@@ -473,7 +863,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
-\T1/cmtt/m/n/10.95 dem Kopf mit sich führen, die laut schrie. Sowie
+\T1/cmtt/m/n/10.95 dem Kopf mit sich f�hren, die laut schrie. Sowie
  []
 
 
@@ -483,7 +873,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
-\T1/cmtt/m/n/10.95 wild bellte und dem Herr Häsler, als er nach dem
+\T1/cmtt/m/n/10.95 wild bellte und dem Herr H�sler, als er nach dem
  []
 
 
@@ -496,29 +886,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 1395--1396
 \T1/cmtt/m/n/10.95 hatte. Vielleicht solle man den Tierschutz auch
  []
 
-[167]
+[165]
 Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 []\T1/cmtt/m/n/10.95 22:10: Streifenwagen mit den Polizisten Moser und
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
-\T1/cmtt/m/n/10.95 Meyer trifft an der Schifflände ein. Von den beiden
+\T1/cmtt/m/n/10.95 Meyer trifft an der Schiffl�nde ein. Von den beiden
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
-\T1/cmtt/m/n/10.95 Ruhestörern ist nichts zu sehen. Es befinden sich
+\T1/cmtt/m/n/10.95 Ruhest�rern ist nichts zu sehen. Es befinden sich
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
-\T1/cmtt/m/n/10.95 viele Bürger auf der Strasse. Der Portier des 'Troi
+\T1/cmtt/m/n/10.95 viele B�rger auf der Strasse. Der Portier des 'Troi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
-\T1/cmtt/m/n/10.95 Roi, Gäste aus dem 'Club de Bale, Passanten. Da es
+\T1/cmtt/m/n/10.95 Roi, G�ste aus dem 'Club de Bale, Passanten. Da es
  []
 
 
@@ -532,3855 +922,558 @@ Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-[]\T1/cmtt/m/n/10.95 Wachtmeister Moser kratze sich nachdenklich am
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+[]\T1/cmtt/m/n/10.95 22:20 Die Polizisten Moser und Meyer fahren langsam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-\T1/cmtt/m/n/10.95 Kopf und fuhr mit seinem Protokoll fort: 22:20
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+\T1/cmtt/m/n/10.95 den Marktplatz Richtung Barf�sserplatze hinauf. Sie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-\T1/cmtt/m/n/10.95 Die Polizisten Moser und Meyer fahren langsam den
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+\T1/cmtt/m/n/10.95 k�nnen die verd�chtigen Personen jedoch nicht sehen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-\T1/cmtt/m/n/10.95 Marktplatz Richtung BArfüsserplatze hinauf. Sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-\T1/cmtt/m/n/10.95 können die verdächtigen Personen jedoch nicht sehen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
 \T1/cmtt/m/n/10.95 und daher beschliessen die Beamten Per Pedes die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-[]\T1/cmtt/m/n/10.95 In der Nähe des gerbergässleins auf dem kleinen
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+[]\T1/cmtt/m/n/10.95 In der N�he des Gerberg�ssleins auf dem kleinen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 Platz treffen die beiden Polizisten auf die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 Verdächtigen Personen. Sie haben sich vor dem
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+\T1/cmtt/m/n/10.95 Verd�chtigen Personen. Sie haben sich vor dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 Gerberbrunnen eingefunden. Dort liegen sie am
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 Boden und reden laut und aufgeregt miteinander. Die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
 \T1/cmtt/m/n/10.95 Gans, oder der Ganter, watschelt auf dem Platz und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 schnattert. In den Wohnung über dem Bastelladen ist
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 ein fenster aufgegangen und ein Bürger beschwert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 sich über die Ruhestörung. Er beruhigt sich,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 als er dsieht, dass wir Polizisten bereits vor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 Ort sind. In der zwischenzeit haben sich weitere
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
-\T1/cmtt/m/n/10.95 fenster geöffnet. Die Anwohner beschweren sich, die
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+\T1/cmtt/m/n/10.95 schnattert. In den Wohnung �ber dem Bastelladen ist
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
-[]\T1/cmtt/m/n/10.95 Sobald sich die Polizisten nähern greift der
+\T1/cmtt/m/n/10.95 ein Fenster aufgegangen und ein B�rger beschwert
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
-\T1/cmtt/m/n/10.95 Gänsevogel an und ein kleiner Hund, eine ART
+\T1/cmtt/m/n/10.95 sich �ber die Ruhest�rung. Er beruhigt sich, als er
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
-\T1/cmtt/m/n/10.95 dackel kommt plötzlich aus der Ecke des Brunnens
+\T1/cmtt/m/n/10.95 sieht, dass wir Polizisten bereits vor Ort sind.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
-\T1/cmtt/m/n/10.95 und fletscht die Zähne. dem Beamten bleibt nichts
+\T1/cmtt/m/n/10.95 In der Zwischenzeit haben sich weitere Fenster
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
-\T1/cmtt/m/n/10.95 anderes übrig als die beiden Männer mit gehörigem
+\T1/cmtt/m/n/10.95 ge�ffnet. Die Anwohner beschweren sich, die Polizei
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
-\T1/cmtt/m/n/10.95 Absatnd anzusprechen. Das ist schwierid, da sie
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+[]\T1/cmtt/m/n/10.95 Sobald sich die Polizisten n�hern greift der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+\T1/cmtt/m/n/10.95 G�nsevogel an und ein kleiner Hund, eine Art
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+\T1/cmtt/m/n/10.95 Dackel kommt pl�tzlich aus der Ecke des Brunnens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+\T1/cmtt/m/n/10.95 und fletscht die Z�hne. Dem Beamten bleibt nichts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+\T1/cmtt/m/n/10.95 anderes �brig als die beiden M�nner mit geh�rigem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
+\T1/cmtt/m/n/10.95 Abstand anzusprechen. Das ist schwierig, da sie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
 \T1/cmtt/m/n/10.95 nach wie vor am Boden liegen und die Beamten nicht
  []
 
-[168]
-Missing character: There is no ĉ in font ectt1095!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-[]\T1/cmtt/m/n/10.95 22:40: Die beiden Poizisten haben inzwischen zwei
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 weitere Kollegen informiert, da sie sich den beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 Männern nicht nähern können, ohne von der Gans,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 dem Hahn und dem Dackel angegriffen zu werden. Der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 BEamte Moser hat einige tiefe Kratzer im Gesicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 erhalten, die von den Sporen des Hahnes satmmen,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 während die Kollegin Meyer mehrfach von dem Dackel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1406
-\T1/cmtt/m/n/10.95 in die Wasde gezwiskt wurde. Die Gans greifdt
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+[]\T1/cmtt/m/n/10.95 22:40: Die beiden Polizisten haben inzwischen
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 zwei weitere Kollegen informiert, da sie sich
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 den beiden M�nnern nicht n�hern k�nnen, ohne von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 der Gans, dem Hahn und dem Dackel angegriffen zu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 werden. Der Beamte Moser hat einige tiefe Kratzer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 im Gesicht erhalten, die von den Sporen des Hahnes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 stammen, w�hrend die Kollegin Meyer mehrfach von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+\T1/cmtt/m/n/10.95 dem Dackel in die Wade gezwickt wurde. Die Gans
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 []\T1/cmtt/m/n/10.95 Die Kollegen Schmied und Hofer treffen ein. Sie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 haben Fangnetze mitgebracht. Die Kollegen Meyer,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 Hofer und Moser versuchen die Tiere mit den Netzen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 einzufangen. Dies entpuppt sich als schwierig. Die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
-\T1/cmtt/m/n/10.95 Gans ist zu gross für das Netz, da damit in der
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
+\T1/cmtt/m/n/10.95 Gans ist zu gross f�r das Netz, da damit in der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 Regel Katzen gefangen werden und sie sich daraus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
-\T1/cmtt/m/n/10.95 befreien kann sobald sie mit den Flügeln schlägt.
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
+\T1/cmtt/m/n/10.95 befreien kann sobald sie mit den Fl�geln schl�gt.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 Dabei trifft sie den Polizist Hofer am Schienbein,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 worauf dieser zu Boden geht und von den Kollegen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
-\T1/cmtt/m/n/10.95 Meyer und Moser aus der gefahrenzone gebracht
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
+\T1/cmtt/m/n/10.95 Meyer und Moser aus der Gefahrenzone gebracht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 werden muss. Dabei hat sich der Dackel bei Meyer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 \T1/cmtt/m/n/10.95 an der Hose festgebissen und der Hahn sich beim
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-[]\T1/cmtt/m/n/10.95 Moser ist nicht sicher, ob das alles in dieser
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 Ausführlichkeit in das Protokoll gehört. Aber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 seine Frau hat ihm den ganzen Kopf dick mit Salbe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 eingeschmiert und mit einer guten Lage Binden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 umwickelt. Kollegin Meyer, deren Verband an den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 Waden man nicht sehen konnte, hatte gut lachen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 gehabt heute morgen. ,Von hinten siehste aus, wie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 ein mumifiziertes Ei' hatte sie gesagt. Er hatte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 gezwungenermassen mitgelacht, schliesslich wollte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 er nicht wie eine beleidigte Leberwurst dastehen.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 Aber leichtefallen ist es ihm nicht, schliesslich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 ist er froh über jedes Haar auf seinem Kopf. Warum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 musste der Hahn ausgerechnet ihn zerfleddern? Der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-\T1/cmtt/m/n/10.95 Kollege Hofer hätte mit seinen dichten Locken ein
- []
-
-[169]
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 []\T1/cmtt/m/n/10.95 22:45: Dank dem wagemutigen und intensiven Einsatz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 der drei Polizisten Meyer, Hofer und Moser, kann
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 sich Poliziste Schmied den beiden Männern nähern.
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 sich Polizist Schmied den beiden M�nnern n�hern.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 Es wird höchste Zeit, den die ersten Anwohner
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 Es wird h�chste Zeit, den die ersten Anwohner
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 und spüteren Passanten sibd stehen geblieben und
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 und sp�teren Passanten sind stehen geblieben und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 beginnen mit ihren Handy Fotos zu schiessen und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 filmchen zu drehen. Die beiden Herren reagieren
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 Filmchen zu drehen. Die beiden Herren reagieren
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 unfreundlich auf den Polizisten Schmied, der sie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 aufgefordert hat ihre Papiere zu zeigen. Während
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 aufgefordert hat ihre Papiere zu zeigen. W�hrend
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 der eine der beiden den toten Hundebalg vom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 Rücken nimmt und keinerlei Reaktion zeigt und in
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 R�cken nimmt und keinerlei Reaktion zeigt und in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 einer fremden Sprache zu sprechen scheint. Fragt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 der andere nackte Mann auf allemanisch, ob der
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 der andere nackte Mann auf alemannisch, ob der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
-\T1/cmtt/m/n/10.95 Polizist Schmied ihm vielleicht sagen könne, wo
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+\T1/cmtt/m/n/10.95 Polizist Schmied ihm vielleicht sagen k�nne, wo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 zum Henker, er ohne Taschen Papiere unterbringen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \T1/cmtt/m/n/10.95 soll und ob er zu dusselig sei, den Wappenherold
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
-[]\T1/cmtt/m/n/10.95 Polizist Schmied rief daraufhin über Funk zwei
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
+[]\T1/cmtt/m/n/10.95 Polizist Schmied rief daraufhin �ber Funk zwei
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
-\T1/cmtt/m/n/10.95 weitere Streifen und vorsichtshalber eine Sanität
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
+\T1/cmtt/m/n/10.95 weitere Streifen und vorsichtshalber eine Sanit�t
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 in die Gerbergasse. Da sich die Menschenmenge
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
-\T1/cmtt/m/n/10.95 weiter vergrössert hatte, brauchte es Beamten,
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
+\T1/cmtt/m/n/10.95 weiter vergr�ssert hatte, brauchte es Beamten,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 die diese auf Abstand hielten. Polizist Schmied
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
 \T1/cmtt/m/n/10.95 hat sich zu den drei anderen Polizisten begeben,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
-\T1/cmtt/m/n/10.95 um sich zu beraten. Dies ist sehr schweirig, da die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
-\T1/cmtt/m/n/10.95 Menschen immer näher an die Tiere und die beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
-\T1/cmtt/m/n/10.95 Männer zusammenrücken und sowohl die Verdächtigen,
- []
-
-[170]
 Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
-[]\T1/cmtt/m/n/10.95 Am Anfang hatten wir ja geglaubt, dass die
+\T1/cmtt/m/n/10.95 um sich zu beraten. Dies ist sehr schwierig, da die
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
-\T1/cmtt/m/n/10.95 verdächtigen genausowenig flüchten könnten, wie
+\T1/cmtt/m/n/10.95 Menschen immer n�her an die Tiere und die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
-[]\T1/cmtt/m/n/10.95 22:50: Die zwei weitren Streifen treffen ein.
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
+\T1/cmtt/m/n/10.95 M�nner zusammenr�cken und sowohl die Verd�chtigen,
+ []
+
+[168]
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+[]\T1/cmtt/m/n/10.95 22:50: Die zwei weiteren Streifen treffen ein.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
-\T1/cmtt/m/n/10.95 DIe vier Kollegen können nach einigen Minuten
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+\T1/cmtt/m/n/10.95 Die vier Kollegen k�nnen nach einigen Minuten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 die Passanten zum weitergehen bewegen. Sofort
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
-\T1/cmtt/m/n/10.95 versucht der Poliszist Schmied erneut Kontakt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
-\T1/cmtt/m/n/10.95 zu den verdächtigen Personen aufzunehmen. Die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
-\T1/cmtt/m/n/10.95 Poliszisten Hofer, Meyer und Moser werden erneut
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
-\T1/cmtt/m/n/10.95 von den Tieren beträngt, sobald sich Polizist
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+\T1/cmtt/m/n/10.95 versucht der Polizist Schmied erneut Kontakt zu den
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-[]\T1/cmtt/m/n/10.95 Der Eine nackte nimmt den Tierbalg von seinem
+\T1/cmtt/m/n/10.95 verd�chtigen Personen aufzunehmen. Die Polizisten
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 Rücken, in diesem bewegt sich etwas. Der zweite
+\T1/cmtt/m/n/10.95 Hofer, Meyer und Moser werden erneut von den Tieren
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+\T1/cmtt/m/n/10.95 bedr�ngt, sobald sich Polizist Schmied den beiden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+[]\T1/cmtt/m/n/10.95 Der eine Nackte nimmt den Tierbalg von seinem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 R�cken, in diesem bewegt sich etwas. Der zweite
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 nackte Mann, der sich als Wappenherold bezeichnet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 hat, versucht nun seinerseits den Kollegen in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 ein Gespräch zu verwickeln und vom ersten Nackten
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 ein Gespr�ch zu verwickeln und vom ersten Nackten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 abzuhalten. Er sag, es sei eine christliche Mission
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 im Rahmen der Weihnachtsfeierlichkeit und sie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 dürften nicht unterbrochen werden. Er bat den
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 d�rften nicht unterbrochen werden. Er bat den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 Poizist Schmied weiter dafür zu sorgen, dass nicht
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 Polizist Schmied weiter daf�r zu sorgen, dass nicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 soviele Passanten herumstünden. Er entschuldigt
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 so viele Passanten herumst�nden. Er entschuldigt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 sich für die Umtriebe, das wäre nicht geplant
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 sich f�r die Umtriebe, das w�re nicht geplant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 gewesen, normalerweise würden sie beide, der andere
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 gewesen, normalerweise w�rden sie beide, der andere
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 Herr Geb und er unsichtbar operieren und nicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-\T1/cmtt/m/n/10.95 soviel Volk anlocken. ANdererseits fände er es
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+\T1/cmtt/m/n/10.95 soviel Volk anlocken. Andererseits f�nde er es
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 schon toll, dass die Basler offensichtlich ein
  []
 
-[171]
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
 []\T1/cmtt/m/n/10.95 Der Mann wollte sich trotz mehrmaliger Aufforderung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
-\T1/cmtt/m/n/10.95 des Polizsten Schmied weder abführen lassen, noch
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+\T1/cmtt/m/n/10.95 des Polizisten Schmied weder abf�hren lassen, noch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
 \T1/cmtt/m/n/10.95 den Ort verlassen. Polizist Schmied forderte den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
 \T1/cmtt/m/n/10.95 Mann weiterhin auf zu gehen. Da das nicht fruchtete
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
-\T1/cmtt/m/n/10.95 wollte er ihn in gewahrsam nehmen und die beiden
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+\T1/cmtt/m/n/10.95 wollte er ihn in Gewahrsam nehmen und die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
 \T1/cmtt/m/n/10.95 auf die Wache bringen. Sobald er jedoch den nackten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
-\T1/cmtt/m/n/10.95 Mann berühren wollte, flog plötzlich und unerwartet
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+\T1/cmtt/m/n/10.95 Mann ber�hren wollte, flog pl�tzlich und unerwartet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
 \T1/cmtt/m/n/10.95 ein riesiger Reiher aus dem Tierbalg des anderen
  []
 
+[169]
+Underfull \vbox (badness 3354) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-[]\T1/cmtt/m/n/10.95 Nun musste Moser eine Pause machen, denn ab da war
- []
+ [170]
+[171] [172] [173] [174] [175] [176] [177] [178] [179
 
+] [180] [181
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 es kompliziert geworden. Als der riesige Vogel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 in dem engen Mauervorsprung des Gerberbrunnens
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 auftauchte, geriet der Kollege SChmied, der schon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 sehr unter STrom stand, völlig aus der Fassung. Er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 zog seine Pistole und richtete sie auf den Vogel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 und die beiden Männer abwechselnd und brüllte:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 ,Ergeben Sie sich! das ist Ihre letzte Chance!'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 Leider hatten sich in der Zwischezeit wieder
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 neue Zuschauer eingefunden und sobald Schmied die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 Pistole gezogen hatte, gab es von allen Seiten ein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 Blitzlichtgewitter. Der Schmied brüllte dann, es
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 sollten sich alle verpissen...leider waren unter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 den Gaffern einige, die filmten. Einige waren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-\T1/cmtt/m/n/10.95 aufgeregt und kamen näher. Da hatten sie allerdings
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-[]\T1/cmtt/m/n/10.95 Die Tiere...Moser schüttelte den Kopf. er war bei
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 der Kaffeemaschine angelangt und wartete auf den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 schlabbrigen Kaffe, der in seinen Becher blubberte.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 Er kannte sich mit Gänsen und Hühnern, bzw. Hähnen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 nicht aus (ausser, wenn sie lecker knusprig
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 gebraten auf seinem Teller lagen, sowie gestern
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 am ersten Festtag.) ABer es kam ihm nicht richtig
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 vor, wie schlau die Tiere es angestellt hatten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 und zu dritt unermüdlich schafften, was sieben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 Polizisten nicht gelingen wollte, nämlich den Plebs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 auf Abstand halten. Moser musste schmunzeln, er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 nahm einen Schluck des Wassers, dem die Kaffebohnen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 kurz zugewunken hatten. Er war nicht der einzige,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 der heute wegen dem dämlichen Hahn einen Verband
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 tragen musste...und der Hofer, wie die Gans ihn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 gleich zweimal mit den Flügeln zu Boden gerissen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 hatte...Moser wusste, es war ungerecht, aber er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 mochte den Hofer nicht. Wenn er genauer darüber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 nachgedacht hätte, hätte er sich eingestehen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
-\T1/cmtt/m/n/10.95 müssen, dass es an dem Hofer seiner Jungend lag
- []
-
-[172]
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-[]\T1/cmtt/m/n/10.95 Es war schliesslich ein Schuss gefallen. Gott sei
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 Dank, hatte Schmied jedoch in die Luft geschossen.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 Daraufhin hatte der nackte, der mit Schmied
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 gesprochen hatte schrill gepfiffen und der Hund war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 sofort zu ihm gelaufen. Er hatte ihn geschnappt.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 Der grosse Vogel flog auf und die beiden Männer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 sprangenüber das Geländer des MAuervorsprunges
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 aufden Platz und jeder griff sich ein Bein des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
-\T1/cmtt/m/n/10.95 Reihers, der sie dann beide in die Höhe zog. Gans
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-[]\T1/cmtt/m/n/10.95 -Das glaubt uns doch kein Schwein, dachte Moser.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-\T1/cmtt/m/n/10.95 Er machte sich betrübt auf den WEg zurück in sein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-\T1/cmtt/m/n/10.95 Bureau. Ihm fielen die vielen Passanten ein, deren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-\T1/cmtt/m/n/10.95 Filmchen sicher schon die Einemillonklickmarke
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-\T1/cmtt/m/n/10.95 geknackt hatten. Er kratzte sich am Kopf. Aber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-\T1/cmtt/m/n/10.95 es war unbefriedigend, weil es unter dem dicken
- []
-
-[173]
-Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
-[]\T1/cmtt/m/n/10.95 Er setzte sich auf seinen Drehstuhl und streckte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
-\T1/cmtt/m/n/10.95 die Beine aus und verschränkte die Hände über
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
-\T1/cmtt/m/n/10.95 dem Bauch: Der riesige Vogel war unglaublich hoch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
-\T1/cmtt/m/n/10.95 geflogen und hatte dabei geschriehen. Sie waren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
-\T1/cmtt/m/n/10.95 in die Wagen gesprungen und versuchten ihm zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
-\T1/cmtt/m/n/10.95 folgen. erst schien es als würde er Richtung Norden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-[]\T1/cmtt/m/n/10.95 Der grosse Vogel breitete stolzierte auf seinen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 langen Beinen aus der Mauerecke des Gerbrunnens.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 Er war wunderschön anzusehen. Er hatte einen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 langen langen Schnabel, der orange leuchtete. Seine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 Federn waren in allen rot, orange und gelbtönungen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 grfärbt. Seine Beine waren schwarz. Er hatte grosss
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 eschwwingen, die er erst ausbreitete als er mitten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 in dem kreis von Poizisten und Passanten stand.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 Obwohl er sehr vorsichtige war, schlug er Modser
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 seine Schwinge kräftige an die anse, die promz
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 zu bluten begann. zu seineMoser staunte, denn die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-\T1/cmtt/m/n/10.95 Federn de Flügels hatten sich heiss angefühlt, wie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-[]\T1/cmtt/m/n/10.95 Der Vogel schwang sich in die Luft und über
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 die Däche. Dennoch konnten sie sehen, wie er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 in Richtung Heuberg, Lohnhof verschwand. Zum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 entsetzten der Polizisten, die alle mit offenem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 Mund staunend dem riesigen Vogel hinterhergesehen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 hatten, hatten sich die beiden Männer uned der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 dackelähnliche Hund aus dem Staub gemacht unde
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 waren ebenfalls im kleinen schmalen Gerbergässlein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 in richhtung lohnhof verschwunden. Während sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 Schmied und Hofer ins AUto speangen und mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 blaulciht die Passanten auseinander trieben und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 zum barfüsserplatz davon fuhren, rief Meyer ,,komm,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 Mosi, die kriegen wir!'' Warum immer ich, schnaufte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1442
-\T1/cmtt/m/n/10.95 Moser als sie steilen Treppen zum Heuberg hinter
- []
-
-[174]
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-[]\T1/cmtt/m/n/10.95 ALs die beiden Polizisten Gas gaben , rannten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-\T1/cmtt/m/n/10.95 ihnen gleuich mehrere schaulustige, weiterhin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-\T1/cmtt/m/n/10.95 filmend und vor begeisterung jolend hinterher.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-\T1/cmtt/m/n/10.95 Einzig die beiden Kollegen standen allein auf dem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-\T1/cmtt/m/n/10.95 alten Gerichtsplatz und eine Bierdose drehete sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
-\T1/cmtt/m/n/10.95 langsam, die einer der schaulustigen hastig fallen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-[]\T1/cmtt/m/n/10.95 Als Moser und Meyer auf dem Platz vor der Lohnhof
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-\T1/cmtt/m/n/10.95 angekommen waqren trafen sie auf die Kollegen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-\T1/cmtt/m/n/10.95 mit dem streifenwagen. Die ersten schaulustigen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-\T1/cmtt/m/n/10.95 streckten vorsichtig ihre nasen um die ecke. Der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-\T1/cmtt/m/n/10.95 Vogel war auf die terasse gelandet. Die beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-\T1/cmtt/m/n/10.95 nackten männer und der dackel näherten sich dem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
-\T1/cmtt/m/n/10.95 vogel. der eine von ihnen redete in einer fremden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-[]\T1/cmtt/m/n/10.95 zum schrecken der polizisten, die sich auf die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 festnahme eingestellt hatten, nachdem sie weitere
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 Kollegen auf der Treppe vom barfüsseplatz gehört
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 hatten. zu ihrem schrecken waren die beiden nackten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 männer auf die umfriedungsmauer geklettert. der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 dackelartige hund bellte wild und winselte. der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 grosse vogel jedoch erhob sich in die lüfte und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 als er über die umfriedung flog griff jeder der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 männer nach einem bein de3s vogels. mühelos stieg
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
-\T1/cmtt/m/n/10.95 der vogel weiter auf. dann flog er mehrere weite
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-[]\T1/cmtt/m/n/10.95 sein gefieder bemerkte mose sdchien tatsächlich aus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 flammen zu bestehen, denn der vogel leuchtet wie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 eine fackelund hinterlies sogat eine lichtspru. die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 drei runden die er über die stadt drehte konnten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 sie deutlich in dem dunklem winter himmel sehen.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 nach der dritten runde bewegte sich der vogel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 richtung rhein. die polizisten sprangen in den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 wagen und kamen genau in dem moment auf der pfalz
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 des münsters an, um zuzusehen, wie die beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
-\T1/cmtt/m/n/10.95 männer die beine de vogels losliessen und in den
- []
-
-[175]
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-[]\T1/cmtt/m/n/10.95 der vogel blieb in der luft stehen und wurde dabei
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 grösser und grösser bis er schliesslich, sehr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 leise expoldierte in tausend sternen und fünkchen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 regneten die flammen, die zuvor vogel gewesen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 waren über den rghein nieder. moser schluckte.er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 konnte sich nicht losreissen. im gegensatz zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 hofer und schmied, die aufgeregt auf das erluchte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 wasser deuteten. es waren die siluetten der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 beiden flüchtigen zu sehen, die in den garten der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 universität anzuladen schienen. Seufzend stafpte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-\T1/cmtt/m/n/10.95 moser hinter den jungen kollegen her. natürlich war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 Amset schaute Hapi an. -'Wie: Eine Priesterin?'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 -Ich weiss es nicht! Von den alten, vertrockneten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 Priestern weiss ich nur das. Alles andere über
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 die Zeiten des Haremhab wissen wir schon...'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 Amset überlegte, dann meinte er -'Gut dann
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 gehe ich zu ihnen. Wenn jemand den Klatsch und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 Tratsch von damals kennt, dann sie.' -'Nun schau
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 nicht so leidend!' Hapi kicherte. Wiedereinmal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 freute er sich ein Pavian in einer klaren und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 instinktsicheren Pavianwelt zu sein. Er blickte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 Amset mitfühlend nach, als dieser sich zu den vier
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
-\T1/cmtt/m/n/10.95 jammernden und zeternden Gestalten in der Mitte der
- []
-
-[176]
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-[]\T1/cmtt/m/n/10.95 Es dauerte eine Weile, bis die beherzten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 Klagefrauen Amset bemerkten. Es konnte daran
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 gelegen haben, dass sie ihren Job sehr ernst nahmen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 und sich unentwegt die Haare rauften, sich auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 die entblössten Brüste schlugen und heulten und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 kreischten. Sie bewarfen sich gegenseitig mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 Asche, die sie in einem grossen Tontopf in ihrer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-\T1/cmtt/m/n/10.95 Mitte stehen hatten und aus ihren Klagen waren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-[]\T1/cmtt/m/n/10.95 Oder es kam daher, weil Amset die Frauen fasziniert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 beobachtet. Bisher hatt er sie kaum beachtet,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 obwohl er Nacht für Nacht mit ihnen auf der Barke
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 fuhr. Sie waren professionelle Heulerinnen. Sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 wurden dafür bezahlt zu klagen. Sie kamen mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 ihren weissen, schmucklosen Gewändern und nahmen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 an der Trauerprozession teil und an der Beerdigung.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 -Niemand kommt an ihnen vorbei, dachte Amset und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
-\T1/cmtt/m/n/10.95 beim Leichenschmaus, da folgen dann die Geschichten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-[]\T1/cmtt/m/n/10.95 Zwei waren betagte Grossmütter, die es zu einer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 wahren Meisterschaft gebracht hatten. Es klatschte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 und quickte und grunzte, die Asche wirbelte um
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 ihre wirren, grauen, verfilzten Haare. Und ihre
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 grossen Busen wogten mehr, als Amset lieb war.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 Die beiden anderen waren jünger und sie bemühten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 sich auf attraktive Art und Weise zu leiden und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 zu klagen. Ihre Haare waren kunstvoll zerzaust und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 irgendwie liess die Asche ihre jugendlichen Wangen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
-\T1/cmtt/m/n/10.95 zwar bleich, aber auch hilflos und auf düstere Art
- []
-
-[177]
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-[]\T1/cmtt/m/n/10.95 Wie jede Nacht hatte Hathor den Damen einen Teil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 des Lohnes in Naturalien und im Voraus, in Form
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 von Bier bezahlt. ^^RSie kommen einfach besser in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 Schwung mit einem Schlückchen Bier!^^P Meinte die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 praktische Hathor nur. Damit die Heulerinnen 'in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 Schwung' blieben, hatten sie spezielle Trinkschalen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 von Hathor bekommen. Die einfachen Schalen aus Ton
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 hatten unten drunter zwei winzige Füsse. Je mehr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
-\T1/cmtt/m/n/10.95 sich die Frauen ins Zeug legten, umso schneller
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-[]\T1/cmtt/m/n/10.95 Die beiden jungen hatten Amset längst erspäht. Und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-\T1/cmtt/m/n/10.95 zu ihrem grossen Erstaunen, zeigte der Horussohn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-\T1/cmtt/m/n/10.95 plötzlich Interesse. Da er einer der wenigen Götter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-\T1/cmtt/m/n/10.95 war, die jung und menschlicher Gestalt waren,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-\T1/cmtt/m/n/10.95 hatten die Mädels ihn längst im Visier gehabt.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-\T1/cmtt/m/n/10.95 Nur hatte der Gott bisher keinerlei Reaktion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
-\T1/cmtt/m/n/10.95 gezeigt, wenn sie sich Nacht für Nacht anstrengten,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
-[]\T1/cmtt/m/n/10.95 ^^REdler Amset! Können wir etwas für dich tun?^^P
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
-\T1/cmtt/m/n/10.95 fragte die eine. Amset schauderte bei dem Gedanken,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
-\T1/cmtt/m/n/10.95 an den Job, den die beiden hoffentlich nicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
-\T1/cmtt/m/n/10.95 für ihn ausüben mussten, oder womöglich für
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
-\T1/cmtt/m/n/10.95 Amélie...^^RAmsi, alles in Maat?[]^^P fragte die Zweite,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-[]\T1/cmtt/m/n/10.95 ^^RIch brauche Eure Hilfe! Ich muss Euch einige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 Fragen stellen.^^P ^^RWaaahicks kriegen wir
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 dafür?...hicks?^^P Eine der Alten, eine Hand voll
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 mit Asche und in der anderen die Bierschale, sah
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 Amset scharf zwischen ihren verfilzten, grauen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 Haarbüscheln an. Er überlegte fieberhaft. ^^RIch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 werde den anmutigen Damen morgen Nacht von dem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 Getränk namens Obstler mitbringen...^^P ^^RAbgemacht!
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 Wenn du es vergisst, wissen wir wo dein Zimmer ist,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
-\T1/cmtt/m/n/10.95 Börps! Tschuligung, isch alles so traurig hier?^^P
- []
-
-[178]
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-[]\T1/cmtt/m/n/10.95 Amset hatte sich zu den Alten gekniet, die auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-\T1/cmtt/m/n/10.95 zwei kistenartigen Hockern sassen, 'wer will, dass
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-\T1/cmtt/m/n/10.95 wir am Boden hocken, soll uns gefälligst helfen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-\T1/cmtt/m/n/10.95 aufzustehen' hatten sie gesagt, nachdem sich ein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-\T1/cmtt/m/n/10.95 oberpenibler, toter Expriester beschwert hatte.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-\T1/cmtt/m/n/10.95 Danach sagte keiner mehr etwas, es fanden sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
-\T1/cmtt/m/n/10.95 sogar zwei kleine Götter, die den Damen ihre Hocker
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-[]\T1/cmtt/m/n/10.95 "Waaahicksss, willu wissnn?^^P fragte die Erste. ^^RWir
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 sagen dir alles, was du nur willst!^^P säuselte eine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 der jungen und hängte sich begeistert an Amset
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 Hals. Nur mit Mühe konnte er sich befreien, die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 junge Frau fuhr schmollend ihre mit Asche dekorativ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 schwarz gefärbte Unterlippe aus. Die zweite junge
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 sah ihre Stunde gekommen und versuchte sich auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 Amsets Schoss zu schlängeln. ^^RAlles, alles, was
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 du willst!^^P flötete sie, es ergab sich nicht jede
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
-\T1/cmtt/m/n/10.95 Nacht die Chance von einer Klagefrau zur Muse eines
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
-[]\T1/cmtt/m/n/10.95 ^^RBörrrps! Tschuligung?^^P die zweite Alte hielt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
-\T1/cmtt/m/n/10.95 sich die Hand vor den Mund. Dabei fiel ihr Blick
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
-\T1/cmtt/m/n/10.95 auf eine der Schalen, die mit frischem Bier
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
-\T1/cmtt/m/n/10.95 angewatschelt kam. ^^RDuuh, Schäähtzchen, Duu!^^P
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
-\T1/cmtt/m/n/10.95 zärtlich nahm sie die Schale und sah Amset über
- []
-
-[179]
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-[]\T1/cmtt/m/n/10.95 ^^RIch muss etwas über die Priesterin wissen, die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 zu Haremhabs Zeiten Unheil angerichtet hat!^^P sagte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 Amset auf gut Glück. Die Zweite Alte, die einen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 Schluck Bier genommen hatte, verschluckte sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 und sprühte Asmet und der jungen Klagefrau, die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 sich auf seinen Schoss gezwängt hatte alles um
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 die Ohren. \T1/cmtt/m/n/17.28 ,,Börp!?!'' \T1/cmtt/m/n/10.95
- Die andere Alte blickte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 Amset wachsam an und schien vom Vollrausch auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 Stocknüchtern und Glasklar in Null Komma Nix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
-\T1/cmtt/m/n/10.95 beschleunigt zu haben, ohne über 'Los' zu gehen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-[]\T1/cmtt/m/n/10.95 ^^RWas! Willst! Du!^^P zischte sie. Die zweite packte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 die beleidigt da hockende Junge am Arm: ^^RIhr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 Junggemüse könnt Euch für heute Nacht frei nehmen!
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 Wir kommen ohne Euch zurecht!^^P ^^RAber! Grossmutter!^^P
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 riefen die beiden unisono empört. Die Alte nahm
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 ihren Handbesen, den sie unter ihrer Kiste verstaut
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 hatte und scheuchte die Jungen weg, indem sie auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 sie einschlug, wo sie sie erwischen konnte. ^^RWeg!
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 Wegwegweg! Das ist nichts für Euch!^^P Die zweite
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 Alte half nach, indem sie den Mädchen auf die Beine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 schlug. Erschrocken rappelten sie sich hoch und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 flüchteten in den vorderen Bereich der Barke,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-\T1/cmtt/m/n/10.95 wo sie sich damit begnügten, den hübschen, toten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
-[]\T1/cmtt/m/n/10.95 Die beiden Alten beugten sich zu Amset. Er hatte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
-\T1/cmtt/m/n/10.95 vom Besen einiges abbekommen und sein Gesicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
-\T1/cmtt/m/n/10.95 schien von einer missgelaunten Katze als Kratzbaum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
-\T1/cmtt/m/n/10.95 missbraucht worden zu sein: ^^RWas weisst du!^^P mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
-\T1/cmtt/m/n/10.95 brennenden Augen blickten sie ihn misstrauisch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
-\T1/cmtt/m/n/10.95 durch die traurigen Strähnen an. ^^RWoher weisst du
- []
-
-[180]
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-[]\T1/cmtt/m/n/10.95 Amset wusste nichts. Besser gesagt, jetzt wusste
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 er mehr. Er hatte mit seiner Frage hoch gepokert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 und offensichtlich einen Royal Flash gezogen. Nun
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 hiess es geschickt vorgehen und sich von den beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 harten, alten Nüssen nicht unterkriegen lassen.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 Aber Anubis hatte seine Lehrlinge nicht im Stich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 gelassen. ^^RMeine Damen, das sollten wir in Ruhe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 besprechen...^^P antwortete er ihnen und zog eine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 Flasche Baslelländlichen Kirschschnaps aus dem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 Umhang...-'Wenn du es richtig anpackst, werden sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
-\T1/cmtt/m/n/10.95 dir eine ganze Oper singen, die Schnapsdrosseln'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-[]\T1/cmtt/m/n/10.95 Als die übrigen drei Brüder Amset nach einigen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 Stunden fanden, lag er laut schnarchend in einer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 Ecke. Duamutef und Hapi rümpften die Nase, weder
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 Schakal noch Pavian liebten Alkoholgeruch. Kebi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 hatte nichts, was er rümpfen konnte...Eine der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 Schalen mit Füssen sass auf Amsets Bauch und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 schnarchte auch. Eine andere lehnte an seiner
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 Seite und regte sich nicht einmal als Tef an
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 ihr schnupperte. -'Hoffentlich hat es etwas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 genutzt', meinte er. -'Er scheint Anubis gründlich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 missverstanden zu haben, was den Schnaps angeht',
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 fügte Kebi an. -'Die Weiber sind ihm eben über. Die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-\T1/cmtt/m/n/10.95 alten Vetteln lassen sich von Amsi doch nicht unter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-[]\T1/cmtt/m/n/10.95 ^^RBrüder?^^P Amset öffnete die Augen: ^^RAmélie! Ihr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-\T1/cmtt/m/n/10.95 müsst sie bewachen! Kebi! Du musst Thot und Re
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-\T1/cmtt/m/n/10.95 warnen...^^P Duamutef winselte und schleckte Amset
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-\T1/cmtt/m/n/10.95 unwirsch im Gesicht. -'Sag schon, was ist los?'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-\T1/cmtt/m/n/10.95 ^^ROooh! Mir, mir isch scho schlecht...^^P Amset
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-\T1/cmtt/m/n/10.95 stöhnte und drehte sich auf die Seite und würgte.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
-\T1/cmtt/m/n/10.95 Eine dritte Schale flüchtete verschreckt aus ihrem
- []
-
-[181]
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-[]\T1/cmtt/m/n/10.95 -'Aus dem kriegen wir heute Nacht nichts raus!'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 Hapi kratze sich am Kinn. -'Aber, welche Gefahr?'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 fragte Kebi, -'meint ihr ich sollte seine Worte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 befolgen?' -'Ja!' Antwortete Duamutef und auch Hapi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 nickte. -'Gut! Ich werde die anderen warnen und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 dann über die Stadt gleiten und schauen, was Sache
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 ist.' Kebi wollte losfliegen, aber dann fiel ihm
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 etwas ein. -'Meine Zeugen! Ich habe sie noch nicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
-\T1/cmtt/m/n/10.95 befragt!' -'Flieg Bruder, wir regeln das...' Kebi
- []
-
-[182] [183
-
-] [184] [185
-
-] [186
-
-] [187] [188
-
-] [189] [190] [191
-
-] [192
-
-] [193]
-[194
-
-] [195] [196] [197
-
-] [198
-
-] [199] [200
+] [182
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1539
-\T1/cmtt/m/n/10.95 Dies ist die Geschichte einer Reisegruppe. Da diese
- []
+[183] [184
 
+] [185] [186] [187
 
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1539
-\T1/cmtt/m/n/10.95 Reisegruppe aus Göttern der alten ägyptischen
- []
+] [188
 
+] [189] [190
 
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1539
-\T1/cmtt/m/n/10.95 Pharaonenzeit besteht, die das schöne Basel
- []
+] [191] [192] [193
 
+] [194
 
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1539
-\T1/cmtt/m/n/10.95 in der Schweiz des 21. Jahrhunderts besuchen,
- []
+]
+[195] [196
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1539
-\T1/cmtt/m/n/10.95 handelt es sich um eine ungewöhnliche Reise und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1541
-[]\T1/cmtt/m/n/10.95 Alle Götter lieben es kreativ und innovativ zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1541
-\T1/cmtt/m/n/10.95 sein, deshalb beginnen sie stets mit dem Anfang,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-[]\T1/cmtt/m/n/10.95 Das All! Nicht das All, das wir kennen mit all
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 den Lichtern und Blinkesternen, sondern das All
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 vor Urzeiten, jung und neu. Wir sitzen in einem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 Raumschiff und beobachten, was passiert. Es ist
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 dunkel, wie in Mutters Schoss. Die Panoramascheibe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 unseres Raumschiffes ist auf Nachsicht eingestellt.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 Alter Astronautentrick, um die Geburt von Planeten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
-\T1/cmtt/m/n/10.95 am Anfang allen Daseins und vor der Erschaffung des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-[]\T1/cmtt/m/n/10.95 Von der Kaffeemaschine tropft ein einzelner Tropfen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-\T1/cmtt/m/n/10.95 herab, wir angespannt, zucken zusammen...und vor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-\T1/cmtt/m/n/10.95 uns taucht majestätisch und langsam ein riesiger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-\T1/cmtt/m/n/10.95 Planet auf. Er befindet sich an der Stelle, wo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1545
-\T1/cmtt/m/n/10.95 heute unsere Sonne ist und füllt den gesamten Platz
- []
-
-[201]
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-[]\T1/cmtt/m/n/10.95 Langsam dreht er sich und wir bemerken
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 unterschiedlich stark strahlende Felder. Wir
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 sehen ein Zentrum in der Mitte, von einem helleren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 umgeben und eine abschliessende Hülle darum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 Eiförmige Gebilde bewegen sich in dem Planeten.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 Wir schauen auf den Zeitmesser, der sich rasend
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 durch die Zeit bewegt und 1000 Jahre in einer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 Millisekunde vorbeiziehen lässt. Die Zeit wird
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 langsamer und wir schauen wieder raus. Es wird
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 dunkler, es scheint als verlösche der riesige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1547
-\T1/cmtt/m/n/10.95 Planet. Nachdem er verschwunden ist, beschleunigt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-[]\T1/cmtt/m/n/10.95 Und plötzlich erscheint vor unserem Panoramafenster
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 ein neuer Planet an Stelle des alten. Dieser
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 Planet ist kleiner und gasförmig. Wir können
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 die Wärmesicht abschalten, wir sehen ihn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 wunderschön durch die Scheibe leuchten, wir tragen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 Sonnenbrillen, so hell leuchtet der Planet. Er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 strahlt glühend, leuchtend weiss, bis auf einige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 rauchig-dunkle Stellen, die aus Gas bestehen und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 dichter sind als der Rest. An einigen Stellen ballt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1549
-\T1/cmtt/m/n/10.95 sich Wärme, wie wir sie auf dem vorherigen Planeten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-[]\T1/cmtt/m/n/10.95 Dieser Planet scheint zu atmen. Eine Zeitlang
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\T1/cmtt/m/n/10.95 strömt das Licht weit in das All hinein. Angesogen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\T1/cmtt/m/n/10.95 von einer unsichtbaren Kraft und wird feiner und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\T1/cmtt/m/n/10.95 heller. Dann zieht es sich in das Zentrum zurück,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\T1/cmtt/m/n/10.95 dabei wird es dunkler, dichter, wie rauchige Luft.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\T1/cmtt/m/n/10.95 Kleine Gebilde kristallisieren sich darin, noch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
-\T1/cmtt/m/n/10.95 können wir sie nicht erkennen. Später werden sie
- []
-
-[202]
-Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
-[]\T1/cmtt/m/n/10.95 Wir haben die Zeit vergessen. Ein Blick auf unsere
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
-\T1/cmtt/m/n/10.95 Zeitanzeige verrät uns, es sind Millionen Jahre
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
-\T1/cmtt/m/n/10.95 vergangen. Wir schauen auf den Planeten und dieser
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-[]\T1/cmtt/m/n/10.95 Wir haben kurz Zeit uns einen Kaffee zu kochen und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 ein Schnittchen zu machen, da taucht an der Stelle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 ein neuer Planet auf. Er reicht von der Sonne bis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 zum Mars. Er ist fester als sein Vorgänger und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 schillert in allen Regenbogenfarben. Durch den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 Farbschleier sehen wir Nebel und durch den Nebel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 sehen wir zum ersten mal so etwas wie Leben. Eine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
-\T1/cmtt/m/n/10.95 grünliche Masse, wie gekochter Spinat, die lebendig
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-[]\T1/cmtt/m/n/10.95 Wir haben nicht viel Zeit dieses farbenprächtige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 Bild zu geniessen, denn die Masse des Planeten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 und die ganze Umgebung drumherum geraten in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 Aufruhr. Unsichtbare Kräfte reissen den Planeten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 auseinander. Während gleichzeitig das Universum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 von unsichtbaren Riesenhänden zusammengepresst
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 wird. Zeitschlaufen öffnen sich und verschlucken
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 Materie in dunklen Röhren, um sie an anderer Stelle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 auszuspucken. Unsichtbare, unglaublich starke
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 Kräfte kämpfen gegeneinander. Trümmer fliegen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
-\T1/cmtt/m/n/10.95 herum, Feuerstürme toben, Luftlawinen wälzen sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-[]\T1/cmtt/m/n/10.95 Unser kleines Raumschiff ist zu dicht an dem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-\T1/cmtt/m/n/10.95 Geschehen dran, es wird gepackt und geschüttelt.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-\T1/cmtt/m/n/10.95 Wir purzeln durcheinander, es gibt eine riesige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-\T1/cmtt/m/n/10.95 Kaffeesauerei und die lecker Schnittchen kleben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-\T1/cmtt/m/n/10.95 an den Wänden. Draussen sehen wir Blitze,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-\T1/cmtt/m/n/10.95 Gaswolken. Druckwellen schütteln uns. Ein riesiges
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
-\T1/cmtt/m/n/10.95 Durcheinander findet statt. Der ursprüngliche
- []
-
-[203]
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-[]\T1/cmtt/m/n/10.95 Würden wir die alten Mysterien kennen, die ganze
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-\T1/cmtt/m/n/10.95 Ewigkeiten und durch viele Kulturen hindurch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-\T1/cmtt/m/n/10.95 weitergegeben wurden, z.B. die Bhagavat Gita,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-\T1/cmtt/m/n/10.95 würden wir wissen, in was wir hineingeraten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-\T1/cmtt/m/n/10.95 sind: Den berühmten ^^RStreit im Himmel^^P. Berühmt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-\T1/cmtt/m/n/10.95 und berüchtigt, weil er die Geburt des Bösen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
-\T1/cmtt/m/n/10.95 beschreibt, das zu diesem Zeitpunkt nicht böse ist,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1564--1565
-[]\T1/cmtt/m/n/10.95 Wir klopfen uns die Kleider ab, der Lehrling
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1564--1565
-\T1/cmtt/m/n/10.95 wird geschickt den Wischmop zu holen und die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1564--1565
-\T1/cmtt/m/n/10.95 Kaffeepfützen zu entfernen und eine traurige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1566--1567
-[]\T1/cmtt/m/n/10.95 Draussen hat es sich beruhigt, aber, was für ein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
-[]\T1/cmtt/m/n/10.95 An der Stelle des Planeten sehen wir eine Sonne,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
-\T1/cmtt/m/n/10.95 sie reicht nicht mehr bis zum Mars, dafür befindet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
-\T1/cmtt/m/n/10.95 sich auf der Marsumlaufbahn ein Mond. Er umkreist
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
-\T1/cmtt/m/n/10.95 die Sonne und. Was auch immer die Turbulenzen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
-\T1/cmtt/m/n/10.95 verursacht hat, hat einen riesigen Ring an Trümmern
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
-\T1/cmtt/m/n/10.95 hinterlassen, den Asteroidengürtel, den wir später
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
-[]\T1/cmtt/m/n/10.95 Die Sonne leuchtet hell und ist leicht, während
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
-\T1/cmtt/m/n/10.95 sich auf dem Mond die Materie zu Luft und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
-\T1/cmtt/m/n/10.95 Wasser verdichtet. Auch hier schillern wieder
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
-\T1/cmtt/m/n/10.95 die Regenbögen und der lebendige Spinat macht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
-[]\T1/cmtt/m/n/10.95 Ein letzter "Neustart"findet statt, Licht aus,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
-\T1/cmtt/m/n/10.95 Licht an und vor uns taucht die Erde auf. Sie ist
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
-\T1/cmtt/m/n/10.95 viel grösser, denn es werden sich aus ihr Uranus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
-\T1/cmtt/m/n/10.95 und Saturn herauslösen, bevor sie sich endgültig
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
-\T1/cmtt/m/n/10.95 verfestigt hat. Als nächster trennt sich der
- []
-
-[204]
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1576
-[]\T1/cmtt/m/n/10.95 Wir können es nun wagen auf das Raumschiff zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1576
-\T1/cmtt/m/n/10.95 verzichten, auch wenn wir bei der jetzigen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1576
-\T1/cmtt/m/n/10.95 Erdatmosphäre vermutlich einen Raumanzug nötig
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1576
-\T1/cmtt/m/n/10.95 hätten, mit unserer heutigen Gestalt. Ein letzter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1576
-\T1/cmtt/m/n/10.95 Blick auf den Zeitmesser, dort ist an Stelle der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1577--1578
-[]\T1/cmtt/m/n/10.95 Die Sonne verlässt die Erde und später, als letztes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1577--1578
-\T1/cmtt/m/n/10.95 der Mond. Nachdem es sich die Planeten alle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1577--1578
-\T1/cmtt/m/n/10.95 für diese Runde gemütlich gemacht haben, tritt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1577--1578
-\T1/cmtt/m/n/10.95 das erste mal gross auf die Bühne in physischer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-[]\T1/cmtt/m/n/10.95 Natürlich waren wir Menschen schon vorher da,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-\T1/cmtt/m/n/10.95 wir waren auch dabei, als der Wärmeplanet sich im
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-\T1/cmtt/m/n/10.95 All begann zusammenzuballen, aber wir hatten kein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-\T1/cmtt/m/n/10.95 Bewusstsein und nichts womit wir eines hätten haben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-\T1/cmtt/m/n/10.95 können. Dieses Bewusstsein brauchte all die vielen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-\T1/cmtt/m/n/10.95 Zeitrotationen auf unserem Zeitmesser, Millionen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1580
-\T1/cmtt/m/n/10.95 von Jahre und mehrere Äonen von Heimatplaneten,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1581--1582
-[]\T1/cmtt/m/n/10.95 Und dann kam Atlantis. (Womit unsere Geschichte,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1581--1582
-\T1/cmtt/m/n/10.95 der Leser möge den schmählichen, aber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1581--1582
-\T1/cmtt/m/n/10.95 einkalkulierten Fauxpas verzeihen, einen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1581--1582
-\T1/cmtt/m/n/10.95 Gènréwechsel von Science-Fiction zu Fantasy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
-\T1/cmtt/m/n/10.95 Das Krokodil schlug wild um sich. Der mächtige
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
-\T1/cmtt/m/n/10.95 Schwanz platschte auf das Wasser und es drehte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
-\T1/cmtt/m/n/10.95 sich, die Strömung, die sich auf die engste Stelle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
-\T1/cmtt/m/n/10.95 des Rheinknies zu bewegte, wurde schneller. Schon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
-\T1/cmtt/m/n/10.95 trieben sie unter der Wettsteinbrücke durch. Amélie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
-\T1/cmtt/m/n/10.95 klammerte sich fest und das Krokodil versuchte sie
- []
-
-
-Underfull \vbox (badness 1527) has occurred while \output is active []
-
- [205]
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-[]\T1/cmtt/m/n/10.95 Sie befanden sich unterhalb der Pfalz. Das Krokodil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 hatte die Orientierung wieder gefunden und tauchte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 ab. Amélie schwamm und strampelte. Sie bekam
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 plötzlich einen Stock zu fassen. Er ragte von der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 Leuen-Fähre ins Wasser. Amélie gelang es sich am
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 Stock hochzuziehen, um sich an die Bordwand zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 klammern. Sie hatte genug. Sie schaffte es sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-\T1/cmtt/m/n/10.95 zu halten und einen Fuss über die Bordkante zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-[]\T1/cmtt/m/n/10.95 Bevor sie sich ganz in die Fähre hieven konnte,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 wurde sie von einer mächtigen Pranke ins Wasser
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 zurück geschubst. Obwohl sie untertauchte hörte sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 ein lautes Gebrüll und als sie auftauchte, ragte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 ein Löwe, die Tatzen auf die Fährenplanken gestemmt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 vor ihr auf und funkelte sie an. Er hob den Kopf in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 den Nacken und brüllte ein zweites mal. Dann nahm
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 er den Stock, an dem Amélie sich noch immer mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 einer Hand hielt ins Maul und löste ihn vom Schiff.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\T1/cmtt/m/n/10.95 Amélie stürzte mit dem Stock in der Hand zurück in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-[]\T1/cmtt/m/n/10.95 Sofort rauschte das Krokodil heran, aber sie hatte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 damit gerechnet und stach so gut sie konnte mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 dem Stock nach dem Auge des Ungetüms. Das Krokodil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 tauchte ab, aber Amélie war schnell und konnte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 sich an dem rauen Schuppenkleid festhalten. Mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 dem freien Arm und den Beinen klammerte sie sich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 an das Reptil, das tiefer und tiefer tauchte. Sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
-\T1/cmtt/m/n/10.95 rammte ihm den Stock überall hin, wo sie konnte,
- []
-
-[206]
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-[]\T1/cmtt/m/n/10.95 Sie schnappte nach Luft.^^RIch schlag dich zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 Brei, wenn du nochmal abtauchst!^^P japste sie und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 haute zur Bekräftigung den Stock tüchtig auf den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 Schuppenkopf. In dem Augenblick kamen sie unter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 der Mittleren Brücke durch. Ein Schiff kam auf der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 linken Seite den Rhein hinauf gefahren. Die Wellen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 brachen sich an den Brückenpfeilern und schwappten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 über das Reptil und seine Reiterin. Der Strudel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
-\T1/cmtt/m/n/10.95 hinter der Brücke verstärkte sich und das Krokodil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-[]\T1/cmtt/m/n/10.95 Sie kämpfte verzweifelt gegen den Sog der Walze an,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-\T1/cmtt/m/n/10.95 doch es war zu spät sie ging unter. Aber sie war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-\T1/cmtt/m/n/10.95 vorbereitet, statt nach oben, tauchte sie so tief
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-\T1/cmtt/m/n/10.95 sie konnte und die Strömung der Walze aufhörte.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-\T1/cmtt/m/n/10.95 Sie spürte den sandig, schlammigen Boden und stiess
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
-\T1/cmtt/m/n/10.95 sich ab. An der Oberfläche atmete sie tief durch.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1601--1602
-\T1/cmtt/m/n/10.95 Wibrandis hatte sie zu Thots achteckigen Bureau
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
-[]\T1/cmtt/m/n/10.95 Sie wollte klopfen, hielt aber inne, als sie das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
-\T1/cmtt/m/n/10.95 Stimmengewirr hinter der Tür hörte. Ob Tefnut in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
-\T1/cmtt/m/n/10.95 dem Zimmer war? Und wer noch? Amset? Wieso Amset,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-[]\T1/cmtt/m/n/10.95 ^^RHerein, nur herein^^P Thot öffnete die Tür, bevor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 Amélie geklopft hatte. Wie hatte sie denken können,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 sie bliebe unbemerkt? Eingeschüchtert betrat Amélie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 den Raum. Die drei Ohrensessel waren besetzt.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 In dem einen erkannte sie Tefnut, die Göttin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 hatte sich einen kurzen, roten Bademantel aus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 weichfliessender Seide übergestreift. Seltsamer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 Weise hatte sie eine Schürze an. Keine grosse,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 wie die anderen Göttinnen, die Amélie mit Schürze
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 gesehen hatte, sondern eine kleine weisse Schürze
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 mit Rüschenrand und einer kleinen Tasche. Auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 die Tasche waren Dreiecke in rötlichen Farben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 gestickt, angeordnet wie eine Flamme. Diese Schürze
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 ist heiss! Fand Amélie und merkte, wie sie Rot
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 wurde. Es schien ihr ein Zeichen von Tefnuts
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 Anwesenheit zu sein, Scham zu empfinden. Deswegen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 hatte Wibrandis wohl einen roten Kopf bekommen am
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 Morgen, als Amélie ihre Schürze ansah. Allerdings
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 musst sie sich bei ihrem Modell keine Sorgen wegen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 der Temperatur machen...Tefnut schien nur diese
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 zwei Kleidungsstücke und rotseidenen Pantöffelchen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 an den Füssen zu tragen. Sie hatte ein Bein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 übergeschlagen und wippte mit ihrem Pantoffel an
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 der Zehenspitze. Sie fixierte Amélie, lächelte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 aber. Dann warf sie einen schmachtenden Blick zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1605--1606
-\T1/cmtt/m/n/10.95 dem zweiten Ohrensessel hinüber und Amélie schien
- []
-
-[207]
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-[]\T1/cmtt/m/n/10.95 ^^RDas ist Schu. Der Gott der Lüfte und des Lichtes.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Der Gott des Lebens und Ehegatte und Bruder der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 hinreissenden Tefnut[].^^P Stellte Thot den mächtigen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Gott vor. Er trug ein schwarzes T-Shirt, auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 dem ein Dreieck aus weissen Linien, hinter dem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 sich ein weisser Streifen in einen Regenbogen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 auffächerte, abgebildet war. Amélie hatte das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Bild schon gesehen. War es nicht ein Plattencover?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Dazu eine verschlissene, verboten enge Jeans. Der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Gott schien jung. Er war muskulös und schlank. Die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Verwandtschaft mit dem Sonnengott war deutlich zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 sehen. Eine goldblonde Löwenmähne umrahmte seine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Gesicht und fiel auf seinen Rücken. Er lächelte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Amélie verschmitzt an. In seinem Mundwinkel hing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 eine verdächtig lange, selbst gedrehte Zigarette,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 die nicht nach Tabak duftete. ^^RHi, Amélie^^P. Bevor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 Amélie in die Verlegenheit geriet wie ein Groupie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
-\T1/cmtt/m/n/10.95 zu quietschen, lenkte Thot ihre Aufmerksamkeit auf
- []
-
-[208]
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-[]\T1/cmtt/m/n/10.95 ^^RLast but not least, haben wir heute die Ehre den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 Sonnengott höchstpersönlich in unserer Morgenrunde
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 zu begrüssen. Amélie, dies ist der Vater aller
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 hier anwesenden Götter, Re!^^P ^^RHach, Thot. Wie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 schaffst du es nur? Jetzt fühle ich mich plötzlich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 alt^^P lachte der Gott. Amélie grinste schüchtern.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 Sie hatte den Vater aller Götter sofort in ihr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 Herz geschlossen. Sie hatte ihn schon während des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 gemeinsamen Mittagessens beobachtete, wo er, meist
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 vergnügt und laut-fröhlich, mit einer Sonnenbrille
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 auf der Nase am Kopfende des Tisches sass. Er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 überragte alle, selbst Horus. Man musste kein
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 Götterexperte sein, um seine Stellung und Autorität
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 als Göttervater sofort zu spüren. Auch jetzt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 trug er die Sonnenbrille. Amélie war ihm bisher
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 nie so nahe gekommen und konnte nun den Glanz
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 erkennen, den die Augen auch durch die dunklen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 Gläser abstrahlten. Das Haupt des Sonnengottes war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 von einer goldenen Carona umgeben. Die golden und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
-\T1/cmtt/m/n/10.95 rot schimmernden Locken bewegten sich, als gäbe es
- []
-
-
-Underfull \vbox (badness 1231) has occurred while \output is active []
-
- [209]
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-[]\T1/cmtt/m/n/10.95 ^^RAmélie, heute Nacht warst du grossartig!^^P Begann
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 Thot die Runde. Alle Götter murmelten zustimmend,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 Re hielt den Daumen in die Höhe und Schu zwinkerte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 mit einem strahlenden Himmelblauen Augen. Amélies
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 glühte, -Hilfe, ich seh' aus wie eine Tomate. ^^RIch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 denke, Sobek dein Lehrmeister wird der gleichen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 Ansicht sein, wenn du ihn nachher besuchen gehst!^^P
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
-\T1/cmtt/m/n/10.95 Amélie schluckte, sie hatte nicht viel Lust das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-[]\T1/cmtt/m/n/10.95 In diesem Augenblick betrat Hans das Bureau. Er
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 hatte sich eine Rose an die Latzhose gesteckt,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 welche er als einziges Kleidungsstück akzeptieren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 wollte, obwohl es Winter war. -Anscheinend tragen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 Götter Kleidung als Statement, oder aus Spass,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 statt als Schutz für den Körper, dachte Amélie.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 ^^RJetzt sind alle Vertreter der Elemente zusammen.^^P
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 Bemerkte Thot. Schu und Tefnut hatten sich erhoben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1614
-\T1/cmtt/m/n/10.95 und neben Hans gestellt. Sie wirkten plötzlich sehr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-[]\T1/cmtt/m/n/10.95 Hans trat als erster an Amélie heran. ^^RMeidli! Du
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 hesch de Prüfung bestande. Du hesch de Lebenskraft
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 könne ufnä. Daher bisch du brechtig die Insigne des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 Erdvolkes die silberne Münze z trage und z dinem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 Schutz z verwende.^^P Hans lächelte auf Amélie runter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 und schüttelte begeistert ihre Hand. Amélie war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 derweilen blass geworden. ^^RS isch nur seltsam, dänn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 de Münze hätte hüt am morge in meiner Hosentasche
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 sölle erschiene. Isch s abr nich...nu weiss ich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 auch nich!^^P Der wilde Maa zuckte mit den breiten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 Schultern und liess den Kopf hängen. ^^RÄhm^^P, Amélie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 räusperte sich ^^Rkönnte es daran liegen, dass mir
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 die Münze gestern im Fluss in den Hals gerutscht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 ist und ich sie verschluckt habe?^^P ^^RJoh, Meidli, du
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 packscht s Züüg grad richtig a, hä?^^P Hans lachte.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 Dann drückte er mit dem Zeigefinger in Amélies
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 Bauch. Er dachte einen Moment nach und meinte dann:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 ^^RJoh, nich schlecht, dann hesch du de Münz noch s
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 Momentli bei dir. Ich werd de Rest mit dr Wibrandis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
-\T1/cmtt/m/n/10.95 bspreche.... Wird wohl nich nötig si, dir de Buuch
- []
-
-[210]
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-[]\T1/cmtt/m/n/10.95 Dann trat Tefnut vor. ^^RIch bin das Feuer. Ich
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 übergebe dir den heiligen Feuerstab. Es ist
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 derselbe, den dir der Leu der Leuenfähre gestern
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 gab und den du Sobi über den schuppigen Schädel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 gezogen hast.^^P Tefnut lachte und reichte Amélie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 graziöse den Stab. Amélie nahm ihn. Er war aus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 Holz. Er besass noch die Rinde, in die feine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 Muster eingeritzt waren, die wie Flammen aussahen.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 Die Muster bildeten sich aus lauter Dreiecken,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 deren Spitze nach oben zeigte. Am oberen Ende das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 leicht gekrümmt war und sich natürlich in ihre
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 Hand schmiegte, sah sie die verschiedenen Farben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 des Holzes. Aussen unter der Rinde war es hell,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1618
-\T1/cmtt/m/n/10.95 gelblich und im Inneren befand sich ein rötlicher
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-[]\T1/cmtt/m/n/10.95 ^^REs ist ein Wachholderstab^^P bemerkte Thot zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 Amélies Blick. Eine kleine Erinnerung tauchte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 auf, Berta hatte ihr vom Wacholder, oder auch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 Manchandelboom erzählt. -Cool, ich hab' jetzt einen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 Zauberstab! Amélie strahlte. ^^RDu wirst den Stab
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 heute noch brauchen!^^P Meinte Tefnut. ^^RWir sehen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 uns heute Nacht, Schätzchen!^^P ^^ROkay!^^P stotterte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 Amélie. Tefnut verliess das Bureau, nachdem sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 Schu einen Kuss auf die Wange gehaucht hatte. ^^RBis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 gleich, Liebster!^^P flüsterte sie und Schu blies ihr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 sanft den Rauch seiner Zigarette ins Gesicht. Thot
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 räusperte sich. Zu Amélies Vergnügen, bemerkte sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
-\T1/cmtt/m/n/10.95 den leichten rosa Schimmer auf den Wangen des sonst
- []
-
-[211]
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-[]\T1/cmtt/m/n/10.95 Amélie wurde von Thot zu Schu geschoben. Der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 hielt plötzlich die Scheide und das Schwert in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 den grossen Händen. ^^RDies ist das Luftschwert. Es
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 darf von denen benutzt werden, die die Kunst der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 Elemente beherrschen. Es gibt vieles, was du noch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 lernen musst. Aber die Herren der Luft, zu denen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 auch der Vogel Gryff auf der Fähre und ich gehören,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 meinen, du bist es wert.^^P Schu reichte Amélie die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 beiden Gegenstände. ^^RWar' übrigens nicht leicht,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1622
-\T1/cmtt/m/n/10.95 das Schwert aus Sobis Rachen zu holen. Da kannst du
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-[]\T1/cmtt/m/n/10.95 Die Scheide war aus Samt und Leder. Das Leder war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 gelblich. An der Spitze und am oberen Rand war das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 Leder auch Aussen als Verstärkung angebracht.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 Auf dem oberen Lederring schimmerte ein blauer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 Kristall.Der Samt war Königsblau und überzog die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 restliche Scheide. So fühlte sie sich steif, aber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 warm und weich an. Mit einem einfachen Gürtel, der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
-\T1/cmtt/m/n/10.95 aus dem selben gelben Leder gefertigt war, konnte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-[]\T1/cmtt/m/n/10.95 Amélie zog das Schwert aus der Scheide. Der Griff
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 war mit dem gelben Leder umwickelt. Das Schwert war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 einfach. Die Klinge aus Eisen, keine Schnörkel,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 keine Zierden, keine Schmucksteine. Amélie war
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 etwas enttäuscht. Sie lies sich, wie sie hoffte,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 nichts anmerken, sie wollte den Luftgott nicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 kränken. ^^RDanke!^^P ^^RHeute Nacht wirst du kannst du
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 es dann ausprobieren!^^P Amélie blickte Schu erstaunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 an. Der lies einen Rauchring aus seinem Mund, der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
-\T1/cmtt/m/n/10.95 sich um Amélies Nase kringelte. Sie nieste. Schu
- []
-
-[212]
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-[]\T1/cmtt/m/n/10.95 ^^RJa, ja, die Kinder.^^P Murmelte Re. Er schaute
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 erwartungsvoll zu Thot. ^^RVon mir bekommst du
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 den letzten Gegenstand.^^P Amélie stutzte, als sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 den Kelch in den Händen des Gottes sah: ^^R Die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Schale, die ist völlig zersplittert? Ich hab doch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 sogar mit einem der Splitter zugestochen?^^P Thot
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 reichte Amélie den Kelch. Er war schwer und kühl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Fein geschliffener Kristall, der an immer neuen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Stellen das Licht ein funkelnde Regenbögen brach
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 und sie im Zimmer verteilte. ^^RSehr hübsch^^P fand
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Re. Er hob etwas die Sonnenbrille an und sofort
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 befanden sie sich alle in einem Farbenmeer. Die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Farben schillerten und schimmerten, Amélie konnte
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 den Kelch nicht mehr sehen, obwohl sie ihn in den
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Händen hielt. Dann erblickte sie im Inneren des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Kelchs eine rote Flüssigkeit. ^^RIst das, das Blut?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Von wem? Wieso?^^P ^^RSpäter^^P gab Thot zur Antwort,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 ^^Rspäter wirst du es erfahren.^^P Er nahm den Kelch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 aus Amélies Händen. ^^RDie Gabe des Kelchs trägst
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 du seit gestern Nacht in dir. Die anderen drei
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
-\T1/cmtt/m/n/10.95 Insignien werden dir helfen, dich an die Macht des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
-\T1/cmtt/m/n/10.95 Von den Beamten angesprochen, flog der Vogel auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
-\T1/cmtt/m/n/10.95 und verschwand in einer Art Seifenblase. Die beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
-\T1/cmtt/m/n/10.95 Flüchtigen springen zum Entsetzten der beiden
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
-\T1/cmtt/m/n/10.95 Beamten die Maurer runter in das Lohnhofgässlein.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
-\T1/cmtt/m/n/10.95 obwohl die beiden Beamten am Fuss der Mauer keine
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [213]
-[214] (./DieHorus.toc
+] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206]
+[207] [208] (./DieHorus.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
- [215
+ [209
 
-] [216] [217])
+] [210] [211])
 \tf@toc=\write3
 \openout3 = `DieHorus.toc'.
 
 
 No file DieHorus.bbl.
-[218] (./DieHorus.aux) ) 
+[212] (./DieHorus.aux) ) 
 Here is how much of TeX's memory you used:
- 9107 strings out of 495490
- 157728 string characters out of 6184089
- 217665 words of memory out of 5000000
- 12270 multiletter control sequences out of 15000+600000
- 23165 words of font info for 46 fonts, out of 8000000 for 9000
+ 10041 strings out of 494860
+ 169728 string characters out of 6177602
+ 237522 words of memory out of 5000000
+ 13183 multiletter control sequences out of 15000+600000
+ 28776 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 36i,8n,40p,1580b,300s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,40p,1595b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.
+enc} </home/felicitas/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk> </
+home/felicitas/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/fe
+licitas/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.600pk> </home/felicitas
+/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/felicitas/.texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/felicitas/.texmf-var/fo
+nts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/felicitas/.texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
+plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on DieHorus.pdf (212 pages, 1563941 bytes).
+PDF statistics:
+ 973 PDF objects out of 1000 (max. 8388607)
+ 506 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on DieHorus.pdf (218 pages).
