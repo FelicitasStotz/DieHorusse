@@ -42,14 +42,19 @@
 \contentsline {section}{8}{136}
 \contentsline {chapter}{3. Nacht, Stephan}{139}
 \contentsline {section}{1}{139}
-\contentsline {section}{2}{140}
-\contentsline {section}{3}{142}
-\contentsline {section}{4}{147}
-\contentsline {section}{5}{159}
-\contentsline {section}{6}{162}
-\contentsline {section}{7}{165}
-\contentsline {section}{8}{170}
-\contentsline {section}{9}{179}
+\contentsline {section}{2}{152}
+\contentsline {section}{3}{153}
+\contentsline {section}{4}{159}
+\contentsline {section}{5}{161}
+\contentsline {section}{6}{165}
+\contentsline {section}{7}{170}
+\contentsline {section}{8}{173}
+\contentsline {section}{9}{178}
+\contentsline {section}{10}{182}
+\contentsline {section}{11}{182}
+\contentsline {section}{12}{182}
+\contentsline {section}{13}{184}
+\contentsline {section}{14}{184}
 \contentsline {part}{Vierte Stunde}{187}
 \contentsline {chapter}{27. Dezember, Johannestag}{187}
 \contentsline {chapter}{4. Nacht, Johannes}{189}
