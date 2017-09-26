@@ -51,24 +51,24 @@
 \contentsline {section}{8}{173}
 \contentsline {section}{9}{178}
 \contentsline {section}{10}{182}
-\contentsline {section}{11}{185}
-\contentsline {section}{12}{185}
-\contentsline {section}{13}{187}
-\contentsline {section}{14}{187}
-\contentsline {part}{Vierte Stunde}{191}
-\contentsline {chapter}{27. Dezember, Johannestag}{191}
-\contentsline {chapter}{4. Nacht, Johannes}{193}
-\contentsline {part}{F\IeC {\"u}nfte Stunde}{197}
-\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{197}
-\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{199}
-\contentsline {part}{Sechste Stunde}{203}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{203}
-\contentsline {chapter}{6. Nacht, Jonathan}{205}
-\contentsline {chapter}{Reste}{207}
-\contentsline {section}{prolog}{207}
-\contentsline {section}{2.2.5}{211}
-\contentsline {section}{3.1.2}{212}
-\contentsline {section}{\numberline {0.1}3.2.8}{218}
-\contentsline {section}{3.2.8}{218}
-\contentsline {section}{\numberline {0.2}3.2.10}{218}
-\contentsline {section}{3.2.10}{218}
+\contentsline {section}{11}{192}
+\contentsline {section}{12}{193}
+\contentsline {section}{13}{194}
+\contentsline {section}{14}{194}
+\contentsline {part}{Vierte Stunde}{197}
+\contentsline {chapter}{27. Dezember, Johannestag}{197}
+\contentsline {chapter}{4. Nacht, Johannes}{199}
+\contentsline {part}{F\IeC {\"u}nfte Stunde}{203}
+\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{203}
+\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{205}
+\contentsline {part}{Sechste Stunde}{209}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{209}
+\contentsline {chapter}{6. Nacht, Jonathan}{211}
+\contentsline {chapter}{Reste}{213}
+\contentsline {section}{prolog}{213}
+\contentsline {section}{2.2.5}{217}
+\contentsline {section}{3.1.2}{218}
+\contentsline {section}{\numberline {0.1}3.2.8}{224}
+\contentsline {section}{3.2.8}{224}
+\contentsline {section}{\numberline {0.2}3.2.10}{224}
+\contentsline {section}{3.2.10}{224}
