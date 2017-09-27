@@ -46,12 +46,12 @@
 \contentsline {section}{3}{162}
 \contentsline {section}{4}{173}
 \contentsline {section}{5}{184}
-\contentsline {section}{6}{187}
+\contentsline {section}{6}{188}
 \contentsline {section}{7}{189}
-\contentsline {section}{8}{189}
+\contentsline {section}{8}{190}
 \contentsline {section}{9}{194}
-\contentsline {section}{10}{194}
-\contentsline {section}{11}{194}
+\contentsline {section}{10}{195}
+\contentsline {section}{11}{195}
 \contentsline {section}{12}{195}
 \contentsline {part}{Vierte Stunde}{199}
 \contentsline {chapter}{27. Dezember, Johannestag}{199}
