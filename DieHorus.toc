@@ -33,9 +33,9 @@
 \contentsline {section}{9}{105}
 \contentsline {part}{Dritte Stunde}{111}
 \contentsline {chapter}{26. Dezember, Stephanstag}{111}
-\contentsline {section}{2}{115}
-\contentsline {section}{3}{121}
-\contentsline {section}{4}{125}
+\contentsline {section}{2}{114}
+\contentsline {section}{3}{120}
+\contentsline {section}{4}{124}
 \contentsline {section}{5}{129}
 \contentsline {section}{6}{130}
 \contentsline {section}{7}{134}
