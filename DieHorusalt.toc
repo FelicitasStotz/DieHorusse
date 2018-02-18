@@ -1,0 +1,37 @@
+\select@language {ngerman}
+\contentsline {chapter}{Prolog: Eine Nacht im Januar}{5}
+\contentsline {section}{23. Dezember}{13}
+\contentsline {part}{Erste Stunde}{17}
+\contentsline {chapter}{24.Dezember; Adam und Evatag}{17}
+\contentsline {section}{2}{22}
+\contentsline {section}{3}{24}
+\contentsline {section}{4}{25}
+\contentsline {section}{5}{28}
+\contentsline {section}{6}{31}
+\contentsline {section}{7}{33}
+\contentsline {section}{8}{34}
+\contentsline {section}{9}{35}
+\contentsline {section}{10}{36}
+\contentsline {chapter}{1. Nacht, Die Heilige}{41}
+\contentsline {section}{2}{43}
+\contentsline {part}{Zweite Stunde}{51}
+\contentsline {chapter}{25. Dezember, Christi Geburtstag}{51}
+\contentsline {section}{2}{54}
+\contentsline {section}{3}{57}
+\contentsline {section}{4}{60}
+\contentsline {section}{5}{62}
+\contentsline {section}{6}{64}
+\contentsline {section}{7}{66}
+\contentsline {chapter}{2. Nacht, Christi Geburtstag}{71}
+\contentsline {section}{2}{74}
+\contentsline {section}{3}{76}
+\contentsline {section}{4}{77}
+\contentsline {section}{5}{79}
+\contentsline {section}{6}{80}
+\contentsline {section}{7}{82}
+\contentsline {section}{8}{84}
+\contentsline {part}{Dritte Stunde}{91}
+\contentsline {chapter}{26.Dezember, Stephanstag}{91}
+\contentsline {section}{1}{91}
+\contentsline {section}{2}{94}
+\contentsline {chapter}{3.Nacht, Stephan}{95}
