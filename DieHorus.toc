@@ -59,17 +59,18 @@
 \contentsline {section}{2}{233}
 \contentsline {section}{3}{239}
 \contentsline {section}{4}{243}
-\contentsline {chapter}{4. Nacht, Johannes}{245}
-\contentsline {part}{F\IeC {\"u}nfte Stunde}{249}
-\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{249}
-\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{251}
-\contentsline {part}{Sechste Stunde}{255}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{255}
-\contentsline {chapter}{6. Nacht, Jonathan}{257}
-\contentsline {chapter}{Reste}{259}
-\contentsline {section}{prolog}{259}
-\contentsline {section}{2.2.5}{263}
-\contentsline {section}{3.1.2}{264}
-\contentsline {section}{3.2.8}{270}
-\contentsline {section}{3.2.3}{270}
-\contentsline {section}{3.2.10}{271}
+\contentsline {section}{5}{245}
+\contentsline {chapter}{4. Nacht, Johannes}{249}
+\contentsline {part}{F\IeC {\"u}nfte Stunde}{253}
+\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{253}
+\contentsline {chapter}{5. Nacht, Der unschuldigen Kinder}{255}
+\contentsline {part}{Sechste Stunde}{259}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{259}
+\contentsline {chapter}{6. Nacht, Jonathan}{261}
+\contentsline {chapter}{Reste}{263}
+\contentsline {section}{prolog}{263}
+\contentsline {section}{2.2.5}{267}
+\contentsline {section}{3.1.2}{268}
+\contentsline {section}{3.2.8}{274}
+\contentsline {section}{3.2.3}{274}
+\contentsline {section}{3.2.10}{275}
