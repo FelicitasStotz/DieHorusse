@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  2 APR 2018 20:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  3 APR 2018 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -753,7 +753,7 @@ Underfull \vbox (badness 1231) has occurred while \output is active []
 
 ] [60] [61]
 [62] [63] [64] [65] [66] [67]
-Underfull \hbox (badness 1259) in paragraph at lines 574--575
+Underfull \hbox (badness 1259) in paragraph at lines 580--581
 []\T1/ppl/m/n/10.95 ^^RArme Amé-lie^^P seufz-te sie. ^^RWas hast du her-aus-ge-
 fun-
  []
@@ -763,31 +763,35 @@ Underfull \vbox (badness 4391) has occurred while \output is active []
 
  [69]
 [70]
-Underfull \hbox (badness 1163) in paragraph at lines 601--602
+Underfull \hbox (badness 1163) in paragraph at lines 607--608
 []\T1/ppl/m/n/10.95 Nachdem der wil-de Mann wie-der in den Bü-schen ver-
  []
 
 [71] [72] [73] [74] [75] [76]
-Underfull \hbox (badness 1194) in paragraph at lines 668--669
+Underfull \hbox (badness 1194) in paragraph at lines 674--675
 \T1/ppl/m/n/10.95 -'Was machst du hier?' Wäh-rend die Wor-te in Dua-mu-
  []
 
 [77] [78] [79] [80] [81
 
 ] [82]
-Underfull \hbox (badness 1052) in paragraph at lines 731--732
+Underfull \hbox (badness 1052) in paragraph at lines 745--746
 []\T1/ppl/m/n/10.95 Isis be-trat das Zim-mer ih-res Man-nes. Ei-ne gan-ze Schar
 
  []
 
-[83] [84] [85] [86] [87]
-Underfull \hbox (badness 1092) in paragraph at lines 782--783
+[83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+[85] [86] [87]
+Underfull \hbox (badness 1092) in paragraph at lines 796--797
 []\T1/ppl/m/n/10.95 Amélie at-me-te tief ein. Sie sah die schwach er-leuch-te-t
 e
  []
 
 [88]
-Underfull \hbox (badness 2103) in paragraph at lines 786--787
+Underfull \hbox (badness 2103) in paragraph at lines 800--801
 []\T1/ppl/m/n/10.95 Plötzlich be-rühr-te et-was har-tes, spit-zes ih-ren Fuss. 
 Sie
  []
@@ -807,753 +811,768 @@ Underfull \vbox (badness 2057) has occurred while \output is active []
 
  [129]
 [130] [131] [132] [133] [134] [135]
-Underfull \hbox (badness 1122) in paragraph at lines 1181--1182
+Underfull \hbox (badness 1122) in paragraph at lines 1195--1196
 []\T1/ppl/m/n/10.95 ^^RSchätzchen, ich ha-be da was für dich. Du musst dich
  []
 
 [136] [137] [138] [139
 
 ] [140] [141] [142]
-Underfull \hbox (badness 1072) in paragraph at lines 1229--1230
+Underfull \hbox (badness 1072) in paragraph at lines 1252--1253
 \T1/ppl/m/n/10.95 war ne-ben Amé-lie ge-tre-ten und wies auf die häss-li-che,
  []
 
-[143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154]
-[155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1394
-.
+[143]
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+ [144]
+[145] [146] [147]
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [148]
+[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
+[161]
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [162]
+[163] [164] [165] [166]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1417
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 []\T1/cmtt/m/n/10.95 21:05: Meldung in der Leitstelle: Der Portier
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 des Hotels 'Troi Roi', Herr Häsler, meldet, dass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 sich zwei auffällige Personen vor dem Restaurant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 'Lälle König' aufhalten. Sie seien nackt und würden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 einen grossen Vogel, vermutlich eine Gans, auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 dem Kopf mit sich führen, die laut schrie. Sowie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 einen schwarzen Hahn und einen Hund, der sich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 wie tollwütig benahm und dem Herr Häsler, als er
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 nach dem rechten hatte sehen wollen, in die Wade
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
 \T1/cmtt/m/n/10.95 gezwickt hatte. Vielleicht solle man den Tierschutz
  []
 
-[166]
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 []\T1/cmtt/m/n/10.95 21:15: Streifenwagen mit den Polizisten Moser
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 und Meyer trifft an der Schifflände ein. Von den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 beiden Ruhestörern ist nichts zu sehen. Es befinden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 sich viele Bürger auf der Strasse. Der Portier
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 Häsler (siehe oben), Gäste aus dem 'Club de Bale,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 Passanten. Da viele Zeugen die Aussage von Herrn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 Häsler bestätigen (Liste der Zeugen im Anhang)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
 \T1/cmtt/m/n/10.95 beschliessen die Polizisten Moser und Meyer die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
 []\T1/cmtt/m/n/10.95 21:30 Die Polizisten Moser und Meyer fahren langsam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
 \T1/cmtt/m/n/10.95 den Marktplatz Richtung Barfüsserplatze hinauf.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
 \T1/cmtt/m/n/10.95 Sie können keine verdächtigen Personen sehen. Die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
 \T1/cmtt/m/n/10.95 Beamten beschliessen per Pedes die Gerbergasse zu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 []\T1/cmtt/m/n/10.95 In der Nähe des Gerbergässleins auf dem kleinen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 Platz treffen die Beamten auf die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 Verdächtigen. Sie haben sich direkt vor dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 Gerberbrunnen eingefunden. Sie liegen, verdeckt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 vom Mauervorsprung und dem Geländer am Boden und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 reden laut und aufgeregt miteinander. Die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 Männer sind tatsächlich unbekleidet. Die Gans,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 oder der Ganter, watschelt auf dem Platz herum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 und betreibt Ruhestörung. In den Wohnung über dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 Bastelladen ist ein Fenster aufgegangen und ein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 Bürger beschwert sich über den Lärm. Er beruhigt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
 \T1/cmtt/m/n/10.95 sich, als er sieht, dass die Beamten bereits vor
  []
 
 [167]
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 []\T1/cmtt/m/n/10.95 Sobald sich die Beamten jedoch den Verdächtigen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 zuwenden, greift der Gänsevogel an. Er schnappt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 und schlägt mit den Flügeln. Auch ein Dackel ist
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 anwesend, der die Beamten mit fletschenden Zähnen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 angeht, sobald sie sich den Verdächtigen nähern
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 wollen. Ferner ist auch ein schwarzer Hahn vor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 Ort, der für einen Hühnervogel, nach Meinung des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 Beamten Moser, sehr gross ist. Der Hahn verletzt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 \T1/cmtt/m/n/10.95 die Beamtin Meyer am Arm, als diese versucht an ihm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
 []\T1/cmtt/m/n/10.95 Den Beamten bleibt nichts anderes übrig als die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
 \T1/cmtt/m/n/10.95 beiden Männer aus sicherer Distanz anzurufen. Diese
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
 \T1/cmtt/m/n/10.95 reagieren in keiner Weise auf die Ansprache der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
 \T1/cmtt/m/n/10.95 Beamten.In der Zwischenzeit haben sich weitere
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
 \T1/cmtt/m/n/10.95 Fenster geöffnet. Die Anwohner beschweren sich,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
 \T1/cmtt/m/n/10.95 die Polizei solle endlich eingreifen und zwar ein
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+[168]
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1436
 []\T1/cmtt/m/n/10.95 21:40: Die Beamten Meyer und Moser haben zwei
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1436
 \T1/cmtt/m/n/10.95 weitere Kollegen informiert und gerufen, da sie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1436
 \T1/cmtt/m/n/10.95 sich den beiden Männern nicht nähern können, ohne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1436
 \T1/cmtt/m/n/10.95 von der Gans, dem Hahn und dem Dackel angegriffen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1414--1415
+Underfull \hbox (badness 10000) in paragraph at lines 1437--1438
 []\T1/cmtt/m/n/10.95 Der Beamte Moser hat tiefe Kratzer im Gesicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1414--1415
+Underfull \hbox (badness 10000) in paragraph at lines 1437--1438
 \T1/cmtt/m/n/10.95 erhalten, die von den Sporen des Hahnes stammen,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1414--1415
+Underfull \hbox (badness 10000) in paragraph at lines 1437--1438
 \T1/cmtt/m/n/10.95 während die Kollegin Meyer mehrfach von dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1414--1415
+Underfull \hbox (badness 10000) in paragraph at lines 1437--1438
 \T1/cmtt/m/n/10.95 Dackel in die Wade gebissen wurde. Die Gans greift
  []
 
-[168]
-Underfull \hbox (badness 10000) in paragraph at lines 1416--1417
+
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 []\T1/cmtt/m/n/10.95 21:46: Ein Streifenwagen mit Martinshorn trifft
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1416--1417
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \T1/cmtt/m/n/10.95 mit den Beamten Schmied und Hofer ein. Die Beamten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1416--1417
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \T1/cmtt/m/n/10.95 haben, wie von Moser angefordert Fangnetze für die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 []\T1/cmtt/m/n/10.95 Die Beamten Meyer, Hofer und Moser versuchen die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 Tiere mit den Netzen einzufangen. Die Gans ist
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 zu gross für das Netz, das für streunende Katzen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 gebraucht wird. Die Gans kann sich daraus befreien,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 sobald sie mit den Flügeln schlägt. Während die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 Gans wild mit den Flügeln schlägt, um sich aus dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 Netz zu befreien, trifft sie den Beamten Hofer am
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 Schienbein, worauf dieser zu Boden geht und von den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 Beamten Meyer und Moser unter weiteren heftigen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 Schlägen der Gans aus der Gefahrenzone befreit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 werden muss. Dabei hat sich der Dackel bei Meyer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 am Hosenbein festgebissen, wodurch die Beamtin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 den Kollegen Hofer loslässt und stürzt. Daraufhin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1420
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
 \T1/cmtt/m/n/10.95 werden beide am Boden liegenden Beamte von Hund und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 []\T1/cmtt/m/n/10.95 Währenddessen hat sich der Hahn bei Kollege Moser
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 \T1/cmtt/m/n/10.95 auf dem Kopf festgesetzt und diesen mit heftigen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 \T1/cmtt/m/n/10.95 Flügelschlägen bei der Rettung der Kollegen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 \T1/cmtt/m/n/10.95 behindert. Erst nach erheblicher Anstrengung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 \T1/cmtt/m/n/10.95 gelingt es dem Beamten Moser unter Verlust der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 \T1/cmtt/m/n/10.95 Brille und mit heftigem Nasenbluten, das durch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 \T1/cmtt/m/n/10.95 Flügelschlag verursacht wurde, den Hahn von seinem
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+[169]
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 []\T1/cmtt/m/n/10.95 Dann gelingt es dem Beamten Moser den Beamten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 \T1/cmtt/m/n/10.95 Hofer, der durch den Flügelschlag mit einem Bein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 \T1/cmtt/m/n/10.95 nicht mehr auftreten kann, zum Streifenwagen zu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 \T1/cmtt/m/n/10.95 bringen und erste Hilfe zu leisten. Die Beamtin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 \T1/cmtt/m/n/10.95 Meyer kann den Dackel mit ihrem Stock abwehren und
  []
 
-[169]
-Underfull \hbox (badness 10000) in paragraph at lines 1432--1433
+[170]
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
 []\T1/cmtt/m/n/10.95 22:15: Dank dem wagemutigen und intensiven Einsatz
  []
 
-[170]
-Underfull \hbox (badness 10000) in paragraph at lines 1436--1437
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
 []\T1/cmtt/m/n/10.95 kann sich der Beamte Schmied endlich den beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1436--1437
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
 \T1/cmtt/m/n/10.95 Männern nähern. Es wird höchste Zeit, den es
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1436--1437
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
 \T1/cmtt/m/n/10.95 hat sich inzwischen eine wachsende Menschenmenge
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1436--1437
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
 \T1/cmtt/m/n/10.95 aus den Anwohnern und Passanten gebildet. Diese
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1436--1437
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
 \T1/cmtt/m/n/10.95 beginnen mit ihren Smartphones Fotos zu schiessen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 []\T1/cmtt/m/n/10.95 Die beiden Herren reagieren unfreundlich auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 den Beamten Schmied, der sie aufgefordert hat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 ihre Papiere zu zeigen. Während der eine der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 beiden den toten Hundebalg vom Rücken nimmt,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 zeigt er keinerlei Reaktion. Der andere fragt auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 alemannisch, ob der Polizist Schmied ihm vielleicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 sagen könne, wo er, zum Henker, ohne Taschen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 Papiere unterbringen soll. Ferner beleidigt er den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 Beamten mit den Worten: ,Ob er zu dusselig ist den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 \T1/cmtt/m/n/10.95 Wappenherold der Ehrengesellschaft zur Hären zu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 []\T1/cmtt/m/n/10.95 Der Beamte Schmied ruft daraufhin über Funk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 zwei weitere Streifen und eine Sanität in die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 Gerbergasse. Da sich die Menschenmenge weiter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 vergrössert, brauchte es Beamten, die diese
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 auf Abstand halten. Durch die grosse Anzahl an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 Zivilpersonen, die sich im Kreis um den Platz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 angesammelt haben und die Beamten bei der Bändigung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 der wilden Tiere behindern, ist der Beamte Schmied
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 von den übrigen Kollegen isoliert worden. Er ist
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1441
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 \T1/cmtt/m/n/10.95 mit den beiden Verdächtigen in der Mauernische vom
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
+[171]
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
 []\T1/cmtt/m/n/10.95 22:50: Die zwei weiteren Streifen treffen ein. Die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
 \T1/cmtt/m/n/10.95 Polizeiwagen versperren die Gerbergasse, um die
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
 \T1/cmtt/m/n/10.95 Verdächtigen an einer Flucht zu hindern und weitere
  []
 
-[171]
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 []\T1/cmtt/m/n/10.95 Der eine Nackte nimmt den Tierbalg von seinem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 Rücken, in diesem bewegt sich etwas. Der zweite
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 nackte Mann, der sich als Wappenherold bezeichnet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 hat, versucht nun den Beamten Schmied in ein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 Gespräch zu verwickeln und vom seinem Partner
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 fern zuhalten. Er hebt die Arme und ruft, es
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 sei eine christliche Mission im Rahmen der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 Weihnachtsfeierlichkeit und sie dürften nicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 unterbrochen werden. Der Mann rudert und wedelt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 mit den Armen und Händen und versucht Platz zu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 machen. Er schnauzt den Beamten Schmied an,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 er solle dafür zu sorgen, dass nicht so viele
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 Passanten herumstünden. Als der Beamte Schmied
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 seine Pistole hebt, entschuldigt der Mann sich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 für die Umtriebe, das wäre nicht geplant gewesen,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 normalerweise würden sie beide, der andere Herr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 Geb und er unsichtbar operieren und nicht soviel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 Volk anlocken. Andererseits fände er es schon toll,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 \T1/cmtt/m/n/10.95 dass die Basler offensichtlich ein Gespür für die
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+[172]
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 []\T1/cmtt/m/n/10.95 Der Mann wollte sich trotz mehrmaliger Aufforderung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 des Polizisten Schmied weder abführen lassen, noch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 den Ort verlassen. Polizist Schmied forderte den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 Mann weiterhin auf zu gehen. Da das nicht fruchtete
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 wollte er ihn in Gewahrsam nehmen und die beiden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 auf die Wache bringen. Sobald er jedoch den nackten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 Mann berühren wollte, flog plötzlich und unerwartet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 \T1/cmtt/m/n/10.95 ein riesiger Reiher aus dem Tierbalg des anderen
  []
 
-[172] [173] [174]
-Underfull \hbox (badness 1194) in paragraph at lines 1473--1474
+[173] [174]
+Underfull \hbox (badness 1194) in paragraph at lines 1496--1497
 []\T1/ppl/m/n/10.95 Amélie stürm-te die Stras-se hin-ter den Göt-tern her. Vor
  []
 
-[175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
-[187] [188] [189] [190] [191] [192] [193] [194] [195]
-Underfull \hbox (badness 1122) in paragraph at lines 1646--1647
+[175] [176] [177] [178] [179] [180] [181] [182]
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [183]
+[184] [185] [186] [187] [188] [189] [190] [191] [192] [193]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [194]
+[195]
+Underfull \hbox (badness 1122) in paragraph at lines 1669--1670
 []\T1/ppl/m/n/10.95 Als Kat-ze hass-te Tef-nut Was-ser (im Ge-gen-satz zu ih-re
 r
  []
 
-[196] [197] [198] [199] [200] [201] [202]
-Underfull \vbox (badness 4995) has occurred while \output is active []
-
- [203]
-[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
-[216] [217] [218] [219] [220] [221] [222]
-Underfull \hbox (badness 1147) in paragraph at lines 1916--1917
+[196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207]
+[208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219]
+[220] [221] [222]
+Underfull \hbox (badness 1147) in paragraph at lines 1939--1940
 []\T1/ppl/m/n/10.95 Ein schar-fer Wind blies ihm ent-ge-gen, das Fens-ter war
  []
 
@@ -1563,27 +1582,27 @@ Underfull \hbox (badness 1147) in paragraph at lines 1916--1917
 
 ] [228] [229] [230] [231] [232] [233] [234]
 [235] [236] [237] [238]
-Underfull \hbox (badness 5578) in paragraph at lines 2033--2034
+Underfull \hbox (badness 5578) in paragraph at lines 2056--2057
 []\T1/ppl/m/n/10.95 Hansens Hahn tapp-te um Ber-tas Pan-tof-feln, die auf
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 2033--2034
+Underfull \hbox (badness 3861) in paragraph at lines 2056--2057
 \T1/ppl/m/n/10.95 und ab wipp-ten, und ver-such-te die bei-den stum-men
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 2033--2034
+Underfull \hbox (badness 2027) in paragraph at lines 2056--2057
 \T1/ppl/m/n/10.95 der vor dem Schreib-tisch ein ru-hi-ges Plätz-chen ge-fun-
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 2033--2034
+Underfull \hbox (badness 2310) in paragraph at lines 2056--2057
 \T1/ppl/m/n/10.95 den hat-te, lag auf der Sei-te und schlief. Er schnarch-
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 2033--2034
+Underfull \hbox (badness 2990) in paragraph at lines 2056--2057
 \T1/ppl/m/n/10.95 te lei-se, wo-bei sei-ne Lef-zen hin-ge-bungs-voll vi-brier-t
 en,
  []
@@ -1591,41 +1610,41 @@ en,
 [239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250
 
 ]
-[251] [252
+[251] [252] [253] [254] [255
 
-] [253] [254] [255
+] [256] [257
 
-] [256
+] [258
 
-] [257] [258
+] [259] [260
 
-] [259] [260] [261
+] [261] [262]
+[263
 
-] [262
+] [264
 
-]
-[263] [264
+] [265] [266
 
-] [265] [266] [267] [268] [269] [270] [271] [272] [273] [274]
-[275] [276] [277] [278] [279]
-Underfull \hbox (badness 3240) in paragraph at lines 2299--2300
+] [267] [268] [269] [270] [271] [272] [273] [274]
+[275] [276] [277] [278] [279] [280] [281]
+Underfull \hbox (badness 3240) in paragraph at lines 2390--2391
 []\T1/ppl/m/n/10.95 Amélie dach-te nach. -,Was hat Burk-hard für Ge-setz-te
  []
 
-[280] [281] [282] (./DieHorus.toc
+[282] [283] [284] (./DieHorus.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
- [283
+ [285
 
-] [284] [285])
+] [286] [287])
 \tf@toc=\write3
 \openout3 = `DieHorus.toc'.
 
 
 No file DieHorus.bbl.
-[286] (./DieHorus.aux) ) 
+[288] (./DieHorus.aux) ) 
 Here is how much of TeX's memory you used:
  10042 strings out of 494860
  169736 string characters out of 6177602
@@ -1644,10 +1663,10 @@ nts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/felicitas/.texmf-var/fonts/pk/
 ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DieHorus.pdf (286 pages, 1693685 bytes).
+Output written on DieHorus.pdf (288 pages, 1700483 bytes).
 PDF statistics:
- 1219 PDF objects out of 1440 (max. 8388607)
- 670 compressed objects within 7 object streams
+ 1225 PDF objects out of 1440 (max. 8388607)
+ 674 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
