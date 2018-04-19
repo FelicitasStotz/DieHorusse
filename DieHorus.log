@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  18 APR 2018 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  19 APR 2018 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1629,24 +1629,29 @@ Underfull \hbox (badness 1184) in paragraph at lines 2233--2234
 \T1/ppl/m/n/10.95 ven-zu-sam-men-bruch. Nur sei-ne Kör-per-be-herr-schung und
  []
 
-[260] [261] [262] [263] [264
+[260] [261]
+Underfull \hbox (badness 1210) in paragraph at lines 2243--2244
+\T1/ppl/m/n/10.95 den. Wer möch-te schon mit dem Bauch durch fau-li-gen
+ []
 
-] [265] [266] [267
+[262] [263] [264] [265
+
+] [266] [267
 
 ] [268
 
 ] [269] [270
 
-] [271]
-[272] [273
+] [271] [272] [273
 
-] [274
+]
+[274
 
 ] [275] [276
 
-] [277] [278] [279] [280] [281] [282] [283]
-[284] [285] [286] [287] [288] [289] [290] [291]
-Underfull \hbox (badness 3240) in paragraph at lines 2463--2464
+] [277] [278] [279] [280] [281] [282] [283] [284] [285]
+[286] [287] [288] [289] [290] [291]
+Underfull \hbox (badness 3240) in paragraph at lines 2471--2472
 []\T1/ppl/m/n/10.95 Amélie dach-te nach. -,Was hat Burk-hard für Ge-setz-te
  []
 
@@ -1683,7 +1688,7 @@ ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on DieHorus.pdf (298 pages, 1719813 bytes).
+Output written on DieHorus.pdf (298 pages, 1720972 bytes).
 PDF statistics:
  1264 PDF objects out of 1440 (max. 8388607)
  700 compressed objects within 7 object streams
