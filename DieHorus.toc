@@ -67,8 +67,8 @@
 \contentsline {section}{4}{259}
 \contentsline {section}{5}{261}
 \contentsline {section}{6}{267}
-\contentsline {section}{7}{268}
-\contentsline {section}{8}{271}
+\contentsline {section}{7}{269}
+\contentsline {section}{8}{272}
 \contentsline {part}{F\IeC {\"u}nfte Stunde}{275}
 \contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{275}
 \contentsline {chapter}{5. Nacht}{277}
