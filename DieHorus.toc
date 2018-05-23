@@ -71,16 +71,17 @@
 \contentsline {section}{8}{273}
 \contentsline {section}{9}{275}
 \contentsline {section}{10}{277}
-\contentsline {part}{F\IeC {\"u}nfte Stunde}{283}
-\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{283}
-\contentsline {chapter}{5. Nacht}{285}
-\contentsline {part}{Sechste Stunde}{289}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{289}
-\contentsline {chapter}{6. Nacht}{291}
-\contentsline {chapter}{Reste}{293}
-\contentsline {section}{prolog}{293}
-\contentsline {section}{2.2.5}{297}
-\contentsline {section}{3.1.2}{298}
-\contentsline {section}{3.2.8}{304}
-\contentsline {section}{3.2.3}{304}
-\contentsline {section}{3.2.10}{305}
+\contentsline {section}{11}{280}
+\contentsline {part}{F\IeC {\"u}nfte Stunde}{285}
+\contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{285}
+\contentsline {chapter}{5. Nacht}{287}
+\contentsline {part}{Sechste Stunde}{291}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{291}
+\contentsline {chapter}{6. Nacht}{293}
+\contentsline {chapter}{Reste}{295}
+\contentsline {section}{prolog}{295}
+\contentsline {section}{2.2.5}{299}
+\contentsline {section}{3.1.2}{300}
+\contentsline {section}{3.2.8}{306}
+\contentsline {section}{3.2.3}{306}
+\contentsline {section}{3.2.10}{307}
