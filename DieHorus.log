@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.10)  23 MAY 2018 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.10)  25 MAY 2018 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1644,41 +1644,61 @@ Underfull \hbox (badness 1221) in paragraph at lines 2332--2333
  []
 
 [270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281]
-[282] [283
+[282] [283]
+Underfull \hbox (badness 1019) in paragraph at lines 2517--2518
+\T1/ppl/m/n/10.95 vom Was-ser an-ge-trie-ben dreh-te, war noch or-dent-lich in
+ []
 
-] [284] [285
+[284]
+Underfull \hbox (badness 1009) in paragraph at lines 2531--2532
+[]\T1/ppl/m/n/10.95 Währendessen tau-mel-te der Ba-si-lisk sich um sich selbst
+ []
 
-] [286
 
-] [287] [288
+Underfull \hbox (badness 3536) in paragraph at lines 2531--2532
+\T1/ppl/m/n/10.95 zu fo-kus-sie-ren, was als Hahn schon schwie-rig ge-nug
+ []
 
-] [289] [290] [291
+[285] [286
 
-] [292
+] [287] [288]
+Underfull \hbox (badness 1019) in paragraph at lines 2547--2548
+\T1/ppl/m/n/10.95 ,,Verda***t wir ha-ben nur Glück ge-habt!'' rief Thot und
+ []
 
-] [293]
-[294
+[289
 
-] [295] [296] [297] [298] [299] [300] [301] [302] [303] [304] [305]
-[306] [307] [308] [309]
-Underfull \hbox (badness 3240) in paragraph at lines 2703--2704
+] [290] [291] [292
+
+] [293] [294
+
+] [295] [296] [297
+
+] [298
+
+] [299] [300
+
+]
+[301] [302] [303] [304] [305] [306] [307] [308] [309] [310] [311] [312]
+[313] [314] [315]
+Underfull \hbox (badness 3240) in paragraph at lines 2766--2767
 []\T1/ppl/m/n/10.95 Amélie dach-te nach. -,Was hat Burk-hard für Ge-setz-te
  []
 
-[310] [311] [312] (./DieHorus.toc
+[316] [317] [318] (./DieHorus.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
- [313
+ [319
 
-] [314] [315])
+] [320] [321])
 \tf@toc=\write3
 \openout3 = `DieHorus.toc'.
 
 
 No file DieHorus.bbl.
-[316] (./DieHorus.aux) ) 
+[322] (./DieHorus.aux) ) 
 Here is how much of TeX's memory you used:
  10223 strings out of 494353
  171595 string characters out of 6170044
@@ -1698,10 +1718,10 @@ ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on DieHorus.pdf (316 pages, 1748864 bytes).
+Output written on DieHorus.pdf (322 pages, 1757940 bytes).
 PDF statistics:
- 1324 PDF objects out of 1440 (max. 8388607)
- 739 compressed objects within 8 object streams
+ 1343 PDF objects out of 1440 (max. 8388607)
+ 752 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
