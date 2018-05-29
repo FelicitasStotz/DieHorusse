@@ -78,14 +78,16 @@
 \contentsline {chapter}{28. Dezember, Tag der unschuldigen Kinder}{289}
 \contentsline {section}{1}{289}
 \contentsline {section}{2}{292}
-\contentsline {chapter}{5. Nacht}{293}
-\contentsline {part}{Sechste Stunde}{297}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{297}
-\contentsline {chapter}{6. Nacht}{299}
-\contentsline {chapter}{Reste}{301}
-\contentsline {section}{prolog}{301}
-\contentsline {section}{2.2.5}{305}
-\contentsline {section}{3.1.2}{306}
-\contentsline {section}{3.2.8}{312}
-\contentsline {section}{3.2.3}{312}
-\contentsline {section}{3.2.10}{313}
+\contentsline {section}{3}{295}
+\contentsline {section}{4}{295}
+\contentsline {chapter}{5. Nacht}{297}
+\contentsline {part}{Sechste Stunde}{301}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{301}
+\contentsline {chapter}{6. Nacht}{303}
+\contentsline {chapter}{Reste}{305}
+\contentsline {section}{prolog}{305}
+\contentsline {section}{2.2.5}{309}
+\contentsline {section}{3.1.2}{310}
+\contentsline {section}{3.2.8}{316}
+\contentsline {section}{3.2.3}{316}
+\contentsline {section}{3.2.10}{317}
