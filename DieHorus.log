@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.10)  29 MAY 2018 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.5.10)  30 MAY 2018 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1668,37 +1668,42 @@ Underfull \hbox (badness 1019) in paragraph at lines 2547--2548
 
 [289
 
-] [290] [291] [292] [293] [294] [295] [296
+] [290] [291] [292] [293] [294]
+Underfull \hbox (badness 1642) in paragraph at lines 2601--2602
+\T1/ppl/m/n/10.95 wie-der ein Tag an dem ihm die Au-gen zu-fal-len woll-
+ []
 
-] [297] [298
+[295] [296] [297] [298
 
-] [299] [300]
-[301
+] [299] [300
 
-] [302
+] [301] [302] [303
 
-] [303] [304
+] [304
 
-] [305] [306] [307] [308] [309] [310] [311] [312]
-[313] [314] [315] [316] [317] [318] [319]
-Underfull \hbox (badness 3240) in paragraph at lines 2798--2799
+] [305] [306
+
+]
+[307] [308] [309] [310] [311] [312] [313] [314] [315] [316] [317] [318]
+[319] [320] [321]
+Underfull \hbox (badness 3240) in paragraph at lines 2818--2819
 []\T1/ppl/m/n/10.95 Amélie dach-te nach. -,Was hat Burk-hard für Ge-setz-te
  []
 
-[320] [321] [322] (./DieHorus.toc
+[322] [323] [324] (./DieHorus.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
- [323
+ [325
 
-] [324] [325])
+] [326] [327])
 \tf@toc=\write3
 \openout3 = `DieHorus.toc'.
 
 
 No file DieHorus.bbl.
-[326] [327] (./DieHorus.aux) ) 
+[328] [329] (./DieHorus.aux) ) 
 Here is how much of TeX's memory you used:
  10223 strings out of 494353
  171595 string characters out of 6170044
@@ -1718,10 +1723,10 @@ ts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pala
 tino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on DieHorus.pdf (327 pages, 1765894 bytes).
+Output written on DieHorus.pdf (329 pages, 1769089 bytes).
 PDF statistics:
- 1360 PDF objects out of 1440 (max. 8388607)
- 764 compressed objects within 8 object streams
+ 1366 PDF objects out of 1440 (max. 8388607)
+ 768 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
