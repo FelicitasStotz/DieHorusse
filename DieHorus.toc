@@ -80,14 +80,15 @@
 \contentsline {section}{2}{292}
 \contentsline {section}{3}{295}
 \contentsline {section}{4}{297}
-\contentsline {chapter}{5. Nacht}{299}
-\contentsline {part}{Sechste Stunde}{303}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{303}
-\contentsline {chapter}{6. Nacht}{305}
-\contentsline {chapter}{Reste}{307}
-\contentsline {section}{prolog}{307}
-\contentsline {section}{2.2.5}{311}
-\contentsline {section}{3.1.2}{312}
-\contentsline {section}{3.2.8}{318}
-\contentsline {section}{3.2.3}{318}
-\contentsline {section}{3.2.10}{319}
+\contentsline {section}{5}{301}
+\contentsline {chapter}{5. Nacht}{303}
+\contentsline {part}{Sechste Stunde}{307}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{307}
+\contentsline {chapter}{6. Nacht}{309}
+\contentsline {chapter}{Reste}{311}
+\contentsline {section}{prolog}{311}
+\contentsline {section}{2.2.5}{315}
+\contentsline {section}{3.1.2}{316}
+\contentsline {section}{3.2.8}{322}
+\contentsline {section}{3.2.3}{322}
+\contentsline {section}{3.2.10}{323}
