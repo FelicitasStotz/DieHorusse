@@ -1,5 +1,5 @@
 \select@language {ngerman}
-\contentsline {chapter}{Prolog: Eine Nacht im Januar}{5}
+\contentsline {chapter}{Prolog: 5. Dezember, Nikolausabend (Prolog)}{5}
 \contentsline {section}{23. Dezember}{14}
 \contentsline {part}{Erste Stunde}{19}
 \contentsline {chapter}{24.Dezember; Adam und Evatag}{19}
@@ -82,14 +82,24 @@
 \contentsline {section}{4}{297}
 \contentsline {section}{5}{301}
 \contentsline {section}{6}{304}
-\contentsline {chapter}{5. Nacht}{305}
-\contentsline {part}{Sechste Stunde}{309}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{309}
-\contentsline {chapter}{6. Nacht}{311}
-\contentsline {chapter}{Reste}{313}
-\contentsline {section}{prolog}{313}
-\contentsline {section}{2.2.5}{317}
-\contentsline {section}{3.1.2}{318}
-\contentsline {section}{3.2.8}{324}
-\contentsline {section}{3.2.3}{324}
-\contentsline {section}{3.2.10}{325}
+\contentsline {section}{7}{307}
+\contentsline {chapter}{5. Nacht}{309}
+\contentsline {section}{1}{310}
+\contentsline {section}{2}{310}
+\contentsline {section}{3}{310}
+\contentsline {section}{4}{310}
+\contentsline {section}{5}{310}
+\contentsline {section}{6}{310}
+\contentsline {section}{7}{310}
+\contentsline {section}{8}{310}
+\contentsline {section}{9}{310}
+\contentsline {part}{Sechste Stunde}{313}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{313}
+\contentsline {chapter}{6. Nacht}{315}
+\contentsline {chapter}{Reste}{317}
+\contentsline {section}{prolog}{317}
+\contentsline {section}{2.2.5}{321}
+\contentsline {section}{3.1.2}{322}
+\contentsline {section}{3.2.8}{328}
+\contentsline {section}{3.2.3}{328}
+\contentsline {section}{3.2.10}{329}
