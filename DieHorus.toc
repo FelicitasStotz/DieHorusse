@@ -89,17 +89,17 @@
 \contentsline {section}{3}{312}
 \contentsline {section}{4}{315}
 \contentsline {section}{5}{317}
-\contentsline {section}{6}{317}
-\contentsline {section}{7}{317}
-\contentsline {section}{8}{317}
-\contentsline {section}{9}{317}
-\contentsline {part}{Sechste Stunde}{321}
-\contentsline {chapter}{29. Dezember, Jonathanstag}{321}
-\contentsline {chapter}{6. Nacht}{323}
-\contentsline {chapter}{Reste}{325}
-\contentsline {section}{prolog}{325}
-\contentsline {section}{2.2.5}{329}
-\contentsline {section}{3.1.2}{330}
-\contentsline {section}{3.2.8}{336}
-\contentsline {section}{3.2.3}{336}
-\contentsline {section}{3.2.10}{337}
+\contentsline {section}{6}{321}
+\contentsline {section}{7}{322}
+\contentsline {section}{8}{322}
+\contentsline {section}{9}{322}
+\contentsline {part}{Sechste Stunde}{325}
+\contentsline {chapter}{29. Dezember, Jonathanstag}{325}
+\contentsline {chapter}{6. Nacht}{327}
+\contentsline {chapter}{Reste}{329}
+\contentsline {section}{prolog}{329}
+\contentsline {section}{2.2.5}{333}
+\contentsline {section}{3.1.2}{334}
+\contentsline {section}{3.2.8}{340}
+\contentsline {section}{3.2.3}{340}
+\contentsline {section}{3.2.10}{341}
