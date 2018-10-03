@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.30)  21 AUG 2018 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.30)  3 OCT 2018 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1697,165 +1697,165 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] [336] [337
 
-] [338] [339] [340] [341] [342
+] [338] [339] [340] [341] [342] [343] [344
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [343]
-[344] [345
+ [345]
+[346] [347
 
-] [346]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [347
-
-]
-Overfull \vbox (107.34488pt too high) has occurred while \output is active []
-
-
-[348]
+] [348]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [349
 
 ]
-[350] [351
-
-] [352]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [353
-
-]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[354]
+[350]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [351
+
+]
+[352] [353
+
+] [354]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [355
 
 ]
-[356] [357
-
-] [358]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [359
-
-]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[360]
+[356]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [357
+
+]
+[358] [359
+
+] [360]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [361
 
 ]
-[362] [363
-
-] [364]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [365
-
-]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[366]
+[362]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [363
+
+]
+[364] [365
+
+] [366]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [367
 
 ]
-[368] [369
-
-] [370]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [371
-
-]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[372]
+[368]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [369
+
+]
+[370] [371
+
+] [372]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [373
 
 ]
-[374] [375
-
-] [376]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [377
-
-]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[378]
+[374]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [375
+
+]
+[376] [377
+
+] [378]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [379
 
 ]
-[380] [381
-
-] [382]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [383
-
-]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[384]
+[380]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [381
+
+]
+[382] [383
+
+] [384]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [385
 
 ]
-[386] [387
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
-] [388]
+
+[386]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [389
+ [387
+
+]
+[388] [389
+
+] [390]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [391
 
 ]
 Overfull \vbox (107.34488pt too high) has occurred while \output is active []
 
 
-[390] [391
+[392] [393
 
-] [392] [393] [394] [395] [396] [397] [398] [399] [400] [401]
-[402] [403] [404] [405]
-Underfull \hbox (badness 3240) in paragraph at lines 4089--4090
+] [394] [395] [396] [397] [398] [399] [400] [401] [402] [403]
+[404] [405] [406] [407]
+Underfull \hbox (badness 3240) in paragraph at lines 4136--4137
 []\T1/ppl/m/n/10.95 Amélie dach-te nach. -,Was hat Burk-hard für Ge-setz-te
  []
 
-[406] [407] [408] (./DieHorus.toc
+[408] [409] [410] (./DieHorus.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
- [409
+ [411
 
-] [410] [411] [412] [413] [414] [415]
-[416] [417] [418] [419] [420])
+] [412] [413] [414] [415] [416] [417]
+[418] [419] [420] [421] [422])
 \tf@toc=\write3
 \openout3 = `DieHorus.toc'.
 
 
 No file DieHorus.bbl.
-[421] (./DieHorus.aux) ) 
+[423] (./DieHorus.aux) ) 
 Here is how much of TeX's memory you used:
  10223 strings out of 494353
  171595 string characters out of 6170044
@@ -1875,10 +1875,10 @@ ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on DieHorus.pdf (421 pages, 1858861 bytes).
+Output written on DieHorus.pdf (423 pages, 1862997 bytes).
 PDF statistics:
- 1670 PDF objects out of 1728 (max. 8388607)
- 970 compressed objects within 10 object streams
+ 1676 PDF objects out of 1728 (max. 8388607)
+ 974 compressed objects within 10 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
