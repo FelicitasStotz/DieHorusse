@@ -1,5 +1,5 @@
 \select@language {ngerman}
-\contentsline {chapter}{Prolog: 5. Dezember, Nikolausabend (Prolog)}{5}
+\contentsline {chapter}{Prolog: 2 . Februar (Prolog)}{5}
 \contentsline {section}{23. Dezember}{14}
 \contentsline {part}{Erste Stunde}{19}
 \contentsline {chapter}{24.Dezember; Adam und Evatag}{19}

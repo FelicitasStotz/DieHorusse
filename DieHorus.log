@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.13)  24 OCT 2018 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.13)  6 DEC 2018 20:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1697,16 +1697,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] [336] [337
 
-] [338] [339] [340] [341] [342]
+] [338] [339] [340] [341] [342] [343]
 Underfull \hbox (badness 3612) in paragraph at lines 3135--3136
 []\T1/ppl/m/n/10.95 Mit ei-nem Schlag wur-de ihr die Stil-le be-wusst. Und
  []
 
-[343] [344] [345] [346] [347]
-Underfull \vbox (badness 5374) has occurred while \output is active []
-
- [348]
-[349] [350
+[344] [345] [346] [347] [348] [349] [350
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1884,7 +1880,7 @@ ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
 plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on DieHorus.pdf (429 pages, 1871222 bytes).
+Output written on DieHorus.pdf (429 pages, 1871336 bytes).
 PDF statistics:
  1695 PDF objects out of 1728 (max. 8388607)
  987 compressed objects within 10 object streams
