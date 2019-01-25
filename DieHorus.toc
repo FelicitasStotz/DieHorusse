@@ -66,7 +66,7 @@
 \contentsline {section}{3}{258}
 \contentsline {section}{4}{259}
 \contentsline {section}{5}{261}
-\contentsline {section}{6}{268}
+\contentsline {section}{6}{269}
 \contentsline {section}{7}{270}
 \contentsline {section}{8}{273}
 \contentsline {section}{9}{275}
@@ -105,38 +105,23 @@
 \contentsline {section}{6}{347}
 \contentsline {section}{7}{349}
 \contentsline {section}{8}{352}
-\contentsline {chapter}{6. Nacht}{355}
-\contentsline {section}{1}{356}
-\contentsline {section}{2}{356}
-\contentsline {section}{3}{356}
-\contentsline {section}{4}{356}
-\contentsline {section}{5}{356}
-\contentsline {section}{6}{356}
-\contentsline {section}{7}{356}
-\contentsline {section}{8}{356}
-\contentsline {section}{9}{356}
-\contentsline {section}{10}{356}
-\contentsline {section}{11}{356}
-\contentsline {section}{12}{356}
-\contentsline {section}{13}{356}
-\contentsline {section}{14}{356}
-\contentsline {part}{Sechste Stunde}{359}
-\contentsline {chapter}{30. Dezember, }{360}
-\contentsline {section}{1}{360}
-\contentsline {section}{2}{360}
-\contentsline {section}{3}{360}
-\contentsline {section}{4}{360}
-\contentsline {section}{5}{360}
-\contentsline {section}{6}{360}
-\contentsline {section}{7}{360}
-\contentsline {section}{8}{360}
-\contentsline {section}{9}{360}
-\contentsline {section}{10}{360}
-\contentsline {section}{11}{360}
-\contentsline {section}{12}{360}
-\contentsline {section}{13}{360}
-\contentsline {section}{14}{360}
-\contentsline {chapter}{7. Nacht}{361}
+\contentsline {chapter}{6. Nacht}{357}
+\contentsline {section}{1}{357}
+\contentsline {section}{2}{358}
+\contentsline {section}{3}{358}
+\contentsline {section}{4}{358}
+\contentsline {section}{5}{358}
+\contentsline {section}{6}{358}
+\contentsline {section}{7}{358}
+\contentsline {section}{8}{358}
+\contentsline {section}{9}{358}
+\contentsline {section}{10}{358}
+\contentsline {section}{11}{358}
+\contentsline {section}{12}{358}
+\contentsline {section}{13}{358}
+\contentsline {section}{14}{358}
+\contentsline {part}{Sechste Stunde}{361}
+\contentsline {chapter}{30. Dezember, }{362}
 \contentsline {section}{1}{362}
 \contentsline {section}{2}{362}
 \contentsline {section}{3}{362}
@@ -151,23 +136,23 @@
 \contentsline {section}{12}{362}
 \contentsline {section}{13}{362}
 \contentsline {section}{14}{362}
-\contentsline {part}{Sechste Stunde}{365}
-\contentsline {chapter}{31. Dezember, }{366}
-\contentsline {section}{1}{366}
-\contentsline {section}{2}{366}
-\contentsline {section}{3}{366}
-\contentsline {section}{4}{366}
-\contentsline {section}{5}{366}
-\contentsline {section}{6}{366}
-\contentsline {section}{7}{366}
-\contentsline {section}{8}{366}
-\contentsline {section}{9}{366}
-\contentsline {section}{10}{366}
-\contentsline {section}{11}{366}
-\contentsline {section}{12}{366}
-\contentsline {section}{13}{366}
-\contentsline {section}{14}{366}
-\contentsline {chapter}{8. Nacht}{367}
+\contentsline {chapter}{7. Nacht}{363}
+\contentsline {section}{1}{364}
+\contentsline {section}{2}{364}
+\contentsline {section}{3}{364}
+\contentsline {section}{4}{364}
+\contentsline {section}{5}{364}
+\contentsline {section}{6}{364}
+\contentsline {section}{7}{364}
+\contentsline {section}{8}{364}
+\contentsline {section}{9}{364}
+\contentsline {section}{10}{364}
+\contentsline {section}{11}{364}
+\contentsline {section}{12}{364}
+\contentsline {section}{13}{364}
+\contentsline {section}{14}{364}
+\contentsline {part}{Sechste Stunde}{367}
+\contentsline {chapter}{31. Dezember, }{368}
 \contentsline {section}{1}{368}
 \contentsline {section}{2}{368}
 \contentsline {section}{3}{368}
@@ -182,23 +167,23 @@
 \contentsline {section}{12}{368}
 \contentsline {section}{13}{368}
 \contentsline {section}{14}{368}
-\contentsline {part}{Sechste Stunde}{371}
-\contentsline {chapter}{1. Januar, }{372}
-\contentsline {section}{1}{372}
-\contentsline {section}{2}{372}
-\contentsline {section}{3}{372}
-\contentsline {section}{4}{372}
-\contentsline {section}{5}{372}
-\contentsline {section}{6}{372}
-\contentsline {section}{7}{372}
-\contentsline {section}{8}{372}
-\contentsline {section}{9}{372}
-\contentsline {section}{10}{372}
-\contentsline {section}{11}{372}
-\contentsline {section}{12}{372}
-\contentsline {section}{13}{372}
-\contentsline {section}{14}{372}
-\contentsline {chapter}{9. Nacht}{373}
+\contentsline {chapter}{8. Nacht}{369}
+\contentsline {section}{1}{370}
+\contentsline {section}{2}{370}
+\contentsline {section}{3}{370}
+\contentsline {section}{4}{370}
+\contentsline {section}{5}{370}
+\contentsline {section}{6}{370}
+\contentsline {section}{7}{370}
+\contentsline {section}{8}{370}
+\contentsline {section}{9}{370}
+\contentsline {section}{10}{370}
+\contentsline {section}{11}{370}
+\contentsline {section}{12}{370}
+\contentsline {section}{13}{370}
+\contentsline {section}{14}{370}
+\contentsline {part}{Sechste Stunde}{373}
+\contentsline {chapter}{1. Januar, }{374}
 \contentsline {section}{1}{374}
 \contentsline {section}{2}{374}
 \contentsline {section}{3}{374}
@@ -213,23 +198,23 @@
 \contentsline {section}{12}{374}
 \contentsline {section}{13}{374}
 \contentsline {section}{14}{374}
-\contentsline {part}{Sechste Stunde}{377}
-\contentsline {chapter}{2. Januar, }{378}
-\contentsline {section}{1}{378}
-\contentsline {section}{2}{378}
-\contentsline {section}{3}{378}
-\contentsline {section}{4}{378}
-\contentsline {section}{5}{378}
-\contentsline {section}{6}{378}
-\contentsline {section}{7}{378}
-\contentsline {section}{8}{378}
-\contentsline {section}{9}{378}
-\contentsline {section}{10}{378}
-\contentsline {section}{11}{378}
-\contentsline {section}{12}{378}
-\contentsline {section}{13}{378}
-\contentsline {section}{14}{378}
-\contentsline {chapter}{10. Nacht}{379}
+\contentsline {chapter}{9. Nacht}{375}
+\contentsline {section}{1}{376}
+\contentsline {section}{2}{376}
+\contentsline {section}{3}{376}
+\contentsline {section}{4}{376}
+\contentsline {section}{5}{376}
+\contentsline {section}{6}{376}
+\contentsline {section}{7}{376}
+\contentsline {section}{8}{376}
+\contentsline {section}{9}{376}
+\contentsline {section}{10}{376}
+\contentsline {section}{11}{376}
+\contentsline {section}{12}{376}
+\contentsline {section}{13}{376}
+\contentsline {section}{14}{376}
+\contentsline {part}{Sechste Stunde}{379}
+\contentsline {chapter}{2. Januar, }{380}
 \contentsline {section}{1}{380}
 \contentsline {section}{2}{380}
 \contentsline {section}{3}{380}
@@ -244,23 +229,23 @@
 \contentsline {section}{12}{380}
 \contentsline {section}{13}{380}
 \contentsline {section}{14}{380}
-\contentsline {part}{Sechste Stunde}{383}
-\contentsline {chapter}{3. Januar, }{384}
-\contentsline {section}{1}{384}
-\contentsline {section}{2}{384}
-\contentsline {section}{3}{384}
-\contentsline {section}{4}{384}
-\contentsline {section}{5}{384}
-\contentsline {section}{6}{384}
-\contentsline {section}{7}{384}
-\contentsline {section}{8}{384}
-\contentsline {section}{9}{384}
-\contentsline {section}{10}{384}
-\contentsline {section}{11}{384}
-\contentsline {section}{12}{384}
-\contentsline {section}{13}{384}
-\contentsline {section}{14}{384}
-\contentsline {chapter}{7. Nacht}{385}
+\contentsline {chapter}{10. Nacht}{381}
+\contentsline {section}{1}{382}
+\contentsline {section}{2}{382}
+\contentsline {section}{3}{382}
+\contentsline {section}{4}{382}
+\contentsline {section}{5}{382}
+\contentsline {section}{6}{382}
+\contentsline {section}{7}{382}
+\contentsline {section}{8}{382}
+\contentsline {section}{9}{382}
+\contentsline {section}{10}{382}
+\contentsline {section}{11}{382}
+\contentsline {section}{12}{382}
+\contentsline {section}{13}{382}
+\contentsline {section}{14}{382}
+\contentsline {part}{Sechste Stunde}{385}
+\contentsline {chapter}{3. Januar, }{386}
 \contentsline {section}{1}{386}
 \contentsline {section}{2}{386}
 \contentsline {section}{3}{386}
@@ -275,23 +260,23 @@
 \contentsline {section}{12}{386}
 \contentsline {section}{13}{386}
 \contentsline {section}{14}{386}
-\contentsline {part}{Sechste Stunde}{389}
-\contentsline {chapter}{4. Januar, }{390}
-\contentsline {section}{1}{390}
-\contentsline {section}{2}{390}
-\contentsline {section}{3}{390}
-\contentsline {section}{4}{390}
-\contentsline {section}{5}{390}
-\contentsline {section}{6}{390}
-\contentsline {section}{7}{390}
-\contentsline {section}{8}{390}
-\contentsline {section}{9}{390}
-\contentsline {section}{10}{390}
-\contentsline {section}{11}{390}
-\contentsline {section}{12}{390}
-\contentsline {section}{13}{390}
-\contentsline {section}{14}{390}
-\contentsline {chapter}{12. Nacht}{391}
+\contentsline {chapter}{7. Nacht}{387}
+\contentsline {section}{1}{388}
+\contentsline {section}{2}{388}
+\contentsline {section}{3}{388}
+\contentsline {section}{4}{388}
+\contentsline {section}{5}{388}
+\contentsline {section}{6}{388}
+\contentsline {section}{7}{388}
+\contentsline {section}{8}{388}
+\contentsline {section}{9}{388}
+\contentsline {section}{10}{388}
+\contentsline {section}{11}{388}
+\contentsline {section}{12}{388}
+\contentsline {section}{13}{388}
+\contentsline {section}{14}{388}
+\contentsline {part}{Sechste Stunde}{391}
+\contentsline {chapter}{4. Januar, }{392}
 \contentsline {section}{1}{392}
 \contentsline {section}{2}{392}
 \contentsline {section}{3}{392}
@@ -306,23 +291,23 @@
 \contentsline {section}{12}{392}
 \contentsline {section}{13}{392}
 \contentsline {section}{14}{392}
-\contentsline {part}{Sechste Stunde}{395}
-\contentsline {chapter}{5. Januar, }{396}
-\contentsline {section}{1}{396}
-\contentsline {section}{2}{396}
-\contentsline {section}{3}{396}
-\contentsline {section}{4}{396}
-\contentsline {section}{5}{396}
-\contentsline {section}{6}{396}
-\contentsline {section}{7}{396}
-\contentsline {section}{8}{396}
-\contentsline {section}{9}{396}
-\contentsline {section}{10}{396}
-\contentsline {section}{11}{396}
-\contentsline {section}{12}{396}
-\contentsline {section}{13}{396}
-\contentsline {section}{14}{396}
-\contentsline {chapter}{13. Nacht}{397}
+\contentsline {chapter}{12. Nacht}{393}
+\contentsline {section}{1}{394}
+\contentsline {section}{2}{394}
+\contentsline {section}{3}{394}
+\contentsline {section}{4}{394}
+\contentsline {section}{5}{394}
+\contentsline {section}{6}{394}
+\contentsline {section}{7}{394}
+\contentsline {section}{8}{394}
+\contentsline {section}{9}{394}
+\contentsline {section}{10}{394}
+\contentsline {section}{11}{394}
+\contentsline {section}{12}{394}
+\contentsline {section}{13}{394}
+\contentsline {section}{14}{394}
+\contentsline {part}{Sechste Stunde}{397}
+\contentsline {chapter}{5. Januar, }{398}
 \contentsline {section}{1}{398}
 \contentsline {section}{2}{398}
 \contentsline {section}{3}{398}
@@ -337,26 +322,41 @@
 \contentsline {section}{12}{398}
 \contentsline {section}{13}{398}
 \contentsline {section}{14}{398}
-\contentsline {part}{Sechste Stunde}{401}
-\contentsline {chapter}{6. Januar, }{402}
-\contentsline {section}{1}{402}
-\contentsline {section}{2}{402}
-\contentsline {section}{3}{402}
-\contentsline {section}{4}{402}
-\contentsline {section}{5}{402}
-\contentsline {section}{6}{402}
-\contentsline {section}{7}{402}
-\contentsline {section}{8}{402}
-\contentsline {section}{9}{402}
-\contentsline {section}{10}{402}
-\contentsline {section}{11}{402}
-\contentsline {section}{12}{402}
-\contentsline {section}{13}{402}
-\contentsline {section}{14}{402}
-\contentsline {chapter}{Reste}{403}
-\contentsline {section}{prolog}{403}
-\contentsline {section}{2.2.5}{407}
-\contentsline {section}{3.1.2}{408}
-\contentsline {section}{3.2.8}{414}
-\contentsline {section}{3.2.3}{414}
-\contentsline {section}{3.2.10}{415}
+\contentsline {chapter}{13. Nacht}{399}
+\contentsline {section}{1}{400}
+\contentsline {section}{2}{400}
+\contentsline {section}{3}{400}
+\contentsline {section}{4}{400}
+\contentsline {section}{5}{400}
+\contentsline {section}{6}{400}
+\contentsline {section}{7}{400}
+\contentsline {section}{8}{400}
+\contentsline {section}{9}{400}
+\contentsline {section}{10}{400}
+\contentsline {section}{11}{400}
+\contentsline {section}{12}{400}
+\contentsline {section}{13}{400}
+\contentsline {section}{14}{400}
+\contentsline {part}{Sechste Stunde}{403}
+\contentsline {chapter}{6. Januar, }{404}
+\contentsline {section}{1}{404}
+\contentsline {section}{2}{404}
+\contentsline {section}{3}{404}
+\contentsline {section}{4}{404}
+\contentsline {section}{5}{404}
+\contentsline {section}{6}{404}
+\contentsline {section}{7}{404}
+\contentsline {section}{8}{404}
+\contentsline {section}{9}{404}
+\contentsline {section}{10}{404}
+\contentsline {section}{11}{404}
+\contentsline {section}{12}{404}
+\contentsline {section}{13}{404}
+\contentsline {section}{14}{404}
+\contentsline {chapter}{Reste}{405}
+\contentsline {section}{prolog}{405}
+\contentsline {section}{2.2.5}{409}
+\contentsline {section}{3.1.2}{410}
+\contentsline {section}{3.2.8}{416}
+\contentsline {section}{3.2.3}{416}
+\contentsline {section}{3.2.10}{417}
