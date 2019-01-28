@@ -1,6 +1,6 @@
-\select@language {ngerman}
 \contentsline {chapter}{Prolog: 2 . Februar (Prolog)}{5}
 \contentsline {section}{23. Dezember}{14}
+\select@language {ngerman}
 \contentsline {part}{Erste Stunde}{19}
 \contentsline {chapter}{24.Dezember; Adam und Evatag}{19}
 \contentsline {section}{2}{25}
