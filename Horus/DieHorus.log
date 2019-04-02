@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.12.7)  31 MAR 2019 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.12.7)  2 APR 2019 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -767,12 +767,8 @@ Underfull \vbox (badness 2418) has occurred while \output is active []
 [351] [352] [353] [354] [355] [356] [357] [358
 
 ] [359] [360] [361] [362]
-[363] [364] [365] [366] [367]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [368]
-[369] [370] [371] [372] [373] [374])
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[363] [364] [365] [366] [367] [368] [369] [370] [371] [372] [373] [374])
+Underfull \vbox (badness 1527) has occurred while \output is active []
 
  [375]
 [376] (./DieHorus.aux (./part0.aux) (./part1.aux) (./part2.aux) (./part3.aux)
@@ -795,7 +791,7 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/felicitas/.texlive201
 6/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/felicitas/.texli
 ve2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/felicitas/.
 texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk>
-Output written on DieHorus.pdf (91 pages, 231763 bytes).
+Output written on DieHorus.pdf (91 pages, 232248 bytes).
 PDF statistics:
  581 PDF objects out of 1000 (max. 8388607)
  231 compressed objects within 3 object streams
