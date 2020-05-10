@@ -1,379 +1,73 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.12.7)  28 DEC 2019 21:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.4)  10 MAY 2020 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **DieHorus.tex
 (./DieHorus.tex
-LaTeX2e <2017/01/01> patch level 3
-Babel <3.9r> and hyphenation patterns for 12 language(s) loaded.
+LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2017/02/22 v2.0g Standard LaTeX file
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2016/04/23 3.9r The Babel package
+Package: babel 2018/11/13 3.27 The Babel package
 
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
+phy)
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
+aphy)
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count88
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count89
 \U@D=\dimen103
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
 )
-Package babel Info: Making " an active character on input line 125.
+Package babel Info: Making " an active character on input line 121.
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
-Now handling font encoding OML ...
-... no UTF-8 mapping file for font encoding OML
-Now handling font encoding T1 ...
-... processing UTF-8 mapping file for font encoding T1
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C0 (decimal 192)
-   defining Unicode char U+00C1 (decimal 193)
-   defining Unicode char U+00C2 (decimal 194)
-   defining Unicode char U+00C3 (decimal 195)
-   defining Unicode char U+00C4 (decimal 196)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00C7 (decimal 199)
-   defining Unicode char U+00C8 (decimal 200)
-   defining Unicode char U+00C9 (decimal 201)
-   defining Unicode char U+00CA (decimal 202)
-   defining Unicode char U+00CB (decimal 203)
-   defining Unicode char U+00CC (decimal 204)
-   defining Unicode char U+00CD (decimal 205)
-   defining Unicode char U+00CE (decimal 206)
-   defining Unicode char U+00CF (decimal 207)
-   defining Unicode char U+00D0 (decimal 208)
-   defining Unicode char U+00D1 (decimal 209)
-   defining Unicode char U+00D2 (decimal 210)
-   defining Unicode char U+00D3 (decimal 211)
-   defining Unicode char U+00D4 (decimal 212)
-   defining Unicode char U+00D5 (decimal 213)
-   defining Unicode char U+00D6 (decimal 214)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00D9 (decimal 217)
-   defining Unicode char U+00DA (decimal 218)
-   defining Unicode char U+00DB (decimal 219)
-   defining Unicode char U+00DC (decimal 220)
-   defining Unicode char U+00DD (decimal 221)
-   defining Unicode char U+00DE (decimal 222)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E0 (decimal 224)
-   defining Unicode char U+00E1 (decimal 225)
-   defining Unicode char U+00E2 (decimal 226)
-   defining Unicode char U+00E3 (decimal 227)
-   defining Unicode char U+00E4 (decimal 228)
-   defining Unicode char U+00E5 (decimal 229)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00E7 (decimal 231)
-   defining Unicode char U+00E8 (decimal 232)
-   defining Unicode char U+00E9 (decimal 233)
-   defining Unicode char U+00EA (decimal 234)
-   defining Unicode char U+00EB (decimal 235)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F0 (decimal 240)
-   defining Unicode char U+00F1 (decimal 241)
-   defining Unicode char U+00F2 (decimal 242)
-   defining Unicode char U+00F3 (decimal 243)
-   defining Unicode char U+00F4 (decimal 244)
-   defining Unicode char U+00F5 (decimal 245)
-   defining Unicode char U+00F6 (decimal 246)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+00F9 (decimal 249)
-   defining Unicode char U+00FA (decimal 250)
-   defining Unicode char U+00FB (decimal 251)
-   defining Unicode char U+00FC (decimal 252)
-   defining Unicode char U+00FD (decimal 253)
-   defining Unicode char U+00FE (decimal 254)
-   defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0100 (decimal 256)
-   defining Unicode char U+0101 (decimal 257)
-   defining Unicode char U+0102 (decimal 258)
-   defining Unicode char U+0103 (decimal 259)
-   defining Unicode char U+0104 (decimal 260)
-   defining Unicode char U+0105 (decimal 261)
-   defining Unicode char U+0106 (decimal 262)
-   defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+0108 (decimal 264)
-   defining Unicode char U+0109 (decimal 265)
-   defining Unicode char U+010A (decimal 266)
-   defining Unicode char U+010B (decimal 267)
-   defining Unicode char U+010C (decimal 268)
-   defining Unicode char U+010D (decimal 269)
-   defining Unicode char U+010E (decimal 270)
-   defining Unicode char U+010F (decimal 271)
-   defining Unicode char U+0110 (decimal 272)
-   defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0112 (decimal 274)
-   defining Unicode char U+0113 (decimal 275)
-   defining Unicode char U+0114 (decimal 276)
-   defining Unicode char U+0115 (decimal 277)
-   defining Unicode char U+0116 (decimal 278)
-   defining Unicode char U+0117 (decimal 279)
-   defining Unicode char U+0118 (decimal 280)
-   defining Unicode char U+0119 (decimal 281)
-   defining Unicode char U+011A (decimal 282)
-   defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011C (decimal 284)
-   defining Unicode char U+011D (decimal 285)
-   defining Unicode char U+011E (decimal 286)
-   defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0120 (decimal 288)
-   defining Unicode char U+0121 (decimal 289)
-   defining Unicode char U+0122 (decimal 290)
-   defining Unicode char U+0123 (decimal 291)
-   defining Unicode char U+0124 (decimal 292)
-   defining Unicode char U+0125 (decimal 293)
-   defining Unicode char U+0128 (decimal 296)
-   defining Unicode char U+0129 (decimal 297)
-   defining Unicode char U+012A (decimal 298)
-   defining Unicode char U+012B (decimal 299)
-   defining Unicode char U+012C (decimal 300)
-   defining Unicode char U+012D (decimal 301)
-   defining Unicode char U+012E (decimal 302)
-   defining Unicode char U+012F (decimal 303)
-   defining Unicode char U+0130 (decimal 304)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0132 (decimal 306)
-   defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0134 (decimal 308)
-   defining Unicode char U+0135 (decimal 309)
-   defining Unicode char U+0136 (decimal 310)
-   defining Unicode char U+0137 (decimal 311)
-   defining Unicode char U+0139 (decimal 313)
-   defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013B (decimal 315)
-   defining Unicode char U+013C (decimal 316)
-   defining Unicode char U+013D (decimal 317)
-   defining Unicode char U+013E (decimal 318)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0143 (decimal 323)
-   defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0145 (decimal 325)
-   defining Unicode char U+0146 (decimal 326)
-   defining Unicode char U+0147 (decimal 327)
-   defining Unicode char U+0148 (decimal 328)
-   defining Unicode char U+014A (decimal 330)
-   defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+014C (decimal 332)
-   defining Unicode char U+014D (decimal 333)
-   defining Unicode char U+014E (decimal 334)
-   defining Unicode char U+014F (decimal 335)
-   defining Unicode char U+0150 (decimal 336)
-   defining Unicode char U+0151 (decimal 337)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0154 (decimal 340)
-   defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0156 (decimal 342)
-   defining Unicode char U+0157 (decimal 343)
-   defining Unicode char U+0158 (decimal 344)
-   defining Unicode char U+0159 (decimal 345)
-   defining Unicode char U+015A (decimal 346)
-   defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015C (decimal 348)
-   defining Unicode char U+015D (decimal 349)
-   defining Unicode char U+015E (decimal 350)
-   defining Unicode char U+015F (decimal 351)
-   defining Unicode char U+0160 (decimal 352)
-   defining Unicode char U+0161 (decimal 353)
-   defining Unicode char U+0162 (decimal 354)
-   defining Unicode char U+0163 (decimal 355)
-   defining Unicode char U+0164 (decimal 356)
-   defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+0168 (decimal 360)
-   defining Unicode char U+0169 (decimal 361)
-   defining Unicode char U+016A (decimal 362)
-   defining Unicode char U+016B (decimal 363)
-   defining Unicode char U+016C (decimal 364)
-   defining Unicode char U+016D (decimal 365)
-   defining Unicode char U+016E (decimal 366)
-   defining Unicode char U+016F (decimal 367)
-   defining Unicode char U+0170 (decimal 368)
-   defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0172 (decimal 370)
-   defining Unicode char U+0173 (decimal 371)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0178 (decimal 376)
-   defining Unicode char U+0179 (decimal 377)
-   defining Unicode char U+017A (decimal 378)
-   defining Unicode char U+017B (decimal 379)
-   defining Unicode char U+017C (decimal 380)
-   defining Unicode char U+017D (decimal 381)
-   defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+01CD (decimal 461)
-   defining Unicode char U+01CE (decimal 462)
-   defining Unicode char U+01CF (decimal 463)
-   defining Unicode char U+01D0 (decimal 464)
-   defining Unicode char U+01D1 (decimal 465)
-   defining Unicode char U+01D2 (decimal 466)
-   defining Unicode char U+01D3 (decimal 467)
-   defining Unicode char U+01D4 (decimal 468)
-   defining Unicode char U+01E2 (decimal 482)
-   defining Unicode char U+01E3 (decimal 483)
-   defining Unicode char U+01E6 (decimal 486)
-   defining Unicode char U+01E7 (decimal 487)
-   defining Unicode char U+01E8 (decimal 488)
-   defining Unicode char U+01E9 (decimal 489)
-   defining Unicode char U+01EA (decimal 490)
-   defining Unicode char U+01EB (decimal 491)
-   defining Unicode char U+01F0 (decimal 496)
-   defining Unicode char U+01F4 (decimal 500)
-   defining Unicode char U+01F5 (decimal 501)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0232 (decimal 562)
-   defining Unicode char U+0233 (decimal 563)
-   defining Unicode char U+1E02 (decimal 7682)
-   defining Unicode char U+1E03 (decimal 7683)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2010 (decimal 8208)
-   defining Unicode char U+2011 (decimal 8209)
-   defining Unicode char U+2012 (decimal 8210)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2015 (decimal 8213)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201A (decimal 8218)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+1E20 (decimal 7712)
-   defining Unicode char U+1E21 (decimal 7713)
 )
-Now handling font encoding OT1 ...
-... processing UTF-8 mapping file for font encoding OT1
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00B8 (decimal 184)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-)
-Now handling font encoding OMS ...
-... processing UTF-8 mapping file for font encoding OMS
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-)
-Now handling font encoding OMX ...
-... no UTF-8 mapping file for font encoding OMX
-Now handling font encoding U ...
-... no UTF-8 mapping file for font encoding U
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+02C6 (decimal 710)
-   defining Unicode char U+02DC (decimal 732)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2026 (decimal 8230)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2423 (decimal 9251)
-))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -384,24 +78,16 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count89
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -410,9 +96,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count90
-\Gm@cntv=\count91
-\c@Gm@tempcnt=\count92
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
 \Gm@bindingoffset=\dimen106
 \Gm@wd@mp=\dimen107
 \Gm@odd@mp=\dimen108
@@ -424,8 +110,16 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
-Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+Package: pstricks 2018/12/21 v0.69 LaTeX wrapper for `PSTricks' (RN,HV)
 
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -443,7 +137,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 
@@ -455,20 +148,21 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
-\XKV@depth=\count93
+\XKV@depth=\count94
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count94
-\pstFP@xia=\count95
-\pstFP@xib=\count96
-\pstFP@xfa=\count97
-\pstFP@xfb=\count98
-\pstFP@rega=\count99
-\pstFP@regb=\count100
-\pstFP@regs=\count101
-\pstFP@times=\count102
+\pstFP@xs=\count95
+\pstFP@xia=\count96
+\pstFP@xib=\count97
+\pstFP@xfa=\count98
+\pstFP@xfb=\count99
+\pstFP@rega=\count100
+\pstFP@regb=\count101
+\pstFP@regs=\count102
+\pstFP@times=\count103
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks20
@@ -484,6 +178,7 @@ ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 ex
 \pgfkeys@tmptoks=\toks23
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Loading pgffor.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
@@ -495,17 +190,17 @@ ex
 \pgf@ya=\dimen121
 \pgf@yb=\dimen122
 \pgf@yc=\dimen123
-\c@pgf@counta=\count103
-\c@pgf@countb=\count104
-\c@pgf@countc=\count105
-\c@pgf@countd=\count106
-\pgfutil@tempcnta=\count107
-\pgfutil@tempcntb=\count108
+\c@pgf@counta=\count104
+\c@pgf@countb=\count105
+\c@pgf@countc=\count106
+\c@pgf@countd=\count107
+\pgfutil@tempcnta=\count108
+\pgfutil@tempcntb=\count109
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen124
-\pgfmath@count=\count109
-\pgfmath@box=\box26
+\pgfmath@count=\count110
+\pgfmath@box=\box27
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
@@ -528,16 +223,16 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count110
+\c@pgfmathroundto@lastzeros=\count111
 ))
 \pgffor@iter=\dimen125
 \pgffor@skip=\dimen126
 \pgffor@stack=\toks27
 \pgffor@toks=\toks28
 )
-\psLoopIndex=\count111
+\psLoopIndex=\count112
 
-`PSTricks' v2.71  <2016/12/23> (tvz)
+`PSTricks' v2.96  <2019/02/23> (tvz,hv)
 \pst@dima=\dimen127
 \pst@dimb=\dimen128
 \pst@dimc=\dimen129
@@ -548,26 +243,26 @@ thmetics.code.tex)))
 \pst@dimn=\dimen134
 \pst@dimo=\dimen135
 \pst@dimp=\dimen136
-\pst@hbox=\box27
-\pst@ibox=\box28
-\pst@boxg=\box29
-\pst@cnta=\count112
-\pst@cntb=\count113
-\pst@cntc=\count114
-\pst@cntd=\count115
-\pst@cntg=\count116
-\pst@cnth=\count117
-\pst@cntm=\count118
-\pst@cntn=\count119
-\pst@cnto=\count120
-\pst@cntp=\count121
-\@zero=\count122
+\pst@hbox=\box28
+\pst@ibox=\box29
+\pst@boxg=\box30
+\pst@cnta=\count113
+\pst@cntb=\count114
+\pst@cntc=\count115
+\pst@cntd=\count116
+\pst@cntg=\count117
+\pst@cnth=\count118
+\pst@cntm=\count119
+\pst@cntn=\count120
+\pst@cnto=\count121
+\pst@cntp=\count122
+\@zero=\count123
 \pst@toks=\toks29
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
 \psunit=\dimen137
 \psxunit=\dimen138
 \psyunit=\dimen139
-\pst@C@@rType=\count123
+\pst@C@@rType=\count124
 \pslinewidth=\dimen140
 \psk@startLW=\dimen141
 \psk@endLW=\dimen142
@@ -583,10 +278,10 @@ thmetics.code.tex)))
 \sh@wgridYunit=\dimen150
 \pst@shift=\dimen151
 )
-File: pstricks.tex 2016/12/23 v2.71 `PSTricks' (tvz,hv)
+File: pstricks.tex 2019/02/23 v2.96 `PSTricks' (tvz,hv)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
-File: pst-fp.tex 2016/12/23 v2.71 `PST-fp' (hv)
+File: pst-fp.tex 2019/02/23 v2.96 `PST-fp' (hv)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
@@ -615,39 +310,32 @@ LaTeX Font Info:    ... okay on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
+\scratchcounter=\count125
 \scratchdimen=\dimen152
-\scratchbox=\box30
-\nofMPsegments=\count125
-\nofMParguments=\count126
+\scratchbox=\box31
+\nofMPsegments=\count126
+\nofMParguments=\count127
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count127
+\MPscratchCnt=\count128
 \MPscratchDim=\dimen153
-\MPnumerator=\count128
-\makeMPintoPDFobject=\count129
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks33
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
@@ -656,15 +344,23 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
@@ -706,104 +402,1310 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `part5.aux'.
+\openout2 = `part0.aux'.
 
-(./part5.tex [281
+(./part0.tex
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+<Titel-Hell.jpg, id=1, 389.2944pt x 480.8364pt>
+File: Titel-Hell.jpg Graphic file (type jpg)
+<use Titel-Hell.jpg>
+Package pdftex.def Info: Titel-Hell.jpg  used on input line 16.
+(pdftex.def)             Requested size: 421.10886pt x 597.52962pt.
+ [1
 Non-PDF special ignored!
+<special> header=pstricks.pro
 Non-PDF special ignored!
+<special> header=pst-algparser.pro
 Non-PDF special ignored!
+<special> header=pst-tools.pro
 Non-PDF special ignored!
+<special> header=pst-dots.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 
 
 Non-PDF special ignored!
+<special> ps:tx@Dict begin { 0.0 0.0 } PutCoor PutBegin  end
 Non-PDF special ignored!
-Non-PDF special ignored!
+<special> ps:tx@Dict begin  PutEnd  end
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Titel-Hell.jpg>]
+[2
 
-
-
-
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-[282] [283
+] [3] [4
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 20.
+(Font)              <10.95> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
+(Font)              <8> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
-LaTeX Font Info:    Try loading font information for U+wasy on input line 20.
+(Font)              <6> on input line 76.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 76.
  (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 20.
+(Font)              <9> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 20.
- [284]
-[285] [286] [287] [288] [289] [290] [291] [292] [293] [294] [295] [296]
-[297] [298] [299] [300] [301] [302
+(Font)              <5> on input line 76.
+ [5]
+[6] [7] [8] [9] [10] [11] [12] [13]) [14] [15]
+\openout2 = `part1.aux'.
 
-] [303] [304] [305] [306] [307] [308]
-[309]
-Underfull \vbox (badness 2418) has occurred while \output is active []
-
- [310]
-[311] [312] [313] [314] [315] [316] [317] [318] [319] [320] [321] [322]
-[323] [324] [325] [326] [327]) [328]
-\openout2 = `part6.aux'.
-
- (./part6.tex [329
+ (./part1.tex [16
 
 
 
-] [330] [331
+] [17] [18]
+[19
 
-] [332]
-[333] [334] [335] [336] [337] [338] [339] [340] [341] [342] [343] [344]
-[345] [346] [347] [348] [349] [350] [351] [352
-
-] [353] [354] [355] [356]
-[357] [358] [359] [360] [361] [362]
+] [20] [21]
 Underfull \vbox (badness 1527) has occurred while \output is active []
 
- [363]
+ [22]
+[23] [24] [25] [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+[28] [29] [30]
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [31]
+[32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
+[47] [48] [49
+
+] [50] [51] [52] [53] [54] [55]) [56]
+\openout2 = `part2.aux'.
+
+ (./part2.tex [57
+
+
+
+] [58]
+[59
+
+] [60] [61] [62] [63] [64] [65] [66] [67]
+Underfull \hbox (badness 1259) in paragraph at lines 79--80
+[]\T1/ppl/m/n/10.95 ^^RArme Amé-lie^^P seufz-te sie. ^^RWas hast du her-aus-ge-
+fun-
+ []
+
+[68]
+Underfull \vbox (badness 4391) has occurred while \output is active []
+
+ [69]
+[70]
+Underfull \hbox (badness 1163) in paragraph at lines 106--107
+[]\T1/ppl/m/n/10.95 Nachdem der wil-de Mann wie-der in den Bü-schen ver-
+ []
+
+[71] [72] [73] [74] [75] [76]
+Underfull \hbox (badness 1194) in paragraph at lines 173--174
+\T1/ppl/m/n/10.95 -'Was machst du hier?' Wäh-rend die Wor-te in Dua-mu-
+ []
+
+[77] [78] [79] [80] [81
+
+] [82] [83]
+Underfull \hbox (badness 1052) in paragraph at lines 244--245
+[]\T1/ppl/m/n/10.95 Isis be-trat das Zim-mer ih-res Man-nes. Ei-ne gan-ze Schar
+
+ []
+
+[84] [85] [86] [87]
+Underfull \hbox (badness 1092) in paragraph at lines 295--296
+[]\T1/ppl/m/n/10.95 Amélie at-me-te tief ein. Sie sah die schwach er-leuch-te-t
+e
+ []
+
+[88]
+Underfull \hbox (badness 2103) in paragraph at lines 299--300
+[]\T1/ppl/m/n/10.95 Plötzlich be-rühr-te et-was har-tes, spit-zes ih-ren Fuss. 
+Sie
+ []
+
+[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107]) [108]
+\openout2 = `part3.aux'.
+
+ (./part3.tex [109
+
+
+
+] [110] [111
+
+] [112]
+[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126] [127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+ [129]
+[130] [131] [132] [133] [134] [135]
+Underfull \hbox (badness 1122) in paragraph at lines 219--220
+[]\T1/ppl/m/n/10.95 ^^RSchätzchen, ich ha-be da was für dich. Du musst dich
+ []
+
+[136] [137] [138] [139
+
+] [140] [141] [142]
+Underfull \hbox (badness 1072) in paragraph at lines 276--277
+\T1/ppl/m/n/10.95 war ne-ben Amé-lie ge-tre-ten und wies auf die häss-li-che,
+ []
+
+[143] [144] [145] [146] [147]
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [148]
+[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
+[161]
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [162]
+[163] [164] [165] [166]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 441.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+[]\T1/cmtt/m/n/10.95 21:05: Meldung in der Leitstelle: Der Portier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 des Hotels 'Troi Roi', Herr Häsler, meldet, dass
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 sich zwei auffällige Personen vor dem Restaurant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 'Lälle König' aufhalten. Sie seien nackt und würden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 einen grossen Vogel, vermutlich eine Gans, auf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 dem Kopf mit sich führen, die laut schrie. Sowie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 einen schwarzen Hahn und einen Hund, der sich
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 wie tollwütig benahm und dem Herr Häsler, als er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 nach dem rechten hatte sehen wollen, in die Wade
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmtt/m/n/10.95 gezwickt hatte. Vielleicht solle man den Tierschutz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+[]\T1/cmtt/m/n/10.95 21:15: Streifenwagen mit den Polizisten Moser
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 und Meyer trifft an der Schifflände ein. Von den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 beiden Ruhestörern ist nichts zu sehen. Es befinden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 sich viele Bürger auf der Strasse. Der Portier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 Häsler (siehe oben), Gäste aus dem 'Club de Bale,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 Passanten. Da viele Zeugen die Aussage von Herrn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 Häsler bestätigen (Liste der Zeugen im Anhang)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmtt/m/n/10.95 beschliessen die Polizisten Moser und Meyer die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+[]\T1/cmtt/m/n/10.95 21:30 Die Polizisten Moser und Meyer fahren langsam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+\T1/cmtt/m/n/10.95 den Marktplatz Richtung Barfüsserplatze hinauf.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+\T1/cmtt/m/n/10.95 Sie können keine verdächtigen Personen sehen. Die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+\T1/cmtt/m/n/10.95 Beamten beschliessen per Pedes die Gerbergasse zu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+[]\T1/cmtt/m/n/10.95 In der Nähe des Gerbergässleins auf dem kleinen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 Platz treffen die Beamten auf die beiden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 Verdächtigen. Sie haben sich direkt vor dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 Gerberbrunnen eingefunden. Sie liegen, verdeckt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 vom Mauervorsprung und dem Geländer am Boden und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 reden laut und aufgeregt miteinander. Die beiden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 Männer sind tatsächlich unbekleidet. Die Gans,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 oder der Ganter, watschelt auf dem Platz herum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 und betreibt Ruhestörung. In den Wohnung über dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 Bastelladen ist ein Fenster aufgegangen und ein
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 Bürger beschwert sich über den Lärm. Er beruhigt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\T1/cmtt/m/n/10.95 sich, als er sieht, dass die Beamten bereits vor
+ []
+
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+[]\T1/cmtt/m/n/10.95 Sobald sich die Beamten jedoch den Verdächtigen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 zuwenden, greift der Gänsevogel an. Er schnappt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 und schlägt mit den Flügeln. Auch ein Dackel ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 anwesend, der die Beamten mit fletschenden Zähnen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 angeht, sobald sie sich den Verdächtigen nähern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 wollen. Ferner ist auch ein schwarzer Hahn vor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 Ort, der für einen Hühnervogel, nach Meinung des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 Beamten Moser, sehr gross ist. Der Hahn verletzt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\T1/cmtt/m/n/10.95 die Beamtin Meyer am Arm, als diese versucht an ihm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+[]\T1/cmtt/m/n/10.95 Den Beamten bleibt nichts anderes übrig als die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\T1/cmtt/m/n/10.95 beiden Männer aus sicherer Distanz anzurufen. Diese
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\T1/cmtt/m/n/10.95 reagieren in keiner Weise auf die Ansprache der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\T1/cmtt/m/n/10.95 Beamten.In der Zwischenzeit haben sich weitere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\T1/cmtt/m/n/10.95 Fenster geöffnet. Die Anwohner beschweren sich,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\T1/cmtt/m/n/10.95 die Polizei solle endlich eingreifen und zwar ein
+ []
+
+[168]
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+[]\T1/cmtt/m/n/10.95 21:40: Die Beamten Meyer und Moser haben zwei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+\T1/cmtt/m/n/10.95 weitere Kollegen informiert und gerufen, da sie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+\T1/cmtt/m/n/10.95 sich den beiden Männern nicht nähern können, ohne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+\T1/cmtt/m/n/10.95 von der Gans, dem Hahn und dem Dackel angegriffen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+[]\T1/cmtt/m/n/10.95 Der Beamte Moser hat tiefe Kratzer im Gesicht
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+\T1/cmtt/m/n/10.95 erhalten, die von den Sporen des Hahnes stammen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+\T1/cmtt/m/n/10.95 während die Kollegin Meyer mehrfach von dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+\T1/cmtt/m/n/10.95 Dackel in die Wade gebissen wurde. Die Gans greift
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+[]\T1/cmtt/m/n/10.95 21:46: Ein Streifenwagen mit Martinshorn trifft
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+\T1/cmtt/m/n/10.95 mit den Beamten Schmied und Hofer ein. Die Beamten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+\T1/cmtt/m/n/10.95 haben, wie von Moser angefordert Fangnetze für die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+[]\T1/cmtt/m/n/10.95 Die Beamten Meyer, Hofer und Moser versuchen die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 Tiere mit den Netzen einzufangen. Die Gans ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 zu gross für das Netz, das für streunende Katzen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 gebraucht wird. Die Gans kann sich daraus befreien,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 sobald sie mit den Flügeln schlägt. Während die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 Gans wild mit den Flügeln schlägt, um sich aus dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 Netz zu befreien, trifft sie den Beamten Hofer am
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 Schienbein, worauf dieser zu Boden geht und von den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 Beamten Meyer und Moser unter weiteren heftigen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 Schlägen der Gans aus der Gefahrenzone befreit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 werden muss. Dabei hat sich der Dackel bei Meyer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 am Hosenbein festgebissen, wodurch die Beamtin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 den Kollegen Hofer loslässt und stürzt. Daraufhin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+\T1/cmtt/m/n/10.95 werden beide am Boden liegenden Beamte von Hund und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+[]\T1/cmtt/m/n/10.95 Währenddessen hat sich der Hahn bei Kollege Moser
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+\T1/cmtt/m/n/10.95 auf dem Kopf festgesetzt und diesen mit heftigen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+\T1/cmtt/m/n/10.95 Flügelschlägen bei der Rettung der Kollegen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+\T1/cmtt/m/n/10.95 behindert. Erst nach erheblicher Anstrengung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+\T1/cmtt/m/n/10.95 gelingt es dem Beamten Moser unter Verlust der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+\T1/cmtt/m/n/10.95 Brille und mit heftigem Nasenbluten, das durch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+\T1/cmtt/m/n/10.95 Flügelschlag verursacht wurde, den Hahn von seinem
+ []
+
+[169]
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+[]\T1/cmtt/m/n/10.95 Dann gelingt es dem Beamten Moser den Beamten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+\T1/cmtt/m/n/10.95 Hofer, der durch den Flügelschlag mit einem Bein
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+\T1/cmtt/m/n/10.95 nicht mehr auftreten kann, zum Streifenwagen zu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+\T1/cmtt/m/n/10.95 bringen und erste Hilfe zu leisten. Die Beamtin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+\T1/cmtt/m/n/10.95 Meyer kann den Dackel mit ihrem Stock abwehren und
+ []
+
+[170]
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+[]\T1/cmtt/m/n/10.95 22:15: Dank dem wagemutigen und intensiven Einsatz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+[]\T1/cmtt/m/n/10.95 kann sich der Beamte Schmied endlich den beiden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+\T1/cmtt/m/n/10.95 Männern nähern. Es wird höchste Zeit, den es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+\T1/cmtt/m/n/10.95 hat sich inzwischen eine wachsende Menschenmenge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+\T1/cmtt/m/n/10.95 aus den Anwohnern und Passanten gebildet. Diese
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+\T1/cmtt/m/n/10.95 beginnen mit ihren Smartphones Fotos zu schiessen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+[]\T1/cmtt/m/n/10.95 Die beiden Herren reagieren unfreundlich auf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 den Beamten Schmied, der sie aufgefordert hat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 ihre Papiere zu zeigen. Während der eine der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 beiden den toten Hundebalg vom Rücken nimmt,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 zeigt er keinerlei Reaktion. Der andere fragt auf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 alemannisch, ob der Polizist Schmied ihm vielleicht
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 sagen könne, wo er, zum Henker, ohne Taschen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 Papiere unterbringen soll. Ferner beleidigt er den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 Beamten mit den Worten: ,Ob er zu dusselig ist den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+\T1/cmtt/m/n/10.95 Wappenherold der Ehrengesellschaft zur Hären zu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+[]\T1/cmtt/m/n/10.95 Der Beamte Schmied ruft daraufhin über Funk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 zwei weitere Streifen und eine Sanität in die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 Gerbergasse. Da sich die Menschenmenge weiter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 vergrössert, brauchte es Beamten, die diese
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 auf Abstand halten. Durch die grosse Anzahl an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 Zivilpersonen, die sich im Kreis um den Platz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 angesammelt haben und die Beamten bei der Bändigung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 der wilden Tiere behindern, ist der Beamte Schmied
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 von den übrigen Kollegen isoliert worden. Er ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+\T1/cmtt/m/n/10.95 mit den beiden Verdächtigen in der Mauernische vom
+ []
+
+[171]
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+[]\T1/cmtt/m/n/10.95 22:50: Die zwei weiteren Streifen treffen ein. Die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+\T1/cmtt/m/n/10.95 Polizeiwagen versperren die Gerbergasse, um die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+\T1/cmtt/m/n/10.95 Verdächtigen an einer Flucht zu hindern und weitere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+[]\T1/cmtt/m/n/10.95 Der eine Nackte nimmt den Tierbalg von seinem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 Rücken, in diesem bewegt sich etwas. Der zweite
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 nackte Mann, der sich als Wappenherold bezeichnet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 hat, versucht nun den Beamten Schmied in ein
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 Gespräch zu verwickeln und vom seinem Partner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 fern zuhalten. Er hebt die Arme und ruft, es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 sei eine christliche Mission im Rahmen der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 Weihnachtsfeierlichkeit und sie dürften nicht
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 unterbrochen werden. Der Mann rudert und wedelt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 mit den Armen und Händen und versucht Platz zu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 machen. Er schnauzt den Beamten Schmied an,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 er solle dafür zu sorgen, dass nicht so viele
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 Passanten herumstünden. Als der Beamte Schmied
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 seine Pistole hebt, entschuldigt der Mann sich
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 für die Umtriebe, das wäre nicht geplant gewesen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 normalerweise würden sie beide, der andere Herr
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 Geb und er unsichtbar operieren und nicht soviel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 Volk anlocken. Andererseits fände er es schon toll,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/cmtt/m/n/10.95 dass die Basler offensichtlich ein Gespür für die
+ []
+
+[172]
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+[]\T1/cmtt/m/n/10.95 Der Mann wollte sich trotz mehrmaliger Aufforderung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 des Polizisten Schmied weder abführen lassen, noch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 den Ort verlassen. Polizist Schmied forderte den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 Mann weiterhin auf zu gehen. Da das nicht fruchtete
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 wollte er ihn in Gewahrsam nehmen und die beiden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 auf die Wache bringen. Sobald er jedoch den nackten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 Mann berühren wollte, flog plötzlich und unerwartet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/cmtt/m/n/10.95 ein riesiger Reiher aus dem Tierbalg des anderen
+ []
+
+[173] [174]
+Underfull \hbox (badness 1194) in paragraph at lines 520--521
+[]\T1/ppl/m/n/10.95 Amélie stürm-te die Stras-se hin-ter den Göt-tern her. Vor
+ []
+
+[175] [176] [177] [178] [179] [180] [181] [182]
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [183]
+[184] [185] [186] [187] [188] [189] [190] [191] [192] [193]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [194]
+[195]
+Underfull \hbox (badness 1122) in paragraph at lines 693--694
+[]\T1/ppl/m/n/10.95 Als Kat-ze hass-te Tef-nut Was-ser (im Ge-gen-satz zu ih-re
+r
+ []
+
+[196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207]
+[208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219]
+[220] [221] [222]
+Underfull \hbox (badness 1147) in paragraph at lines 963--964
+[]\T1/ppl/m/n/10.95 Ein schar-fer Wind blies ihm ent-ge-gen, das Fens-ter war
+ []
+
+[223]) [224]
+\openout2 = `part4.aux'.
+
+ (./part4.tex [225
+
+
+
+] [226] [227
+
+] [228] [229] [230] [231] [232]
+[233] [234] [235] [236] [237] [238]
+Underfull \hbox (badness 5578) in paragraph at lines 104--105
+[]\T1/ppl/m/n/10.95 Hansens Hahn tapp-te um Ber-tas Pan-tof-feln, die auf
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 104--105
+\T1/ppl/m/n/10.95 und ab wipp-ten, und ver-such-te die bei-den stum-men
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 104--105
+\T1/ppl/m/n/10.95 der vor dem Schreib-tisch ein ru-hi-ges Plätz-chen ge-fun-
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 104--105
+\T1/ppl/m/n/10.95 den hat-te, lag auf der Sei-te und schlief. Er schnarch-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 104--105
+\T1/ppl/m/n/10.95 te lei-se, wo-bei sei-ne Lef-zen hin-ge-bungs-voll vi-brier-t
+en,
+ []
+
+[239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250
+
+]
+[251] [252] [253] [254] [255] [256] [257] [258] [259] [260]
+Underfull \hbox (badness 1348) in paragraph at lines 278--279
+\T1/ppl/m/n/10.95 ver-däch-ti-ge Ge-räusche zu lau-schen und Tef stand kurz
+ []
+
+[261]
+Underfull \hbox (badness 1210) in paragraph at lines 288--289
+\T1/ppl/m/n/10.95 den. Wer möch-te schon mit dem Bauch durch fau-li-gen
+ []
+
+[262] [263] [264] [265] [266]
+Underfull \hbox (badness 1320) in paragraph at lines 332--333
+[]\T1/ppl/m/n/10.95 ,,Schnell! Zu Ser-ket in den Gang!'' rief Neith. ,,Schnell,
+
+ []
+
+[267]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [268]
+[269]
+Underfull \hbox (badness 1221) in paragraph at lines 367--368
+[]\T1/ppl/m/n/10.95 Sobald ih-re Gum-mis-tie-fel schlurf-ten, kratz-ten hin-ten
+ im
+ []
+
+[270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281]
+[282] [283]
+Underfull \hbox (badness 1019) in paragraph at lines 552--553
+\T1/ppl/m/n/10.95 vom Was-ser an-ge-trie-ben dreh-te, war noch or-dent-lich in
+ []
+
+[284]
+Underfull \hbox (badness 1009) in paragraph at lines 566--567
+[]\T1/ppl/m/n/10.95 Währendessen tau-mel-te der Ba-si-lisk sich um sich selbst
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 566--567
+\T1/ppl/m/n/10.95 zu fo-kus-sie-ren, was als Hahn schon schwie-rig ge-nug
+ []
+
+) [285]
+\openout2 = `part5.aux'.
+
+ (./part5.tex [286
+
+
+
+] [287] [288]
+Underfull \hbox (badness 1019) in paragraph at lines 10--11
+\T1/ppl/m/n/10.95 ,,Verda***t wir ha-ben nur Glück ge-habt!'' rief Thot und
+ []
+
+[289
+
+] [290] [291] [292] [293] [294]
+Underfull \hbox (badness 1642) in paragraph at lines 64--65
+\T1/ppl/m/n/10.95 wie-der ein Tag an dem ihm die Au-gen zu-fal-len woll-
+ []
+
+[295] [296] [297] [298] [299] [300] [301] [302] [303] [304] [305] [306]
+[307] [308] [309
+
+] [310]
+Underfull \hbox (badness 3396) in paragraph at lines 218--219
+\T1/ppl/m/n/10.95 Die Göt-ter schlen-der-ten im letz-ten Däm-me-rungs-schein
+ []
+
+[311] [312] [313]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [314]
+[315] [316] [317] [318]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [319]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [320]
+[321] [322] [323] [324] [325] [326] [327] [328] [329] [330] [331] [332]
+[333]) [334]
+\openout2 = `part6.aux'.
+
+ (./part6.tex [335
+
+
+
+] [336] [337
+
+] [338] [339] [340] [341]
+Underfull \hbox (badness 3612) in paragraph at lines 90--91
+[]\T1/ppl/m/n/10.95 Mit ei-nem Schlag wur-de ihr die Stil-le be-wusst. Und
+ []
+
+[342] [343] [344] [345] [346] [347] [348] [349] [350]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [351]
+[352] [353] [354] [355] [356] [357] [358] [359
+
+] [360] [361] [362] [363]
 [364] [365] [366] [367] [368] [369] [370] [371]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [372]
+Underfull \hbox (badness 1231) in paragraph at lines 452--453
+\T1/ppl/m/n/10.95 te kei-nen Mucks, ob-wohl er es frisch auf-ge-la-den hat-te.
+ []
+
+[373] [374] [375] [376] [377] [378]
 Underfull \hbox (badness 10000) in paragraph at lines 518--519
 
  []
 
-[372] [373])
+[379] [380]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [381]
+[382] [383] [384]
+Underfull \hbox (badness 2334) in paragraph at lines 590--591
+[]\T1/ppl/m/n/10.95 -Nimm das Tuch weg! Amé-lie zog vor-sich-tig an dem
+ []
+
+[385]) [386]
+\openout2 = `part7.aux'.
+
+ (./part7.tex [387
+
+
+
+] [388]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [374]
-[375] (./DieHorus.aux (./part0.aux) (./part1.aux) (./part2.aux) (./part3.aux)
-(./part4.aux) (./part5.aux) (./part6.aux) (./part7.aux) (./part8.aux)
+ [389
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[390])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [391
+
+]
+[392]
+\openout2 = `part8.aux'.
+
+ (./part8.tex [393
+
+
+
+] [394]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [395
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[396])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [397
+
+]
+[398]
+\openout2 = `part9.aux'.
+
+ (./part9.tex [399
+
+
+
+] [400]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [401
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[402])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [403
+
+]
+[404]
+\openout2 = `part10.aux'.
+
+ (./part10.tex [405
+
+
+
+] [406]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [407
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[408])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [409
+
+]
+[410]
+\openout2 = `part11.aux'.
+
+ (./part11.tex [411
+
+
+
+] [412]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [413
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[414])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [415
+
+]
+[416]
+\openout2 = `part12.aux'.
+
+ (./part12.tex [417
+
+
+
+] [418]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [419
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[420])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [421
+
+]
+[422]
+\openout2 = `part13.aux'.
+
+ (./part13.tex [423
+
+
+
+] [424]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [425
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[426]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [427
+
+]
+[428] [429
+
+] [430])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [431
+
+]
+Overfull \vbox (107.34488pt too high) has occurred while \output is active []
+
+
+[432]
+\openout2 = `reste.aux'.
+
+ (./reste.tex [433
+
+
+
+] [434] [435] [436] [437] [438] [439] [440] [441]
+[442] [443] [444] [445] [446] [447]
+Underfull \hbox (badness 3240) in paragraph at lines 163--164
+[]\T1/ppl/m/n/10.95 Amélie dach-te nach. -,Was hat Burk-hard für Ge-setz-te
+ []
+
+[448] [449]) [450]
+\openout2 = `index.aux'.
+
+ (./index.tex (./DieHorus.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
+ [451
+
+
+
+] [452] [453] [454]
+[455] [456] [457] [458] [459] [460] [461] [462])
+\tf@toc=\write3
+\openout3 = `DieHorus.toc'.
+
+ (./DieHorus.bbl [463] [464
+
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)) [465] (./DieHorus.aux (./part0.aux) (./part1.aux) (./part2.aux) (./part3.aux
+) (./part4.aux) (./part5.aux) (./part6.aux) (./part7.aux) (./part8.aux)
 (./part9.aux) (./part10.aux) (./part11.aux) (./part12.aux) (./part13.aux)
 (./reste.aux) (./index.aux)) ) 
 Here is how much of TeX's memory you used:
- 10238 strings out of 494829
- 171066 string characters out of 6176609
- 243474 words of memory out of 5000000
- 13326 multiletter control sequences out of 15000+600000
- 15202 words of font info for 40 fonts, out of 8000000 for 9000
+ 10270 strings out of 494467
+ 174488 string characters out of 6174031
+ 252960 words of memory out of 5000000
+ 13661 multiletter control sequences out of 15000+600000
+ 29845 words of font info for 59 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 39i,8n,40p,1455b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/felicitas/.texlive2016/texmf-var/fonts/pk
-/ljfour/jknappen/ec/ecti1095.600pk> </home/felicitas/.texlive2016/texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/felicitas/.texlive2016/texmf-va
-r/fonts/pk/ljfour/jknappen/ec/ecrm0600.600pk> </home/felicitas/.texlive2016/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/felicitas/.texlive201
-6/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/felicitas/.texli
-ve2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/felicitas/.
-texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk>
-Output written on DieHorus.pdf (95 pages, 245357 bytes).
+ 41i,8n,41p,1611b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ba
+se/8r.enc} </home/felicitas/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ectt1095.600pk> </home/felicitas/.texlive2018/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecrm0900.600pk> </home/felicitas/.texlive2018/texmf-var/fonts/pk/ljfour/jk
+nappen/ec/ecrm0600.600pk> </home/felicitas/.texlive2018/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecrm0800.600pk> </home/felicitas/.texlive2018/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecbx2488.600pk> </home/felicitas/.texlive2018/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/felicitas/.texlive2018/texmf-va
+r/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/up
+lri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb
+>
+Output written on DieHorus.pdf (465 pages, 1938795 bytes).
 PDF statistics:
- 608 PDF objects out of 1000 (max. 8388607)
- 239 compressed objects within 3 object streams
+ 1813 PDF objects out of 2073 (max. 8388607)
+ 1067 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
